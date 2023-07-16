@@ -30,9 +30,9 @@ start_time = time.time()
 categories = ["web-development", "data-science", "mobile-apps", "programming-languages", "game-development",
               "databases", "software-testing", "software-engineering", "development-tools", "no-code-development"]
 
-df = pd.DataFrame(columns=['분류', '강의명', '난이도', '가격(현재가격)','가격(원래가격)' '총소요시간', '강의소개']) 
+df = pd.DataFrame(columns=['분류', '강의명', '난이도', '가격(현재가격)','가격(원래가격)', '총소요시간', '강의소개']) 
 
-for category in categories[:1] : #test
+for category in categories :
     driver = uc.Chrome(use_subprocess=True, options=options)
     driver.get(f"https://www.udemy.com/ko/courses/development/{category}/?p=1&ratings=4.5&sort=popularity")
     time.sleep(5)
@@ -51,8 +51,12 @@ for category in categories[:1] : #test
             a_tag = box.find_element(By.TAG_NAME, 'a')
             urls = a_tag.get_attribute('href')
             # ~~\n초급자\n현재 가격\n₩17,000\n원래 가격\n₩88,000 형태로 box에서 정보 추출 확인
-            details=box.text.split("\n현재 가격\n")
-            levels=details[0].split("\n")[-1]
+            try:
+                details=box.text.split("\n현재 가격\n")
+                levels=details[0].split("\n")[-1]
+                
+            except IndexError:
+                continue
             try:
                 now_prices = details[1].split('\n')[0]
             except IndexError:
@@ -64,45 +68,46 @@ for category in categories[:1] : #test
             
             url_list.append((urls, levels, now_prices, raw_prices))
     # driver.quit()
-    print(url_list)
-    print(len(url_list), "개 강의 크롤링 시작")
-
+    # print(url_list)
+    print(category," : ", len(url_list), "개 강의 크롤링 시작")
+    
     # 5. 페이지별 강의 상세내용 크롤링 시작
     # driver = uc.Chrome(use_subprocess=True, options=options)
     for url, levels, now_prices, raw_prices in tqdm(url_list):
-        driver.get(url)
-        driver.maximize_window()
-        driver.implicitly_wait(5)  # 에러 방지를 위해 최대 5초 대기
-
-        # 5-1. 태그가 없는 경우, nan값을 할당하고 넘어가는 함수를 사용
-        def find_element_nan(driver, path):
+        if url != "https://udemy.wjtb.co.kr/insight/index?ref=right-rail&locale=ko_KR": #유데미 광고 페이지인 경우에는 크롤하지 않음
+            driver.get(url)
+            time.sleep(3)
+            driver.maximize_window()
+            # driver.implicitly_wait(5)  # 에러 방지를 위해 최대 5초 대기
+            time.sleep(3)
+            # 5-1. 태그가 없는 경우, nan값을 할당하고 넘어가는 함수를 사용
+            def find_element_nan(driver, path):
+                try:
+                    element = driver.find_element(By.XPATH, path)
+                    return element.text
+                except:
+                    return np.nan
+            
+            # hashtags = find_element_nan(driver, '//a[contains(@href, "topic")]')
             try:
-                element = driver.find_element(By.XPATH, path)
-                return element.text
+                hashtags_parent = driver.find_element(By.CLASS_NAME, 'topic-menu.topic-menu-condensed.ud-breadcrumb')
+                hashtags_a = hashtags_parent.find_elements(By.TAG_NAME, 'a')
+                hashtag = hashtags_a[-1].text
             except:
-                return np.nan
-        
-        hashtags = find_element_nan(driver, '//a[contains(@href, "topic")]')
-        # try:
-        #     hashtags_parent = driver.find_element(By.CLASS_NAME, 'topic-menu.topic-menu-condensed.ud-breadcrumb')
-        #     hashtags_a = hashtags_parent.find_elements(By.TAG_NAME, 'a')
-        #     hashtag = hashtags_a[-1].text
-        #     return hashtag
-        # except:
-        #     return np.nan
+                hashtag = np.nan
 
-        title = find_element_nan(driver, '//h1[@data-purpose="lead-title"]')
-        level = levels
-        now_price = now_prices
-        raw_price = raw_prices
-        lec_time = find_element_nan(driver, '//*[@id="udemy"]/div[1]/div[2]/div/div/div[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div/div/div[4]/div/div/ul/li[1]') 
-        body = find_element_nan(driver, '//*[@id="udemy"]/div[1]/div[2]/div/div/div[1]/div[6]/div/div[1]')
-        
-        # 5. csv 형태로 추출
-        new_row = {'분류': hashtags, '강의명': title, '난이도': level, '가격(현재가격)': now_price, '가격(원래가격)':raw_price,
-                    '총소요시간': lec_time, '강의소개': body, '출처': url}
-        df = pd.concat([df, pd.DataFrame(new_row, index=[0])], ignore_index=True)
-        df.to_csv('./udemy_ver01_230715.csv', index=False)
+            title = find_element_nan(driver, '//h1[@data-purpose="lead-title"]')
+            level = levels
+            now_price = now_prices
+            raw_price = raw_prices
+            lec_time = find_element_nan(driver, '//span[@data-purpose="video-content-length"]')
+            body = find_element_nan(driver, '//div[@class="component-margin what-you-will-learn--what-will-you-learn--1nBIT"]')
+            
+            # 5. csv 형태로 추출
+            new_row = {'분류': hashtag, '강의명': title, '난이도': level, '가격(현재가격)': now_price, '가격(원래가격)':raw_price,
+                        '총소요시간': lec_time, '강의소개': body, '출처': url}
+            df = pd.concat([df, pd.DataFrame(new_row, index=[0])], ignore_index=True)
+            df.to_csv('./udemy_ver01_230715.csv', index=False)
 
     driver.quit()
 
