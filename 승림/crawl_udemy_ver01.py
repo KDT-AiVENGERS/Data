@@ -32,7 +32,7 @@ categories = ["web-development", "data-science", "mobile-apps", "programming-lan
 
 df = pd.DataFrame(columns=['분류', '강의명', '난이도', '가격(현재가격)','가격(원래가격)', '총소요시간', '강의소개']) 
 
-for category in categories :
+for category in categories[0:1] :
     driver = uc.Chrome(use_subprocess=True, options=options)
     driver.get(f"https://www.udemy.com/ko/courses/development/{category}/?p=1&ratings=4.5&sort=popularity")
     time.sleep(5)
@@ -107,7 +107,7 @@ for category in categories :
             new_row = {'분류': hashtag, '강의명': title, '난이도': level, '가격(현재가격)': now_price, '가격(원래가격)':raw_price,
                         '총소요시간': lec_time, '강의소개': body, '출처': url}
             df = pd.concat([df, pd.DataFrame(new_row, index=[0])], ignore_index=True)
-            df.to_csv('./udemy_ver01_230715.csv', index=False)
+            df.to_csv('./udemy_0web_development_230716.csv', index=False)
 
     driver.quit()
 
