@@ -54,7 +54,7 @@ if restart == True:
     lec_count = current_info['lec_num'] + 1
 
 # 6. 불러온 변수 확인 후 크롤링 시작!
-print(f"크롤링 시작 : 👍 {current_info['category']} : 총 {current_info['last_page']}페이지 중 {current_info['page']}번째 페이지의 {current_info['lec_num']}번째 강의부터 수집 시작 ")
+print(f"크롤링 시작 : 👍 {current_info['category']} : 총 {current_info['last_page']}페이지 중 {current_info['page']}번째 페이지의 {lec_count}번째 강의부터 수집 시작 ")
 
 # 7. 카테고리(대분류) 돌기
 try:
@@ -111,11 +111,19 @@ try:
                 a_tag = box.find_element(By.TAG_NAME, 'a')
                 urls = a_tag.get_attribute('href')
                 try:
-                    details=box.text.split("\n현재 가격\n")
-                    levels=details[0].split("\n")[-1]
+                    level_list = ["모든 수준", "초급자", "중급자", "전문가"]
+                    details_level=box.text.split("\n")
+                    levels = np.nan
+
+                    for x in level_list:
+                        if x in details_level:
+                            levels = x
+                            break
+
                 except IndexError:
                     levels = np.nan
                 try:
+                    details=box.text.split("\n현재 가격\n")
                     now_prices = details[1].split('\n')[0]
                 except IndexError:
                     now_prices = np.nan
