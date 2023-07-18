@@ -110,14 +110,24 @@ try:
             for box in lec_boxes:
                 a_tag = box.find_element(By.TAG_NAME, 'a')
                 urls = a_tag.get_attribute('href')
-                lec_times = find_element_nan(box, '//div[@data-purpose="course-meta-info"]/span[1]')
-                levels = find_element_nan(box, '//div[@data-purpose="course-meta-info"]/span[3]')
-                now_prices = find_element_nan(box, '//div[@data-purpose="course-price-text"]/span[2]')
-                raw_prices = find_element_nan(box, '//div[@data-purpose="course-old-price-text"]/span[2]')
-                if urls != "https://udemy.wjtb.co.kr/insight/index?ref=right-rail&locale=ko_KR": #유데미 광고 페이지인 경우에는 크롤하지 않음
-                    url_list.append((urls, lec_times, levels, now_prices, raw_prices))
+                try:
+                    details=box.text.split("\n현재 가격\n")
+                    levels=details[0].split("\n")[-1]
+                except IndexError:
+                    levels = np.nan
+                try:
+                    now_prices = details[1].split('\n')[0]
+                except IndexError:
+                    now_prices = np.nan
+                try:
+                    raw_prices = details[1].split('\n')[2]
+                except IndexError:
+                    raw_prices = np.nan
 
-            for url_idx, (urls, lec_times, levels, now_prices, raw_prices) in enumerate(url_list):
+                if urls != "https://udemy.wjtb.co.kr/insight/index?ref=right-rail&locale=ko_KR": #유데미 광고 페이지인 경우에는 크롤하지 않음
+                    url_list.append((urls, levels, now_prices, raw_prices))
+
+            for url_idx, (urls, levels, now_prices, raw_prices) in enumerate(url_list):
                 if url_idx >= lec_count:
                     while True:
                         try:     
@@ -145,7 +155,7 @@ try:
                     level = levels
                     now_price = now_prices
                     raw_price = raw_prices
-                    lec_time = lec_times
+                    lec_time = find_element_nan(driver, '//span[@data-purpose="video-content-length"]')
                     body = find_element_nan(driver, '//div[@class="component-margin what-you-will-learn--what-will-you-learn--1nBIT"]')
                     language = find_element_nan(driver, '//div[@data-purpose="lead-course-locale"]')
                     url = urls
