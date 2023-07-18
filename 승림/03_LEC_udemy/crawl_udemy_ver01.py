@@ -6,7 +6,7 @@
 """
 # 🌟 각자 수집하기로 한 카테고리 index number의 시작 숫자, 끝 숫자를 하나씩 입력해주세요! (승림 : 1,2,3)(재현 : 4,5,6)(인호 : 7,8,9)
 # 7,8,9번을 담당했다면 start_idx = 7, end_idx = 9 입니다.
-start_idx = 1
+start_idx = 1 
 end_idx = 3
 
 # 🌟 중간에 코드가 끊겨서 다시 재시작하나요? 그러면 restart = True 로 변경해주세요. 변경하지 않으면 처음부터 다시 수집되니 주의해주세요!
@@ -28,9 +28,7 @@ import numpy as np
 import pickle as pkl
 from tqdm import tqdm
 
-# 2. 옵션설정
-# service = Service(executable_path=ChromeDriverManager().install())
-options = uc.ChromeOptions() 
+# 2. 실행시간 측정
 start_time = time.time()
 
 # 3. 데이터프레임 및 카테고리 정의
@@ -42,9 +40,10 @@ categories = ["web-development", "data-science", "mobile-apps", "programming-lan
 # 4. current_info를 저장할 pkl 파일 정보 생성
 current_info = {"category": categories[start_idx], "page": 1, "last_page": "(확인예정)", "lec_num": 0}
 lec_count = current_info['lec_num']
+
 # 5. 에러 때문에 중간부터 다시 시작하는 상황 대비
 if restart == True:
-    df = pd.read_csv(f"./udemy_{current_info['category']}_230717.csv") 
+    df = pd.read_csv(f"./udemy_{current_info['category']}_230718.csv") 
     with open('current_info.pickle', 'rb') as file:
         current_info = pkl.load(file)
 
@@ -57,9 +56,10 @@ if restart == True:
 # 6. 불러온 변수 확인 후 크롤링 시작!
 print(f"크롤링 시작 : 👍 {current_info['category']} : 총 {current_info['last_page']}페이지 중 {current_info['page']}번째 페이지의 {current_info['lec_num']}번째 강의부터 수집 시작 ")
 
-# 7. 카테고리를 돌면서
+# 7. 카테고리(대분류) 돌기
 try:
     for category in categories[start_idx:(end_idx + 1)]:
+        options = uc.ChromeOptions()
         driver = uc.Chrome(use_subprocess=True, options=options)
         last_page = current_info['last_page']
         if last_page == "(확인예정)":
@@ -93,78 +93,67 @@ try:
             with open('current_info.pickle', 'wb') as file:  # pickle 파일로 저장
                 pkl.dump(current_info, file)
             time.sleep(3)
-            lec_boxes = driver.find_elements(By.XPATH, '//div[@class="popper-module--popper--2BpLn"]')
+            lec_container = driver.find_element(By.XPATH, '//div[@class="filter-panel--paginated-course-list--A07TT"]')
+            lec_boxes = lec_container.find_elements(By.XPATH, '//div[@class="course-card--main-content--2XqiY course-card--has-price-text--1c0ze"]')
 
-            # 9. 페이지별 강의 상세내용 크롤링 시작
+            # 태그가 없는 경우, nan값을 할당하고 넘어가는 함수를 사용합니다.
+            def find_element_nan(driver, path):
+                try:
+                    element = driver.find_element(By.XPATH, path)
+                    return element.text
+                except:
+                    return np.nan
+                
+            # 9. 페이지별 강의 상세내용 크롤링 시작    
             url_list = [] #페이지마다 리셋
             for box in lec_boxes:
                 a_tag = box.find_element(By.TAG_NAME, 'a')
                 urls = a_tag.get_attribute('href')
-                # ~~\n초급자\n현재 가격\n₩17,000\n원래 가격\n₩88,000 형태로 box에서 정보 추출 확인
-                try:
-                    details=box.text.split("\n현재 가격\n")
-                    levels=details[0].split("\n")[-1]
-                except IndexError:
-                    continue
+                lec_times = find_element_nan(box, '//div[@data-purpose="course-meta-info"]/span[1]')
+                levels = find_element_nan(box, '//div[@data-purpose="course-meta-info"]/span[3]')
+                now_prices = find_element_nan(box, '//div[@data-purpose="course-price-text"]/span[2]')
+                raw_prices = find_element_nan(box, '//div[@data-purpose="course-old-price-text"]/span[2]')
+                url_list.append((urls, lec_times, levels, now_prices, raw_prices))
 
-                try:
-                    now_prices = details[1].split('\n')[0]
-                except IndexError:
-                    now_prices = np.nan
-
-                try:
-                    raw_prices = details[1].split('\n')[2]
-                except IndexError:
-                    raw_prices = np.nan
-                
-                url_list.append((urls, levels, now_prices, raw_prices))
-
-            for url_idx, (url, levels, now_prices, raw_prices) in enumerate(url_list):
+            for url_idx, (urls, lec_times, levels, now_prices, raw_prices) in enumerate(url_list):
                 if url_idx >= lec_count:
-                    if url != "https://udemy.wjtb.co.kr/insight/index?ref=right-rail&locale=ko_KR": #유데미 광고 페이지인 경우에는 크롤하지 않음
-                        while True:
-                            try:     
-                                driver.get(url)
-                                time.sleep(3)
-                                break
-                            except Exception as e:
-                                exception_name = type(e).__name__
-                                print(f"🥲 네트워크가 연결이 잘 안돼요... Exception: {exception_name}")
-                                time.sleep(3)
-                        current_info["lec_num"] = url_idx
-                        with open('current_info.pickle', 'wb') as file: # pickle 파일로 저장
-                            pkl.dump(current_info, file)
-                        driver.maximize_window()
-                        time.sleep(3)
-                        # 태그가 없는 경우, nan값을 할당하고 넘어가는 함수를 사용합니다.
-                        def find_element_nan(driver, path):
-                            try:
-                                element = driver.find_element(By.XPATH, path)
-                                return element.text
-                            except:
-                                return np.nan
-                        
-                        try:
-                            hashtags_parent = driver.find_element(By.CLASS_NAME, 'topic-menu.topic-menu-condensed.ud-breadcrumb')
-                            hashtags_a = hashtags_parent.find_elements(By.TAG_NAME, 'a')
-                            hashtag = hashtags_a[-1].text
-                        except:
-                            hashtag = np.nan
+                    while True:
+                        try:     
+                            driver.get(urls)
+                            time.sleep(3)
+                            break
+                        except Exception as e:
+                            exception_name = type(e).__name__
+                            print(f"🥲 네트워크가 연결이 잘 안돼요... Exception: {exception_name}")
+                            time.sleep(3)
+                    current_info["lec_num"] = url_idx
+                    with open('current_info.pickle', 'wb') as file: # pickle 파일로 저장
+                        pkl.dump(current_info, file)
+                    driver.maximize_window()
+                    time.sleep(3)
+                    
+                    try:
+                        hashtags_parent = driver.find_element(By.CLASS_NAME, 'topic-menu.topic-menu-condensed.ud-breadcrumb')
+                        hashtags_a = hashtags_parent.find_elements(By.TAG_NAME, 'a')
+                        hashtag = hashtags_a[-1].text
+                    except:
+                        hashtag = np.nan
 
-                        title = find_element_nan(driver, '//h1[@data-purpose="lead-title"]')
-                        level = levels
-                        now_price = now_prices
-                        raw_price = raw_prices
-                        lec_time = find_element_nan(driver, '//span[@data-purpose="video-content-length"]')
-                        body = find_element_nan(driver, '//div[@class="component-margin what-you-will-learn--what-will-you-learn--1nBIT"]')
-                        language = find_element_nan(driver, '//div[@data-purpose="lead-course-locale"]')
+                    title = find_element_nan(driver, '//h1[@data-purpose="lead-title"]')
+                    level = levels
+                    now_price = now_prices
+                    raw_price = raw_prices
+                    lec_time = lec_times
+                    body = find_element_nan(driver, '//div[@class="component-margin what-you-will-learn--what-will-you-learn--1nBIT"]')
+                    language = find_element_nan(driver, '//div[@data-purpose="lead-course-locale"]')
+                    url = urls
 
-                        # 8. csv 형태로 추출
-                        new_row = {'대분류': category, '소분류': hashtag, '강의명': title, '난이도': level, 
-                                '가격(현재가격)': now_price, '가격(원래가격)':raw_price, '총소요시간': lec_time, 
-                                '강의소개': body, '언어':language, '출처': url}
-                        df = pd.concat([df, pd.DataFrame(new_row, index=[0])], ignore_index=True)
-                        df.to_csv(f'./udemy_{category}_230717.csv', index=False)
+                    # 8. csv 형태로 추출
+                    new_row = {'대분류': category, '소분류': hashtag, '강의명': title, '난이도': level, 
+                            '가격(현재가격)': now_price, '가격(원래가격)': raw_price, '총소요시간': lec_time, 
+                            '강의소개': body, '언어': language, '출처': url}
+                    df = pd.concat([df, pd.DataFrame(new_row, index=[0])], ignore_index=True)
+                    df.to_csv(f'./udemy_{category}_230718.csv', index=False)
             lec_count = 0
         driver.quit()
 
