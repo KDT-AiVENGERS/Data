@@ -20,3 +20,9 @@
 
 - morphological_analysis.ipynb에서 형태소 분석 코드 작성
 - 승림님 udemy 크롤링 코드 돌리기 위해 pickle data와 함꼐 copy본 받아옴
+
+7.22 수정사항
+
+- 크롤링한 csv 파일 회의를 통해 지정한 column에 맞게 전처리후 concat 진행
+- 최종 데이터는 Data_Pretreatment/Data_result/pre_result.csv로 저장
+- udemy data pretreatmet를 위한 간단한 코드 작성(Carriculum_modify.ipynb)
