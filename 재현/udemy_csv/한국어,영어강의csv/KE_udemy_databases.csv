@@ -1,0 +1,1938 @@
+﻿대분류,소분류,강의명,난이도,가격(현재가격),가격(원래가격),총소요시간,강의소개,언어,출처
+databases,MySQL,【한글자막】 실무 활용 중심의 MySQL 부트캠프,초급자,"17,000","₩88,000",16.5시간 주문형 동영상,"배울 내용
+데이터 베이스 생성 및 활용하는 방법
+여러개의 테이블을 조회하는 복잡한 SQL 쿼리 작성법
+SQL을 활용해 데이터를 모델링하고 의미있는 보고서를 작성하는 법
+기업 성과와 매출을 데이터 기반으로 분석하고 의사 결정 내리는 법
+NodeJS에 MySQL을 연결해 웹앱 빌드하는 법",한국어,https://www.udemy.com/course/best-mysql-k/
+databases,Database Programming,너무 쉬운 데이터베이스(MSSQL) 입문,초급자,"17,000","₩69,000",5시간 주문형 동영상,"배울 내용
+관계형 데이터베이스, 비관계형 데이터베이스의 개념
+쇼핑몰 데이터베이스 디자인
+SQL 질의 언어
+고급 SQL 문장",한국어,https://www.udemy.com/course/so_easy_database/
+databases,MySQL,처음 시작하는 MySQL DataBase,모든 수준,"23,000",,6시간 주문형 동영상,"배울 내용
+본 과정에서는 MySQL 데이터 베이스에 대해 개발자 측면 부분을 학습하게 됩니다.
+MySQL 설치부터 다양한 기본 쿼리문, 그리고 데이터베이스 및 테이블을 관리하는 방법에 대해 학습하실 수 있습니다.
+본 과정을 마치면 다른 데이터베이스를 학습 하시거나 웹 개발, 모바일 개발 등에서 데이터를 관리할 때 응용하실 수 있습니다.",한국어,https://www.udemy.com/course/softcampus-mysql/
+databases,SQL,데이터 분석 필수 과정! MS SQL 로 실무 적용하기,모든 수준,"59,000",,3시간 주문형 동영상,"배울 내용
+데이터를 읽고 수정하고 적재하고 계산하는 작업을 효율적으로 할 수 있음
+원하는 데이터를 빠르고 편하게 계산해서 만들 수 있으며, 엑셀작업보다 시간을 단축할 수 있음
+자동으로 데이터를 클리닝하고 계산할 수 있음
+실무에서 자주 사용한 함수들을 배워 직장인과 취업을 준비하는 학생 모두에게 도움이 됨.
+SQL을 자유자재로 사용할 수 있음",한국어,https://www.udemy.com/course/cloom-ms-sql/
+databases,SQL,실무 SQL 완전정복 - SECTION 1 : SQL 시작하기,초급자,"23,000",,2시간 주문형 동영상,"배울 내용
+SQL이 왜 중요한지에 대해 이해합니다.
+SQL-Server를 설치하는 방법에 대해 학습합니다.
+본 시리즈에서 사용하는 실습 데이터베이스에 대해서 이해합니다.
+SQL에서 사용하는 산술/논리/비교 연산자에 대해 학습합니다.
+정렬하는 방법과 중복을 제거하는 방법에 대해 학습합니다.",한국어,https://www.udemy.com/course/sql-49-section-1/
+databases,SQL,실무 SQL 완전정복 - SECTION 2 : 단일 행 함수 마스터하기,모든 수준,"25,000",,3시간 주문형 동영상,"배울 내용
+SQL-Server에서 사용하는 다양한 문자열 함수에 대해 학습하고 응용 문제를 풀어봅니다.
+다양한 숫자 함수에 대해 학습하고 응용 문제를 풀어봅니다.
+다양한 날짜 함수에 대해 학습하고 응용 문제를 풀어봅니다.
+문자열 대체 함수인 TRANSLATE, REPLACE, STUFF를 비교합니다.
+문자열을 분할하거나 합치는 함수인 STRING_SPLIT와 STRING_AGG에 대해 학습합니다.
+조건처리 함수인 IIF와 CHOOSE 및 조건 처리 문장인 CASE...END에 대해 학습합니다.
+NULL 대체 함수인 ISNULL과 COALESCE를 비교합니다.",한국어,https://www.udemy.com/course/sql-49-section-2/
+databases,Oracle Database,Oracle SQL Database 11g PL/SQL Developer(오라클 데이터베이스 11G),모든 수준,"23,000",,8시간 주문형 동영상,"배울 내용
+본 과정은 오라클 데이터 베이스의 내용 중 개발자를 위한 부분만을 다루고 있습니다.
+이에 DBA가 알아야할 부분은 생략되어 있고 오로지 개발자만을 위한 강좌로 구성하였습니다.
+개발자가 데이터 베이스를 사용하는 소프트웨어를 개발하기 위해 학습해야 하는 부분을 단기간에 학습수 있도록 구성하였습니다.
+풍부한 예제를 통해 실무 적용 가능한 명령문 등을 학습 수 있으며 본 과정을 마치게 되면 Java를 이용한 웹 애플리케이션 개발인 Servlet/JSP를 학습하시는데 도움이 될 수 있습니다",한국어,https://www.udemy.com/course/softcampus-oracle11g/
+databases,SQL,실무 SQL 완전정복 - SECTION 5 : 하위 쿼리 마스터하기,모든 수준,"33,000",,2.5시간 주문형 동영상,"배울 내용
+하위 쿼리가 무엇이며, 사용 목적이 무엇인지에 대해 이해할 수 있습니다.
+하위 쿼리의 유형에는 어떤 것이 있으며, 어느 절에서 사용 가능한지에 대해 이해할 수 있습니다..
+비교 연산자를 사용한 단일 행 하위 쿼리를 작성할 수 있습니다.
+IN/NOT IN을 사용한 다중 행 하위 쿼리를 작성할 수 있습니다.
+ANY, SOME 또는 ALL을 사용한 다중 행 하위 쿼리를 작성할 수 있습니다.
+EXISTS/NOT EXISTS을 사용한 다중 행 하위 쿼리를 작성할 수 있습니다.
+상관 하위 쿼리를 작성할 수 있습니다.
+다중 중첩 하위 쿼리를 작성할 수 있습니다.
+SELECT절, HAVING절에서 사용되는 하위 쿼리를 작성할 수 있습니다.
+FROM절에서 사용되는 하위 쿼리인 인라인뷰를 작성할 수 있습니다.",한국어,https://www.udemy.com/course/sql-49-section-5/
+databases,SQL,실무 SQL 완전정복 - SECTION 4 : 조인 마스터하기(실습자료 및 문제풀이 포함),모든 수준,"27,000",,2.5시간 주문형 동영상,"배울 내용
+조인의 정의, 원리에 대해 학습합니다.
+ANSI-SQL 조인과 T-SQL 조인을 비교합니다.
+실습에서 사용하는 북풍 데이터베이스의 구조에 대해 이해합니다.
+이퀴 조인, 비이퀴 조인, 셀프 조인, 외부 조인, 크로스 조인에 대해 학습합니다.
+공통 테이블 식이 무엇인가, 왜 사용하는가에 대해 알아보고 비재귀적 CTE와 재귀적 CTE에 대해 학습합니다.
+재귀적 CTE를 사용하여 계층형 질의문을 작성하는 방법에 대해 학습합니다.",한국어,https://www.udemy.com/course/sql-49-section4/
+databases,SQL,실무 SQL 완전정복 - SECTION 3 : 집계 함수 마스터하기(실습자료 및 문제풀이 포함),모든 수준,"25,000",,2.5시간 주문형 동영상,"배울 내용
+집계함수를 사용하는 문법과 집계함수의 종류에 대해 학습합니다.
+중복을 제거한 레코드의 개수를 세는 법에 대해 학습합니다.
+소그룹으로 묶어서 요약하는 법에 대해 학습합니다.
+조건을 지정하여 집계하는 방법에 대해 학습합니다.
+WHERE절과 HAVING절을 비교하여 실습합니다.
+ROLLUP, CUBE, GROUPING SETS를 사용하여 소계와 총계를 한번에 구하는 법과 GROUPING을 사용하여 NULL을 구분하는 방법에 대해 학습합니다.
+행을 열로, 열을 행으로 바꾸는 PIVOT절과 UNPIVOT절에 대해 학습합니다.",한국어,https://www.udemy.com/course/sql-49-section3/
+databases,Apache Kafka,【한글자막】 Apache Kafka 시리즈 – 초보자를 위한 아파치 카프카 강의 v3,모든 수준,"17,000","₩23,000",8.5시간 주문형 동영상,"배울 내용
+아파치 카프카의 생태계와 구조, 핵심 개념과 작동 원리를 이해합니다.
+토픽과 파티션, 브로커, 프로듀서, 컨슈머 등 개념을 익힙니다.
+자신만의 카프카 개발 환경을 구축하기 시작합니다.
+kafka-topics, kafka-console-producer, kafka-console-consumer, kafka-consumer-groups, kafka-configs와 같은 주요 CLI를 배웁니다.
+자바(Java)에서 자기만의 프로듀서와 컨슈머를 생성해 카프카와 상호 작용합니다.
+실제 트위터 프로듀서와 ElasticSearch 컨슈머를 프로그래밍합니다.
+확장 API 개요(Kafka Connect, Kafka Streams)와 사례 연구, 빅데이터 구조를 알아봅니다.
+로그 컴팩션을 이해하고 실습해 봅니다.",한국어,https://www.udemy.com/course/apache-kafka-korean/
+databases,SQL,"실무 SQL 완전정복 - SECTION 7 : 데이터 조작어, 데이터 정의어 마스터하기",모든 수준,"27,000",,3시간 주문형 동영상,"배울 내용
+DML(INSERT, UPDATE, DELETE) 문법에 대해 학습합니다.
+데이터베이스를 생성하고, 변경하고, 삭제하는 방법에 대해 학습합니다.
+테이블 생성의 기본 문법 및 자동값 생성 방법, 자동 계산 컬럼 생성 방법, IDENTITY 속성, uniqueidentifier 데이터 형식에 대해 학습합니다.
+기존의 테이블을 사용하여 테이블을 생성하는 방법에 대해 학습합니다.
+PRIMARY KEY, NOT NULL, UNIQUE, CHECK, FOREIGN KEY, DEFAULT 등의 제약 조건을 설정하는 방법 및 FOREIGN KEY의 속성에 대해 학습합니다.
+컬럼/테이블 수준의 제약 조건 설정을 비교합니다.
+컬럼 추가/변경/삭제, 제약 조건 추가/삭제, 테이블 삭제 방법에 대해 학습합니다.
+북풍 데이터베이스에 제약조건을 설정하는 방법에 대해 학습합니다.
+SSMS에서 ERD를 생성하는 방법에 대해 학습합니다.",한국어,https://www.udemy.com/course/sql-49-section7/
+databases,MySQL,핵심만 쉽게 터득하는 SQL: MySQL 설치부터 AI 접목 SQL 스킬까지,초급자,"33,000",,5.5시간 주문형 동영상,"배울 내용
+데이터베이스와 스키마의 기본 개념
+SQL에 대한 전반적인 이론 및 형식
+다양한 함수 사용을 통한 SQL 역량 확보
+AI를 활용한 SQL 실전 활용 역량",한국어,https://www.udemy.com/course/maso-ds-sql-onc80/
+databases,MySQL,실습과 함께하는! 데이터베이스 MySQL편,모든 수준,"99,000",,10시간 주문형 동영상,"배울 내용
+DBMS와 RDBMS의 기본 개념을 이해 할 수 있다.
+윈도우용 MySQL를 설치하고, CLI(콘솔)실행 & 워크벤치 실행한다.
+SQL, CRUD 개념을 이해하고, 실습을 통해 CRUD에 대한 SQL 사용 방법을 습득한다.
+DBMS와 RDBMS의 사용법을 이해 할 수 있다.",한국어,https://www.udemy.com/course/mysql-ov_hihrd/
+databases,Amazon AWS,전문가에게 배우는 나의 첫 AWS,모든 수준,"119,000",,6.5시간 주문형 동영상,"배울 내용
+클라우드 컴퓨팅에 대한 전반적인 이해.
+AWS 클라우드 주요 서비스에 대한 이해.
+AWS 클라우드 주요 서비스와 사용 사례를 익힘
+AWS 클라우드 주요 활용방법을 익힘",한국어,https://www.udemy.com/course/first-aws_hihrd/
+databases,MySQL,"데이터지도 ERD를 그려보자, MySQL 워크벤치",초급자,"17,000","₩23,000",2.5시간 주문형 동영상,"배울 내용
+워크벤치를 활용해 ER모델을 그리기 위한 기본 지식과 예제들
+워크벤치에서 제공하는 I/E 표기법과 모델링 도구 상세 사용법
+모델로부터 테이블을 생성하는 Forward Engineer 기능
+모델에 데이터 담아 배포하기",한국어,https://www.udemy.com/course/erd-mysql/
+databases,MySQL,[생활코딩] DATABASE - MySQL #1,초급자,무료,,,,한국어,https://www.udemy.com/course/database-mysql-1/
+databases,Oracle Database,[생활코딩] DATABASE - Oracle #1,초급자,무료,,,,한국어,https://www.udemy.com/course/database-oracle-1/
+databases,Database Design,[생활코딩] DATABASE - lowdb,초급자,무료,,,,한국어,https://www.udemy.com/course/database-lowdb/
+databases,SQL,The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert,초급자,"17,000","₩79,000",36.5시간 주문형 동영상,"배울 내용
+Create your own database or interact with existing databases
+Write complex SQL join queries across multiple tables
+Master MySQL 8 Window Functions (LEAD, LAG, RANK, etc.)
+Model real-world data and generate reports using SQL
+Answer company performance or sales questions using data
+Learns the ins and out of MySQL 8.x syntax",영어,https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
+databases,SQL,SQL for Beginners: Learn SQL using MySQL and Database Design,초급자,"19,000","₩59,000",8시간 주문형 동영상,"배울 내용
+Have a detailed knowledge and understanding of using MySQL, one of the most widely used databases in the world.
+Obtained a knowledge of SQL, and MySQL, allows students to apply for jobs in the IT sector.
+In-depth knowledge of database design will give students an edge over other applicants.",영어,https://www.udemy.com/course/sql-for-beginners-course/
+databases,Apache Kafka,Apache Kafka Series - Learn Apache Kafka for Beginners v3,모든 수준,"22,000","₩109,000",8.5시간 주문형 동영상,"배울 내용
+Understand Apache Kafka Ecosystem, Architecture, Core Concepts and Operations
+Master Concepts such as Topics, Partitions, Brokers, Producers, Consumers
+Start a personal Kafka development environment
+Learn major CLIs: kafka-topics, kafka-console-producer, kafka-console-consumer, kafka-consumer-groups, kafka-configs
+Create your Producers and Consumers in Java to interact with Kafka
+Program a Real World Twitter Producer & ElasticSearch Consumer
+Extended APIs Overview (Kafka Connect, Kafka Streams), Case Studies and Big Data Architecture
+Practice and Understand Log Compaction",영어,https://www.udemy.com/course/apache-kafka/
+databases,MongoDB,MongoDB - The Complete Developer's Guide 2023,모든 수준,"59,000","₩79,000",17.5시간 주문형 동영상,"배울 내용
+Learn what document databases are and how data is organized with MongoDB
+Learn how to perform CRUD operations with MongoDB
+Don't stop at the basics - learn all about writing complex MongoDB queries, in-depth and with practical examples!
+Write efficient and well-performing queries to fetch data in the format you need it
+Use all features MongoDB offers you to work with data efficiently",영어,https://www.udemy.com/course/mongodb-the-complete-developers-guide/
+databases,Oracle SQL,The Complete Oracle SQL Bootcamp (2023),모든 수준,"17,000","₩79,000",36시간 주문형 동영상,"배울 내용
+Pass Oracle 1Z0-071 SQL Database SQL Certification Exam easily on your first try!
+Be Able to Answer any SQL Interview Questions Confidently!
+Become a Job-Ready SQL Developer by Learning All the Skills You will Need!
+Learn Oracle SQL by Professionally Designed Content Step by Step!
+Write, Read and Analyze Any SQL Queries Easily and Learn How to Play with Data!
+Solve any SQL-related Problems by Yourself Creating Analytical Solutions!
+Test Your SQL Skills with Hundreds of Hands-on Examples, Quizzes, Challenges!
+Lifetime Support from the Instructors. Get a Well-Organized Recap Document!",영어,https://www.udemy.com/course/oracle-sql-12c-become-an-sql-developer-with-subtitle/
+databases,MySQL,SQL for Data Analysis: Beginner MySQL Business Intelligence,모든 수준,"59,000","₩69,000",4.5시간 주문형 동영상,"배울 내용
+Write SQL queries to explore and analyze databases with MySQL Workbench
+Learn how to use SQL to extract, sort, filter, and group data quickly and efficiently
+Analyze data across multiple tables with powerful MySQL JOIN statements
+Solve practical hands-on assignments and real-world business use cases
+Master unique tips, tools and case studies that you won't find anywhere else
+Get LIFETIME access to resource files, quizzes, assignments, and expert support",영어,https://www.udemy.com/course/mysql-for-data-analysis/
+databases,SQL,SQL and PostgreSQL: The Complete Developer's Guide,초급자,"17,000","₩88,000",22시간 주문형 동영상,"배울 내용
+Master the fundamentals of relational databases
+Acquire the skills necessary to obtain a database administrator (DBA) or database developer job
+Design fast and efficient databases using the latest technologies
+Practice your skills with many quizzes, projects, and built-in exercises
+Learn and apply multiple database design patterns
+Optimize queries for superb read and write efficiency
+Understand how PostgreSQL stores information at the hardware level
+Connect PostgreSQL to front-end apps using an API
+Build common app features, such as a 'like' and 'mention' systems
+Handle complex concurrency issues and race conditions
+더 보기",영어,https://www.udemy.com/course/sql-and-postgresql/
+databases,Database Management,Fundamentals of Database Engineering,중급자,"79,000","₩99,000",25.5시간 주문형 동영상,"배울 내용
+Learn and understand ACID Properties
+Database Indexing
+Database Partitioning
+Database Replication
+Database Sharding
+Database Cursors
+Concurrency Control (Optimistic, Pessimistic)
+B-Trees in Production Database Systems
+Database System Designs
+Difference between Database Management System, Database Engine and Embedded database
+Database Engines such as MyISAM, InnoDB, RocksDB, LevelDB and More
+Benefits of Using one database engine over the other
+더 보기",영어,https://www.udemy.com/course/database-engines-crash-course/
+databases,Database Management,Data Integration Fundamentals,초급자,"19,000","₩23,000",3.5시간 주문형 동영상,"배울 내용
+Data integration basics - What is data integration and why it's important in the modern business environment
+How data integration skills can create more success in your non-technical career
+Why data integration is a great way to transition into a technology career
+Learn common approaches to Business-to-Business (B2B) integration including EDI, XML, JSON, Text files, FTP and AS2.
+Gain a detailed understanding of Application Integration technologies including HTTP, SOAP, REST APIs, and Webhooks.
+Learn about Database Integration techniques like data warehousing, data lakes Extract-Transform-Load (ETL), and replication.",영어,https://www.udemy.com/course/data-integration-fundamentals/
+databases,Server Administration,SQL Server Administration Part1,초급자,"17,000","₩49,000",10시간 주문형 동영상,"배울 내용
+Manage SQL Server Administration; install SQL Server in a Production environment following best practice, review storage, data and log files necessities, understand the importance of backups and restores, configure security and more",영어,https://www.udemy.com/course/sql-server-administration-part1/
+databases,SQL,Complete SQL and Databases Bootcamp: Zero to Mastery [2023],모든 수준,"59,000","₩79,000",24시간 주문형 동영상,"배울 내용
+Become an expert in SQL and Database Concepts
+Understand SQL vs NoSQL, MongoDB vs MySQL vs PostgreSQL
+Add SQL, PostgreSQL, MySQL, Redis, Database Management/Design to your resume
+Learn to perform efficient and performant SQL queries using best practices
+Learn how Machine Learning, Data Science and Data Engineers use Big Data and databases
+Apply for SQL developer, Database Administrator, Business Analyst, Backend Developer and Business Intelligence roles
+Use the right SQL features to work with data efficiently and solve database problems
+Database best practices to design and manage your company data
+더 보기",영어,https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/
+databases,Apache Nifi,Introduction to Apache NiFi | Cloudera DataFlow - HDF 2.0,초급자,"23,000","₩69,000",2시간 주문형 동영상,"배울 내용
+Install and configure Apache NiFi
+Design Apache NiFi Architecture
+Master core functionalities like FlowFile, FlowFile Processor, Connection, Flow Controller, Process Groups, etc.
+Use NiFi to stream Data between different systems at scale
+Monitor Apache NiFi
+Integrate NiFi with Apache Kafka
+Integration NiFi with MongoDB",영어,https://www.udemy.com/course/apache-nifi/
+databases,Database Design,Learn Database Design with MySQL,모든 수준,"20,000","₩25,000",6.5시간 주문형 동영상,"배울 내용
+To Learn Database design Process
+To Learn Database Normalization
+To Learn Database development using MySQL
+To Master SQL
+To Learn to use PHP with MySQL",영어,https://www.udemy.com/course/learn-database-design-with-mysql/
+databases,Oracle Database,The Ultimate Oracle SQL Course: SQL Made Practical,모든 수준,"20,000","₩26,000",13시간 주문형 동영상,"배울 내용
+You will be able to use Oracle SQL to retrieve, filter, analyze, format and present information from Oracle databases.
+You will be able to use SQL to insert, modify and delete information from Oracle databases.
+You will understand Oracle SQL code written by other people and feel confident to modify it.
+You will be able to write the SQL code needed to solve the most common problems found in real work situations and academic tests.
+Please note that PL/SQL is not covered in this course.",영어,https://www.udemy.com/course/oracle-sql-from-scratch/
+databases,SQL,SQL - Introduction to SQL with MySQL,초급자,"17,000","₩59,000",3시간 주문형 동영상,"배울 내용
+Manage and Interact with Large Datasets with SQL
+Provide Data in Order to Answer Top Questions for Meetings
+Create and Manage a MySQL Database
+Write Complex SQL Queries Using Table Joins
+Retrieve Proper Data from a Database Using a SQL WHERE Clause with Criteria",영어,https://www.udemy.com/course/sql-introduction-to-mysql/
+databases,SQL Server,Microsoft SQL Server 2012 Certification Training Exam 70-461,모든 수준,"20,000","₩25,000",12.5시간 주문형 동영상,"배울 내용
+To Study And Pass The Microsoft 70-461 Exam and Gain Certification For MCSA or MCSE",영어,https://www.udemy.com/course/microsoft-sql-server-2012-certification-70-461/
+databases,Server Administration,SQL Server Administration Part 2,초급자,"39,000","₩49,000",10시간 주문형 동영상,"배울 내용
+At the end of SQL Administration Part 2, the student will be able to create indexes for to gain performance, use the SQL Profiler to find and trouble shoot expensive queries, use the activity monitor for analysis, deploy the performance monitor to find specific about SQL Server internals, use DTA utility, create and investigate issues with DMVs and extended events, look at SQL logs, monitor the health of the SQL Server more efficiently and much more.",영어,https://www.udemy.com/course/sql-server-administration-part-2/
+databases,SQL Server,Learn T-SQL From Scratch For SQL Server Administrator,초급자,"20,000","₩25,000",8.5시간 주문형 동영상,"배울 내용
+Students will be able to create database, tables, view, stored procedures, filter data, update and delete information and be able to create complex joins of tables",영어,https://www.udemy.com/course/become-a-production-sql-server-administrator/
+databases,Database Administration,MySQL Database Administration: Beginner SQL Database Design,모든 수준,"59,000","₩69,000",7시간 주문형 동영상,"배울 내용
+Write SQL queries and use the MySQL Workbench UI to create databases and tables
+Learn how to alter tables by adding and removing columns
+Connect data between tables by creating primary and foreign key relationships
+Assign user roles and permissions to database users, just like a real DBA
+Solve practical hands-on assignments and real-world business use cases
+Master unique tips, tools and case studies that you won't find anywhere else
+Understand common Relational Database Management Systems (RDBMS)
+Get LIFETIME access to resource files, quizzes, assignments, and expert support",영어,https://www.udemy.com/course/mysql-dba-for-beginners/
+databases,Apache Cassandra,Getting Started With Apache Cassandra,모든 수준,"20,000","₩25,000",8시간 주문형 동영상,"배울 내용
+Gain a solid understanding of working with Apache Cassandra",영어,https://www.udemy.com/course/apache-cassandra/
+databases,DynamoDB,AWS DynamoDB - The Complete Guide (Build 18+ Hands On Demos),모든 수준,"48,000","₩59,000",16.5시간 주문형 동영상,"배울 내용
+Master DynamoDB from the ground up, covering everything from basic to adavanced DynamoDB with Hands On
+Learn to Integrate DynamoDB with Web Apps (SPAs) as well as Mobile Apps (iOS and Android Apps)
+Learn to use DynamoDB with AWS Services like Lambda, S3, Data Pipeline, Redshift, Apache Hive on EMR, CloudSearch, CloudTrail, Cognito, IAM and more
+Learn to securely connect to DynamoDB using OAuth 2.0 Authentication with AWS Cognito and Fine-grained access control
+Master Advanced DynamoDB features like DAX, Streams, Global Tables, Auto-Scaling, Backup and PITR
+Practice 18+ Hands-On Activities
+Learn DynamoDB Best Practices
+Learn DynamoDB Data Modeling",영어,https://www.udemy.com/course/dynamodb/
+databases,SSRS Reporting,SQL Server Reporting Services Part 1 (SSRS),초급자,"19,000","₩25,000",6시간 주문형 동영상,"배울 내용
+Install SQL Server 2016, Microsoft Visual Studio 2015, create from scratch simple to complex reports that allow the upper management and end users to make important business decisions based on the reports generated",영어,https://www.udemy.com/course/sql-server-reporting-services-part-1-ssrs/
+databases,SQL,SQL Tutorial: Learn SQL with MySQL Database -Beginner2Expert,모든 수준,"20,000","₩25,000",12.5시간 주문형 동영상,"배울 내용
+Use SQL queries to interact with relational database management system (RDBMS).
+Learn Database development & Structured Query Language fundamentals with MySQL.
+Write complex SQL statements to perform data analysis and query reports. Master MySQL 8 database development.
+You will learn SQL from basics to advanced topics. Like JOINS, Database Relationships, Database Normalization etc.
+You will learn a skill useful for professional Database Development. Also learn Database Modeling & Database Management.
+You will learn MySQL Workbench. It's a unified visual tool for database architects, developers, and Database Administrators.",영어,https://www.udemy.com/course/sql-tutorial-learn-sql-with-mysql-database-beginner2expert/
+databases,SQL Server,Complete Microsoft SQL Server Database Design Masterclass,모든 수준,"20,000","₩25,000",8.5시간 주문형 동영상,"배울 내용
+Basic Database Design (Tables, Columns, Data Types, Primary Keys, Normalization)
+Using Microsoft SQL Management Studio
+SELECT Statements: Queries against single tables (Filtering, Ordering, Grouping)
+DELETE: How to remove data from a database
+INSERT INTO: How to insert data into a table
+UPDATE: How to update existing data
+Filter groups of data using the HAVING clause
+Overall Database Development Best Practices
+Creating Relationships and Foreign Keys
+How to query related data from multiple tables
+Using Aggregate Functions in SQL
+How to export Query Results to Excel
+더 보기",영어,https://www.udemy.com/course/microsoft-sql-server-2017-for-everyone/
+databases,SQL,SQL Course For Beginners: Learn SQL Using MySQL Database,모든 수준,"17,000","₩23,000",4.5시간 주문형 동영상,"배울 내용
+Understand what are database and why they are used.
+How to write SQL queries to insert, update and delete data into database.
+How to write SQL queries to manipulate data.
+How to write complex SQL queries to obtain useful information from the database.
+Learn how to create database tables using SQL commands.
+Learn SQL operators to write complex SQL queries.
+Learn how to perform different types of join operations.
+Learn about different SQL functions and constrains.",영어,https://www.udemy.com/course/sqlcourse/
+databases,PostgreSQL,The Complete Python/PostgreSQL Course 2.0,중급자,"48,000","₩59,000",13.5시간 주문형 동영상,"배울 내용
+How to leverage the power of databases (in-memory, SQLite, and PostgreSQL) to upgrade your Python applications
+Prevent common pitfalls: avoid SQL injection attacks, store database credentials securely, and optimize the performance of your applications
+Understand how databases work and how to take advantage of their features from the ground up, by building multiple projects
+This is a no-nonsense, no-frills course on fully mastering PostgreSQL and how to use it effective within and outside of your Python apps
+Learn how to work with dates and times effectively in Python applications
+Produce engaging charts, graphs, and reports using database data",영어,https://www.udemy.com/course/complete-python-postgresql-database-course/
+databases,MongoDB,Complete MongoDB Administration Guide,모든 수준,"59,000","₩69,000",10.5시간 주문형 동영상,"배울 내용
+Deeply understand how MongoDB works - cursor, batch size, iterator
+Launch production database on the Atlas MongoDB - managed cloud-based MongoDB database
+Install and configure production MongoDB on the dedicated or virtual private server
+Understand and use different MongoDB BSON types - ObjectId, ISODate, NumberInt etc.
+Learn how to use MongoDB Shell, Robo 3T (Robomongo), MongoDB Compass for database management
+Perform different kinds of update operations using operators $set, $rename, $addToSet, $push, $inc etc
+Use different kinds of queries and query operators like $in, $eq, $regex, $elemMatch etc.
+Easily combine different aggregation stages like $match, $group, $unwind
+Understand purpose of the indexes and create indexes
+Use backup and restore tools - mongoexport, mongoimport, mongodump and mongorestore",영어,https://www.udemy.com/course/mongodb-essentials-m/
+databases,SQL Server,"SQL Server Essentials, from Scratch",초급자,"20,000","₩25,000",13.5시간 주문형 동영상,"배울 내용
+By the end of the course, you will have a foundation in SQL Server and the vocabulary and understanding to talk about and use SQL Server with confidence.
+You will know how to navigate SQL Server Management Studio (SSMS) to find database objects and business data.
+You will understand how to take advantage of Management Studio to make you work faster and more efficient.
+You will understand the different pieces in SQL Server. Including, Tables, Views, Stored Procedures, Security, Backups, Indexes and Schemas to help you talk to DBA's, Programmers, IT and to sound smart when you are speaking about databases.
+You will know how to write SQL statements to CREATE, Retrieve, Update, and Delete data.
+You will be able to create basic Views and Stored Procedures.
+You will be able to Filter, Join, Sort, and Group data.
+You will be able to create basic Views, Stored Procedures, and Functions.
+You will have foundational knowledge in Security, Backups, and Indexes
+You will understand how all of these pieces work together in a database.",영어,https://www.udemy.com/course/sql-server-essentials/
+databases,SQL,The Complete SQL Course 2023 - Learn by Doing - SQL Server,모든 수준,"59,000","₩79,000",13시간 주문형 동영상,"배울 내용
+How to write accurate SQL queries against a database
+Use SQL to perform data analysis
+Learn to perform GROUP BY Statements
+Learn how to join multiple tables - including complex joins
+Learn how to use window functions, correlated subqueries, set operators, CTEs and much more
+Best practices in SQL
+Replicate real-world situations and query reports
+How to create tables, views and stored procedures
+How to make your queries run faster by making them sargable
+Be comfortable putting SQL and SQL Server on your resume",영어,https://www.udemy.com/course/the-complete-sql-course-2021-learn-by-doing/
+databases,SQL,Database Management Systems Part 3 : SQL Interview Course,모든 수준,"17,000","₩23,000",10시간 주문형 동영상,"배울 내용
+You will become very familiar with the core concepts of SQL
+You will be able to challenge the interviewer on questions related to SQL
+You will view Computer Science in a different dimension
+You will be able to answer all questions of exams like GATE,PGEE,ISRO (after completing all parts of DBMS course
+You will be able to get a top grade in your Database Management systems course in your Bachelor's degree
+Understand how SQL works with Databases",영어,https://www.udemy.com/course/sql-interview-preparation-course/
+databases,SQL,"SQL - The Complete Developer's Guide (MySQL, PostgreSQL)",모든 수준,"17,000","₩69,000",19.5시간 주문형 동영상,"배울 내용
+Understand the core SQL syntax and concepts
+Be able to install MySQL & PostgreSQL + different clients
+Perform SQL CRUD operations
+Query and filter (simple and complex) data
+Normalize data and split data across multiple tables
+Merge data and perform data aggregation operations",영어,https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/
+databases,Oracle Database,Oracle Analytic Functions In-Depth & Advanced Oracle SQL,전문가,"19,000","₩59,000",9.5시간 주문형 동영상,"배울 내용
+Use SQL with aggregation operators.
+SQL for Analysis and Reporting functions
+Group and aggregate data using the ROLLUP and CUBE operators
+The GROUPING function
+Composite Columns and the concatenated Groupings
+RANK & DENSE_RANK
+PERCENT_RANK
+CUME_DIST (cumulative distribution)
+The LAG/LEAD Functions
+LISTAGG function
+Aggregate functions VS Analytic Part
+Aggregate functions & windowing clause In-Depth
+더 보기",영어,https://www.udemy.com/course/oracle-analytic-functions-in-depth/
+databases,SQL Server,SQL Server High Availability and Disaster Recovery (HA/DR),전문가,"19,000","₩25,000",44시간 주문형 동영상,"배울 내용
+By the end of the course, attendees will be able to understand the different SQL Server high availability and disaster recovery technologies - how they work and properly implement the right solution to address recovery objectives and service level agreements",영어,https://www.udemy.com/course/sqlserverhadrdeepdive/
+databases,Business Intelligence,Learn SSRS SQL Reporting & Business Intelligence Essentials,모든 수준,"19,000","₩25,000",3.5시간 주문형 동영상,"배울 내용
+By the end of this course, you will be able to create great SSRS reports.
+You will learn how to extract data from a database
+You will learn how to organize large amounts of data into concise reports
+You will learn how to use graphical display objects to make reports that stand out
+You will learn how to work smarter, not harder, by learning techniques that cut down on repetitive work",영어,https://www.udemy.com/course/exploring-ssrs-creating-great-reports/
+databases,SQL,The Advanced SQL Course,중급자,"17,000","₩59,000",6시간 주문형 동영상,"배울 내용
+Students will master advanced SQL functions and operations
+Analytical (Window) Functions
+Regular Expressions (RegEx)
+Materialized Views
+Group By Extensions
+Hierarchical Queries
+Common Table Expressions (CTEs)
+Advanced Subqueries
+Data Cleansing
+Data Manipulation",영어,https://www.udemy.com/course/the-advanced-sql-course-2021/
+databases,Microsoft SQL,Complete Microsoft SQL Server Masterclass:Beginner to Expert,모든 수준,"17,000","₩69,000",11시간 주문형 동영상,"배울 내용
+Start your career by mastering complete SQL statements in Microsoft SQL Server
+Queries and Files Included
+Learn different ways to select Records from Tables
+Filter the Records of the Table
+How to sort the result
+GROUP BY Clause
+Learn all aggregate Functions
+JOINs in table
+UNION and UNION ALL
+Create Tables
+Insert Records
+Update data inside table
+Modify the column and constraints
+The same set of SQL statements can be used with Oracle, PostgreSQL, MySQL, etc
+더 보기",영어,https://www.udemy.com/course/complete-microsoft-sql-masterclass-beginner-advanced/
+databases,MySQL,SQL Beginner to Guru: MySQL Edition - Master SQL with MySQL,모든 수준,"20,000","₩88,000",11.5시간 주문형 동영상,"배울 내용
+Become a SQL Guru! Be that 'go-to' person!
+Master SQL to create reports from realistic MySQL databases
+See how to aggregate and analyze data using SQL functions
+Create your own database through the power of SQL
+Understand How to Leverage Database Transactions
+Tune SQL statements for optimum performance
+Avoid common mistakes with SQL",영어,https://www.udemy.com/course/sql-beginner-to-guru-mysql-edition/
+databases,Oracle APEX,Learning Oracle Application Express ( Oracle Apex ) Training,모든 수준,"19,000","₩25,000",5.5시간 주문형 동영상,"배울 내용
+Users who wish to gain a solid understanding of Oracle Application Express",영어,https://www.udemy.com/course/oracle-application-express-oracle-apex-training/
+databases,SQL Server,SQL Server Reporting Services Part 2 (SSRS),초급자,"19,000","₩25,000",6.5시간 주문형 동영상,"배울 내용
+At the end of this course, the student will be able to understand how to configure, design, manage and deploy SSRS report to the Web Portal for users to view reports. He will be versed in managing and configuring the Report Builder for end users, design and create technically advanced Mobile Reports Publisher and initiate the security measures needed to secure the SSRS environment and much more",영어,https://www.udemy.com/course/sql-server-reporting-services-part-2-ssrs/
+databases,SQL,SQL Tutorial for Beginners - Learn SQL using 30 scenarios,초급자,"88,000",,2.5시간 주문형 동영상,"배울 내용
+Learn SQL quickly using 30 real world Scenarios- SQL Tutorial for Beginners
+Learn SQL using Azure Data Studio on Mac and Windows
+The ultimate practical course to help you master SQL as a beginner
+Model real-world scenarios and write SQL queries across multiple tables
+Developing SQL solutions for any given requirement.
+Start from scratch installing SQL Server on Mac and Windows in 2020 - latest
+Download and Restore a sample database(AdventureWorks) to SQL Server on Mac and Windows
+Download and Install Azure Data Studio on Mac and Windows",영어,https://www.udemy.com/course/sql-tutorial-for-beginners-learn-sql-using-30-scenarios/
+databases,Redis,Redis: The Complete Developer's Guide,모든 수준,"17,000","₩88,000",15.5시간 주문형 동영상,"배울 내용
+Use Redis as an incredibly fast database for a backend application
+Extend the functionality of Redis by using custom scripts and modules
+Add, update, and query your data using simple and flexible commands
+Get hands-on experience by adding Redis to a complex E-Commerce project
+Handle concurrency issues by using powerful synchronization primitives
+Utilize data streams to add durable communication between servers
+Host your Redis database in AWS, GCP, or Azure using Redis Cloud
+Analyze and balance the tradeoffs of Redis's different data structures",영어,https://www.udemy.com/course/redis-the-complete-developers-guide-p/
+databases,Oracle Database,Oracle Database Administrator DBA,모든 수준,"19,000","₩25,000",7시간 주문형 동영상,"배울 내용
+You would be able to install the necessary Oracle Software/Database
+Creating and Starting Oracle Database
+Creating A New Oracle Database User
+Database Concepts And Fundamentals
+Creating Tables on Oracle Database Administration
+Inserting, Updating and Deleting Data In The Table
+Retrieving Data From Table
+Filtering Result Set
+Sorting Data
+Limiting Result Set
+Using Ampersand Subtition To Make More Dynamic Queries
+Single Row Functions
+더 보기",영어,https://www.udemy.com/course/become-oracle-dbalearn-database-administration-from-scratch/
+databases,Microsoft SQL,Microsoft Access SQL: SQL for Non-Programmers,초급자,"19,000","₩25,000",3.5시간 주문형 동영상,"배울 내용
+Files & SQL Script Included!
+WRITE SQL Queries in Your Microsoft Access Databases
+CREATE Select Queries
+FILTER with the WHERE Clause
+SORT Your Access Records
+GROUP Your Records
+USE Aggregate Functions
+LEARN About Date Function
+GET Familiar with Functions You Can Use with Strings
+LEARN How to Join Tables
+CREATE Tables Using SQL
+INSERT Records Into Your Tables
+Use Action Queries Like:
+- UPDATE
+더 보기",영어,https://www.udemy.com/course/learn-access-sql-from-scratch/
+databases,CouchDB,Understanding CouchDB 3: Learn Basic & Advanced NoSQL Skills,모든 수준,"17,000","₩23,000",7시간 주문형 동영상,"배울 내용
+Install and configure CouchDB
+Understand differences between CouchDB and traditional databases
+Create and edit documents and databases
+Security options for CouchDB
+Work with design documents and Map/Reduce to query data
+Work with the Mango Query system to query data
+Utilize replication and clustering
+Perform many actions in bulk",영어,https://www.udemy.com/course/understanding-couchdb/
+databases,MongoDB,The Complete MongoDB Course 2023,초급자,"17,000","₩69,000",8시간 주문형 동영상,"배울 내용
+Have a detailed understanding of MongoDB databases and how they work
+Build knowledge across the MongoDB product ecosystem
+CRUD (Create, Read, Update, Delete) Operations
+Query data using the Aggregation Framework
+Have extensive hands-on experience with Query, Projection and Aggregation Pipeline Operators
+Use Indexes to make your queries more efficient
+Understand different approaches to modelling data in MongoDB (Embedding vs Referencing)
+Use Drivers to connect MongoDB to applications (featuring Python)",영어,https://www.udemy.com/course/the-complete-mongodb-course/
+databases,Microsoft SQL,Learn SQL with Microsoft SQL Server,초급자,"19,000","₩25,000",2시간 주문형 동영상,"배울 내용
+Understand and Use Databases
+Understand and Use SQL with Databases
+Know How To Install and Use Microsoft SQL Server",영어,https://www.udemy.com/course/learn-sql-with-microsoft-sql-server/
+databases,SQL Server,Microsoft SQL Server 2012 Certification Training Exam 70-462,모든 수준,"19,000","₩25,000",12시간 주문형 동영상,"배울 내용
+To Study And Pass The Microsoft 70-462 Exam and Gain Certification For MCSA or MCSE",영어,https://www.udemy.com/course/microsoft-sql-server-2012-certification-training-exam-70-462/
+databases,SQL,Sachin Quickly Learns (SQL) - Structured Query Language,중급자,"19,000","₩25,000",1.5시간 주문형 동영상,"배울 내용
+Learn SQL within 70 Min
+Understand and Create A Database
+Create Simple SQL Statments
+Create Complex SQL Statements
+Tips for Building SQL Statements Quickly",영어,https://www.udemy.com/course/sachin-quickly-learns-sql/
+databases,Hibernate,Hibernate and Spring Data JPA: Beginner to Guru,모든 수준,"17,000","₩69,000",27.5시간 주문형 동영상,"배울 내용
+Learn about the Java JPA Specification and the Hibernate JPA Implementation
+How to Query Data with JDBC, JDBC Template, Hibernate, and Spring Data JPA
+Learn how to use JPA's Object Relational Mapping (ORM) to map Java POJOs to relational database tables
+Understand JPA Relationships - One to One, One to Many, Many to One, and Many to Many
+How to persist data to a relational database using JPA and Hibernate
+How you can use Hibernate's Paging and Sorting features
+Understand Database Transactions and How you can control them
+Use Liqibase and Flyway to Manage Database Migrations
+Understand How to Implement the DAO pattern using JDBC, JDBC Template, Hibernate, and Spring Data JPA
+Learn to Generate Database Schemas from JPA Entities Using Hibernate
+더 보기",영어,https://www.udemy.com/course/hibernate-and-spring-data-jpa-beginner-to-guru/
+databases,SQL,Learn SQL in 6 days,모든 수준,"19,000","₩25,000",4.5시간 주문형 동영상,"배울 내용
+The primary objective is to make the individual utilizing this tutorial an expert in writing data retrieval statements.",영어,https://www.udemy.com/course/learnsql/
+databases,Microsoft Azure,Microsoft Azure Data Lake Storage Service (Gen1 & Gen2),초급자,"19,000","₩25,000",6.5시간 주문형 동영상,"배울 내용
+Microsoft Azure Data Lake
+Different tools and scenarios to ingest data in to Data Lake
+Data Lifecycle and Architecture around Data Lake
+Use Azure Databricks and HDInsight to process data in ADLS
+Five layers of security to protect Data Lake
+Monitor the performance of your Data lake
+Data Lake optimization Strategy",영어,https://www.udemy.com/course/microsoft-azure-data-lake/
+databases,SQL,MySQL Master,모든 수준,"17,000","₩23,000",10시간 주문형 동영상,"배울 내용
+You’ll learn from the basics to the advanced level on DataBases.
+You’ll acquire deep knowledge from scratch to advanced on the Structured Query Language (SQL).
+You’ll do practical and real exercises to obtain information from a DataBase.
+Everything on Stored Procedures to a high level.
+You’ll learn about about VIEWS in MySQL.
+You’ll learn how to program EVENTS in the MySQL engine.
+You’ll learn about one of the most popular free DataBase engine: MySQL.
+You’ll learn about one of the best client tools for the management of MySQL: HeidiSQL.
+You’ll have personalized support for your real life, work related, or thesis exercises.
+You’ll learn about TRIGGERS in MySQL.
+더 보기",영어,https://www.udemy.com/course/sql-mysql-database-sql/
+databases,SQL Server,SQL Server 2016 Administration,중급자,"19,000","₩39,000",6.5시간 주문형 동영상,"배울 내용
+At the end of this course, the student will be able to learn, configure, and manage the newest features of SQL Server 2016 administration such as data masking, temporal tables, polybase, row level security and much more",영어,https://www.udemy.com/course/sql-server-2016-administration-x/
+databases,Oracle Database,Connecting and working with Oracle Cloud DBaaS,초급자,"19,000","₩25,000",1시간 주문형 동영상,"배울 내용
+Creating, connecting and working with oracle cloud database using command line tool, toad for Oracle, SQL Developer and a C program.",영어,https://www.udemy.com/course/connecting-and-working-with-oracle-cloud-dbaas-using-toad-sqldeveloper/
+databases,PostgreSQL,PostgreSQL Database Administration on Windows/Linux- Part 2,모든 수준,"23,000","₩69,000",6.5시간 주문형 동영상,"배울 내용
+Replication & It’s Terminologies
+Log Based Shipping Standby
+Streaming Replication & Fail over
+Repmgr – Replication Manager
+Automatic Failover using Repmgr
+Node Rejoin
+Cascading Streaming Replication
+Logical Replication
+Cascading Logical Replication
+Tune PostgreSQL Server parameters
+Postgresql V15 - New Feature (Logical Replication)",영어,https://www.udemy.com/course/postgresql-v12-database-administration-on-winlinux-part-2/
+databases,AWS Lambda,AWS Lambda - A Practical Guide,모든 수준,"17,000","₩23,000",7.5시간 주문형 동영상,"배울 내용
+AWS Lambda Fundamentals
+A Practical Guide to Learning AWS Lambda Based on Real Life Experience
+Advanced Concepts Including Scaling, Concurrency, and Monitoring Tips
+Create, Code, and Deploy AWS Lambda Functions both in the console and with CDK
+3 Practical Projects Using a Combination of Console and CDK",영어,https://www.udemy.com/course/aws-lambda-a-practical-guide/
+databases,Database Management,Complete MySQL Database Administration Course,모든 수준,"17,000","₩69,000",28시간 주문형 동영상,"배울 내용
+You will be able to apply for SQL developer, Database administrator, Business Analyst, and Business Intelligence job opportunities
+You will learn 150+ SQL queries
+Administration of SQL database through Linux Operating System
+You will manage SQL servers in a corporate environment
+Troubleshoot everyday SQL database related issues
+Know how to answer specific business questions by using SQL’s aggregate functions",영어,https://www.udemy.com/course/complete-mysql-training-for-data-analysis-on-linux/
+databases,T-SQL,T-SQL Training with Real World Scenarios:Tricks of the Trade,중급자,"19,000","₩25,000",6시간 주문형 동영상,"배울 내용
+Feel more confident in handling real life scenarios and writing complex codes",영어,https://www.udemy.com/course/t-sql-training/
+databases,Microsoft Azure,Learn Azure Cosmos DB basics this weekend in 3 hour,초급자,"17,000","₩23,000",4.5시간 주문형 동영상,"배울 내용
+Azure Cosmos DB Basics
+Cosmos DB - How to Add or modify data from UI
+Cosmos DB - Partitioning, Multi-model, Consistency and other important concepts",영어,https://www.udemy.com/course/azure-cosmosdb/
+databases,Redis,Redis Bootcamp for Beginners: Get Hands On with Redis.,모든 수준,"17,000","₩59,000",10.5시간 주문형 동영상,"배울 내용
+Will have great hands on knowledge in latest Redis 6.
+Fully capable to use Blazingly Fast NoSql Database.
+Students will have solid understanding of Redis fundamentals
+Showcase Redis Knowledge in front of employers.
+Student will have solid understanding of deploying NoSql database.
+Be able to get solid foundation of Redis advance commands.",영어,https://www.udemy.com/course/redis-bootcamp-for-beginners/
+databases,Oracle E-Business Suite,Complete Course on XML Publisher Reports in Oracle Apps R12,모든 수준,"19,000","₩25,000",18시간 주문형 동영상,"배울 내용
+Methods to develop Xml Publisher reports in oracle apps r12
+Developement of reports using RDF Method and Datatemplate method and PLSQL method in oracle apps r12
+Base Tables for Oracle Reports in oracle apps r12
+User Parameters in oracle RDF Reports - Lexical and Bind Parameters in oracle apps r12
+Triggers in Oracle RDF and Datatemplate methods - Before and After reports triggers in oracle apps r12
+How to develope Master Detail Report in Xml Publisher Reports in oracle apps r12
+P_CONC_REQUEST_ID In Oracle RDF Reports in oracle apps r12
+Formulae Column and Summary Column and Place Holder Columns With Examples in oracle apps r12
+더 보기",영어,https://www.udemy.com/course/complete-course-on-xml-publisher-reports-in-oracle-apps-r12/
+databases,FileMaker,The Philosophy of FileMaker - Part 1,중급자,"23,000",,8.5시간 주문형 동영상,"배울 내용
+Design a multi-user solution
+Identify and create one-to-many, many-to-one, one-to-one and many-to-many relationships
+Create an Entity-Relationship diagram (ERD)
+Design according to the principals of anchor-buoy relational design
+Translate business systems from real-life to electronic using data modeling
+Create portals, filtered portals and filtered relationships
+Learn how to print properly in a multi-table environment
+Work with columns, merge fields, labels and a variety of other print mediums
+Create reports using sub summary parts and summary fields
+Learn how to script complex automations with decision making intelligence
+더 보기",영어,https://www.udemy.com/course/the-philosophy-of-filemaker-part-1/
+databases,SQL,SQL Server 2017 Express Basics,초급자,"19,000","₩25,000",6시간 주문형 동영상,"배울 내용
+Download and install SQL Server 2017 Express
+Download and Install SQL Server Management Studio 2017
+Write queries that control how many columns are displayed
+Write queries that summarize large quantities of data
+Understand how to choose different data types
+Create a table to represent an entity
+Insert records into tables
+Create indexes to ensure data integrity
+Learn how to restore databases
+Learn how clustered indexes operate
+Learn about SQL Server execution plans
+Learn about a variety of SQL functions
+더 보기",영어,https://www.udemy.com/course/basicsqlwithsqlserver2016/
+databases,PL/SQL,Oracle PL/SQL Fundamentals & Database Design--3course bundle,모든 수준,"17,000","₩59,000",21.5시간 주문형 동영상,"배울 내용
+Over 100 lectures and 20 hours of content
+Understand different types of databases
+Relate tables with IDs
+Understand normalization
+Introducing Database Program Units
+Creating and Maintaining Packages
+Work with DECLARE, BEGIN & EXCEPTION clause
+Understand and use nested blocks
+Use explicit cursors",영어,https://www.udemy.com/course/oracle-plsql-fundamentals-database-design-3course-bundle/
+databases,Microsoft SQL,Microsoft SQL Server 2017 Database Training For Beginners,초급자,"19,000","₩25,000",11시간 주문형 동영상,"배울 내용
+Start from scratch by installing Microsoft SQL Server 2017 and create a practice environment for yourself.
+You will be familiarized with some of the core concepts of RDBMS / SQL Server.
+You will learn the ins and outs of SQL Server Management studio.
+You will learn how to create and connect SQL server colud database using Amazon AWS and Microsoft Azure.
+You will learn how to create, alter and drop database.
+You will learn how to create, alter and drop tables.
+You will learn how to insert, update and delete records from tables.
+You will start constructing your SELECT statement to retrieve data from SQL Server.
+더 보기",영어,https://www.udemy.com/course/microsoft-sql-server-training-for-beginners/
+databases,SQL,SQL From Scratch Using Oracle SQL Developer and TOAD,초급자,"19,000","₩25,000",10.5시간 주문형 동영상,"배울 내용
+Choose the right logical operators for your queries
+Choose the right logical SET operators for your queries
+Write SQL Queries to extract data
+Write SQL Queries to modify data
+Write SQL Queries to delete data
+Write SQL Queries to create tables
+Write SQL Queries to extract data from multiple tables
+Write Advanced SQL Queries using analytic functions
+Write SQL Queries to generate reports",영어,https://www.udemy.com/course/sql-from-scratch-using-oracle-sql-developer-and-toad/
+databases,FileMaker,Filemaker Bookings and Reservation System,중급자,"17,000","₩48,000",11.5시간 주문형 동영상,"배울 내용
+Create a complete Filemaker database for any business that needs to rent, lend or hire items for a period of time.
+Create a complete solution for a hotel, motel or any kind of B&B situation.
+Use relationships to search for date related conflicts.",영어,https://www.udemy.com/course/filemaker-bookings-and-reservation-system/
+databases,SQL,SQL Programming and MySQL,모든 수준,"19,000","₩25,000",8시간 주문형 동영상,"배울 내용
+Fundamentals of SQL (Structured Query Language)
+Prepare for SQL Certification
+Become an SQL Developer / Application Developer / DBA
+Basics of Databases – Data Models and basic terminologies
+What is DBMS? Advantages and disadvantages of DBMS
+What is SQL? What can SQL do?
+SQL Process, ACID Properties, ER Model
+SQL Best Practices, Database Normalization
+Introduction to SQL - SQL Commands, SQL Constraints, Types of Keys, MySQL Hands-on
+SQL Basic Commands with demonstration
+Aggregation Functions, Regular Expression Functions
+Exists, Not Exists, Create Table like, Case when, NULL Functions
+더 보기",영어,https://www.udemy.com/course/sql-programming-and-mysql-developer-training/
+databases,Jenkins,"Rocking DevOps with Jenkins, Kubernetes, Ansible",모든 수준,"17,000","₩59,000",9시간 주문형 동영상,"배울 내용
+Learn concepts required to master DevOps, all in one course
+Setup DevOps CI/CD pipelines to build and deploy real-world projects
+DevOps prerequisites included - Linux, Git, Infra as Code, and Kubernetes essentials
+Interview guide to ace your DevOps interview",영어,https://www.udemy.com/course/rocking-devops-with-jenkins-kubernetes-ansible/
+databases,Redis,"Master Redis - From Beginner to Advanced, 20+ hours",모든 수준,"17,000","₩69,000",21.5시간 주문형 동영상,"배울 내용
+Learn with 20+ hours of hands-on practical exercises
+Deep dive into Redis Data Structures
+RediSearch, RedisInsights, RedisJSON
+Publish/Subscribe Models
+Replication and clustering
+Lua Scripting
+Redis Enterprise System
+Redis Administrations
+Using latest Redis 6.2
+Redis Database Design techniques
+Manage data replication and persistence
+Best practices, tips and tricks
+Whats new in Redis 6.2 and beyond",영어,https://www.udemy.com/course/masterredis/
+databases,Oracle Database,Full Oracle Database Administration with RAC,모든 수준,"17,000","₩59,000",21.5시간 주문형 동영상,"배울 내용
+We prepared this course of Oracle Database which includes not only database administration but also RAC (Real Application Clusters).
+Creating Tables in Oracle Database Administration
+You would be able to install the necessary Oracle Software/Database
+Creating and Starting Oracle Database
+Creating A New Database User
+Database Concepts And Fundamentals
+Inserting, Updating and Deleting Data In The Table
+Retrieving Data From Table
+Retrieving Data From Table
+Filtering Result Set in Oracle Database Administration
+더 보기",영어,https://www.udemy.com/course/full-oracle-database-administration-with-rac/
+databases,VMware vRealize,Learning vRealize Automation 7.2,초급자,"19,000","₩25,000",4시간 주문형 동영상,"배울 내용
+Understand the basic building blocks of vRealize Automation before embarking on the journey of installation
+Get a quick overview of the identity management components of vRealize Automation with the configuration with Microsoft Active Directory
+Carry out a functional validation of the first phase of installation before completing the installation
+Create, configure, and deploy tenants, endpoints, blueprints, and the service catalogLearn to configure the NSX loadbalancer for vRealize Orchestrator for high availability",영어,https://www.udemy.com/course/learning-vrealize-automation-72/
+databases,Data Analysis,Advanced T-SQL: Window Functions for Advanced Querying,중급자,"19,000","₩25,000",1.5시간 주문형 동영상,"배울 내용
+The concept of looking at data through a window
+The fundamentals of Window Functions
+How Window Functions compare to the traditional way of grouping data
+The different types of window functions available in SQL
+How to implement Window Functions
+Window Ranking Functions
+Window Aggregate Functions
+Window Offset Functions
+Window Statistical Functions",영어,https://www.udemy.com/course/sql-window-functions-for-advanced-querying/
+databases,SSRS Reporting,Learn SQL Reporting Services Beginning Report Training,초급자,"17,000","₩39,000",5.5시간 주문형 동영상,"배울 내용
+Video Lessons
+List Reports, Drill-Down Reports, Invoice Reports, Cross-Tab Reports
+Line Charts, Multiple Series Charts, Pie Charts
+Bubble Maps, Gauges, Dashboards
+Custom Invoices, Logos, Layouts
+Formatting
+Expressions
+Report Wizard
+Database Query Designer
+Much More!",영어,https://www.udemy.com/course/learn-sql-reporting-services-beginning-report-training/
+databases,Neo4j,Learn to build apps using Neo4j,중급자,"17,000","₩59,000",4시간 주문형 동영상,"배울 내용
+Mater the graph technology database Neo4J
+Learn the professional tips and tricks for Neo4J development
+Learn the use of graph databases
+Learn all about Cypher query language
+Learn all about Language drivers",영어,https://www.udemy.com/course/learn-to-build-apps-using-neo4j/
+databases,Oracle SQL,Learn Oracle SQL,모든 수준,"19,000","₩25,000",2.5시간 주문형 동영상,"배울 내용
+Write SQL Queries to interact with Oracle Databases
+Become a Database Developer
+Develop codes using Oracle SQL
+Understand the basics of Oracle RDBMS Architecture
+Progress towards Oracle SQL Certification
+Understand about Oracle 12c Database",영어,https://www.udemy.com/course/learn-oracle-sql/
+databases,Database Administration,"Database Engineer/DBA - (MySQL, MongoDB, SQLite)",초급자,"19,000","₩25,000",17.5시간 주문형 동영상,"배울 내용
+Creating Databases
+Creating Tables
+Creating Views
+Creating Stored Procedures
+Using subqueries
+Managing users and privileges
+Performing backups and restore
+Perform table  joins
+Perform aggregate functions
+Attaching Sample Database
+Querying data from all columns in a table
+Querying data from specific columns in a table
+Sorting data using ORDER BY clause
+Removing duplicate records
+Identifying NULL values
+Filtering data
+더 보기",영어,https://www.udemy.com/course/database-engineerdba-mysql-mongodb-sqlite/
+databases,MySQL,MySQL For Beginners: Real Database Experience Real Fast,초급자,"17,000","₩23,000",8시간 주문형 동영상,"배울 내용
+How to design your own new databases
+How to query existing databases for the exact information you want
+The SQL syntax without obsessive, robotic memorization
+How to avoid common mistakes that result in slow performance",영어,https://www.udemy.com/course/mysql-for-beginners-real-database-experience-real-fast/
+databases,SQL,The Complete SQL Bootcamp 2023 - Data Querying Essentials,모든 수준,"19,000","₩25,000",11시간 주문형 동영상,"배울 내용
+Learn how to query data from databases using SQL on your own machine and within your own database
+Learn fundamental SQL syntax that enables you to query database tables in any way imaginable
+Learn about Data Aggregations and perform them using SQL (SUM / COUNT / MIN / MAX / AVERAGE / GROUP BY / HAVING)
+Learn how to join multiple tables in a variety of ways - (LEFT / RIGHT / INNER / FULL / UNION / UNION ALL / INSERSECT / MINUS)
+Learn database management techniques - (CREATE / REPLACE / UPDATE / DELETE)
+Learn how to work with Date information (extracting, filtering, formatting)
+Learn how to generate your own columns of data within a result set
+Learn about Arithmetic & Comparison operators
+더 보기",영어,https://www.udemy.com/course/mysql-bootcamp/
+databases,SQL,SQL–MySQL Complete Master Bootcamp | Beginner-Expert (2023),모든 수준,"19,000","₩25,000",19.5시간 주문형 동영상,"배울 내용
+Write complex queries with View, Stored Procedure, Trigger, Transaction, User-defined Function, Session, Table Locking and many more
+Start from beginner level to expert level and build real-world report with SQL
+Use Python to create databases, tables and write queries. Use tableau to report your data
+Write complex queries to retrieve information from single and across multiple tables by using Nested & Correlated Subqueries
+Write complex queries to retrieve data across multiple tables by using Left, Right, Inner and Full Outer joins queries
+Learn by doing tons of real-world SQL projects, challenges & assignment with solutions
+Learn to use complex sorting, filtering, extracting and aggregating queries to analyse data
+Pass your next BI , Data Analysts and Data Science Interviews and Vivas
+This SQL MySQL tutorial cover SQL Foundations, SQL beginners, SQL intermediate and SQL expert levels training
+Join and retrieve data from One, Two, Three, Four, Five, Six, Seven, Eight, Nine and Ten tables",영어,https://www.udemy.com/course/the-complete-sql-master-bootcamp-sql-database-beginner-to-mysql-expert/
+databases,AWS Databases,RDS PostgreSQL and DynamoDB CRUD: AWS with Python and Boto3,모든 수준,"19,000","₩25,000",4시간 주문형 동영상,"배울 내용
+You'll be able to implement any sort of infrastructure on AWS with Python using RDS and DynamoDB!
+You'll learn how to code against AWS API using Python and Boto3!
+You'll learn how to launch and configure Relational Database Instances (RDS) on AWS using Python and Boto3!
+You'll learn how to connect to RDS PostgreSQL instances on AWS using Python and psycopg2!
+You'll learn how to implement Create, Read, Update and Delete (CRUD) operations on RDS PostgreSQL using Python and psycopg2 library!
+You'll learn how to create and configure NoSQL DynamoDB Tables on AWS using Python and Boto3
+You'll learn how to implement Create, Read, Update and Delete (CRUD) operations on DynamoDB using Python and Boto3!
+You'll be confident to work with AWS APIs using Python for any kind of AWS resource on RDS and DynamoDB!",영어,https://www.udemy.com/course/aws-with-python-and-boto3-rds-postgresql-and-dynamodb-crud/
+databases,SQL Server,SQL SERVER Procedures&Concepts - Raise Above Beginner Level,모든 수준,"19,000","₩25,000",5.5시간 주문형 동영상,"배울 내용
+Understand the concept of a Stored Procedure in a practical manner and embed inside of it other concepts like:
+Cursors, Dynamic Queries, Pivots, XML Parsing, Clauses and others
+Gain programming creativity
+Build self-confidence in working with Stored Procedures and advanced concepts",영어,https://www.udemy.com/course/ms-sql-server-t-sql-concepts-raise-above-beginner-level/
+databases,FileMaker,Learning FileMaker - Practical Techniques,모든 수준,"19,000","₩25,000",6시간 주문형 동영상,"배울 내용
+Learn How To Get The Most From FileMaker",영어,https://www.udemy.com/course/filemaker-training/
+databases,SQLite,SQLite Databases | Python Programming: (Build App and API ),초급자,"19,000","₩59,000",9.5시간 주문형 동영상,"배울 내용
+Build an app with Python and SQLIte
+Build an API from scratch
+Create and activate a virtual environment
+Create database and table
+Create application Graphical User Interface -GUI
+Connect Python application GUI to SQLite Database
+Perform CRUD Operations from app GUI
+Query and fetch data from a database table
+Sort data returned from a database
+SQLite Operators
+Add new records into a table
+Python Variables and Conditional Statements
+Python Functions and Loops
+Python Dictionary and Lists
+더 보기",영어,https://www.udemy.com/course/sqlite-databases-python-programming-build-app-and-api/
+databases,FileMaker,Filemaker Attendance tracking,초급자,"17,000","₩48,000",9.5시간 주문형 동영상,"배울 내용
+Build their own Filemaker attendance tracking solution for use in their own school, hobby center, church or wherever you need attendance tracked.
+Create basic Filemaker tables, add fields and create relationships.
+Make beautiful Filemaker layouts and add all kinds of fun features.",영어,https://www.udemy.com/course/filemaker-attendance-tracking/
+databases,SQL,SQL Bootcamp - Hands-On Exercises - SQLite - Part I,초급자,"19,000","₩25,000",28분 주문형 동영상,"배울 내용
+solve 150 exercises using the SQL language
+test yourself in DQL (Data Query Language)
+test yourself in creating and executing database queries
+test yourself in sorting, filtering and grouping data
+test yourself in joining tables and creating subqueries.
+test yourself in creating complex queries
+deal with real programming problems
+work with documentation and Stack Overflow
+guaranteed instructor support",영어,https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-i/
+databases,Server Administration,SQL Server Administration (Mock Internship Program Part1),중급자,"19,000","₩25,000",6.5시간 주문형 동영상,"배울 내용
+At this end of the course, the student will have the necessary ‘experience’ in managing, configuring, installing, deploying, and creating a SQL Server environment to enhance the knowledge gained by the 7 courses.",영어,https://www.udemy.com/course/sql-server-administration-mock-internship-program-part-1/
+databases,Microsoft Access,Microsoft Access SQL: SQL from Absolute Beginners To Expert,모든 수준,"19,000","₩25,000",6시간 주문형 동영상,"배울 내용
+Accelerate your career by mastering all the SQL statements in Microsoft Access
+Queries and Files Included
+Master different ways of SELECT statements
+How to select Unique Records?
+Filter the result using WHERE clause
+Master all the Operators that can be used with WHERE clause
+Different ways to SORT the Result
+How to LIMIT the result
+GROUP BY clause
+Execute all aggregate Functions
+Create table with all the constraints
+Advanced ways to join Table
+Merge columns from multiple columns
+Create Primary key and Foreign key
+더 보기",영어,https://www.udemy.com/course/microsoft-access-sql-beginners-expert/
+databases,Python,Create a Python Application to connect to multiple databases,초급자,"19,000","₩25,000",6시간 주문형 동영상,"배울 내용
+Install and setup multiple database systems
+Create virtual environments
+Install database connector drivers for multiple database systems
+Create Python Application GUI Frontend
+Create database and table in multiple database systems
+Create a class and methods in Python File
+Import and use Python Modules
+Create database connection configuration file
+Interact with databases from Python Application GUI
+Perform various database operations from Python App GUI",영어,https://www.udemy.com/course/create-a-python-application-to-connect-to-multiple-databases/
+databases,Server Administration,SQL SERVER ADMINISTRATION: GETTING A JOB,초급자,"19,000","₩25,000",1시간 주문형 동영상,"배울 내용
+At the end of this course, the students that have taken my pre requisites courses will be able to ‘view the path’ that will allow them to expose their experience and resume to recruiters and employers that require SQL Server Production Administrators",영어,https://www.udemy.com/course/sql-server-administration-getting-a-job/
+databases,MongoDB,Introduction to MongoDB for Data Analytics,초급자,"19,000","₩25,000",6시간 주문형 동영상,"배울 내용
+MONGODB BASICS:
+Create your own databases from scratch
+Learn MongoDB Architecture: databases, documents, collections, key-value pairs
+Use CRUD operations in the mongo shell
+DATABASE DESIGN:
+Use Embedded Documents to represent relationships in data
+Use various data structures to design a database for a blogging website case study
+DATA ANALYSIS
+Analyze real world datasets with projection, sorting, and filtering
+Use query operators to examine correlations between features in data",영어,https://www.udemy.com/course/introduction-to-mongodb/
+databases,SQL Server,sql server tutorial,초급자,"19,000","₩25,000",7시간 주문형 동영상,"배울 내용
+SQL Server installation, creating entities like database , tables , rows and columns. Covers fundamentals like primary key,foreign key , referential integrity , constraints , normalization ( first , second and third normal forms), Denormalization,OLTP , OLAP, StarSchema and SnowFlake design.
+Writing DML and DDL query like inner join,left join,right join, outer join, union , co-related queries, union all, alias,case statements,cartesian,ISNULL, aggregate( sum/count),wild card , top, order by, create , insert, bulk insert , update , backup , restore,ISNULL,Coalesce,Row_Number, Partition, Rank ,DenseRank , Pivot and Unpivot.
+Understanding importance of indexes , how it makes our search faster , non-clustered indexes vs clustered indexes , page splits in indexes and column store indexes.
+Triggers,Insteadof , After trigger ,Inserted , deleted tables ,Stored Procedures,CDC,8 KB page and SQL Server agent.",영어,https://www.udemy.com/course/sql-server-sql/
+databases,MySQL,"Top Database Bundle: MySQL, PostgreSQL, SQLite3, SQL Server",초급자,"19,000","₩25,000",7시간 주문형 동영상,"배울 내용
+Understand how to use MySQL Databases With Python
+Understand how to use PostgreSQL Database with PgAdmin 4
+Understand how to use SQLite Databases With Python
+Understand and Use Microsoft SQL Server
+Understand the basics of what a Database can do
+You'll Learn How To Create a Database and Table
+How to put data in and take data out
+How to update and delete data from the database
+How to explore what's in the database whenever you want
+How to create basic reports with the data from your database",영어,https://www.udemy.com/course/top-database-bundle-mysql-postgresql-sqlite3-sql-server/
+databases,FileMaker,Filemaker Time Registration for Freelancers,초급자,"17,000","₩49,000",7.5시간 주문형 동영상,"배울 내용
+Build their own Filemaker solution to manage time spent on various job for various clients.
+Create basic filemaker tables, fields and relationships.
+Make beautiful and practical Filemaker layouts and add all kinds of fun features.",영어,https://www.udemy.com/course/filemaker-time-registration-for-freelancers/
+databases,MySQL,"Mastering SQL (Using MySQL, Java, and Go)",모든 수준,"19,000","₩25,000",21시간 주문형 동영상,"배울 내용
+Write complex queries to address organizations business queries
+Perform data analysis using SQL
+Design and implement your own database (mainly using MySQL and partially using PostgreSQL)
+Create tables, views, triggers, stored programs, and cursors
+Design and implement four sample databases
+Connect MySQL / PostgreSQL to Java and Go (Google Golang)",영어,https://www.udemy.com/course/sql-for-developers-mysql-java-go-postgresql/
+databases,SQL Server,"SQL Server | Oracle Engineer - (TOAD, SSMS,Data Migration)",초급자,"19,000","₩25,000",9.5시간 주문형 동영상,"배울 내용
+Setup SQL Server Database Server
+Setup Oracle Database Server
+Interacting with SQL Server using SSMS
+Interacting with Oracle using TOAD
+Interacting with Oracle using SQL Developer
+Creating databases and tables
+Creating stored procedures
+Manipulating Databases
+Implementing Database Security
+Backing up and restoring database
+Monitoring database server performance
+Database Migration
+Database Table Joins",영어,https://www.udemy.com/course/sql-server-oracle-engineer-toad-ssmsdata-migration/
+databases,Hadoop,Java Parallel Computation on Hadoop,모든 수준,"17,000","₩23,000",3시간 주문형 동영상,"배울 내용
+Know the essential concepts about Hadoop
+Know how to setup a Hadoop cluster in pseudo-distributed mode
+Know how to setup a Hadoop cluster in distributed mode (3 physical nodes)
+Know how to develop Java programs to parallelize computations on Hadoop",영어,https://www.udemy.com/course/java-parallel-computation-on-hadoop-in-4-hours/
+databases,FileMaker,Constructing a Complete FileMaker 16 CRM - Part 1,중급자,"23,000",,9.5시간 주문형 동영상,"배울 내용
+Design a multi-user solution
+Identify and create one-to-many, many-to-one, one-to-one and many-to-many relationships
+Create an Entity-Relationship diagram (ERD)
+Design according to the principals of anchor-buoy relational design
+Translate business systems from real-life to electronic using data modeling
+Create portals, filtered portals and filtered relationships
+Learn how to print properly in a multi-table environment
+Work with columns, merge fields, labels and a variety of other print mediums
+Create reports using sub summary parts and summary fields
+Learn how to script complex automations with decision making intelligence
+더 보기",영어,https://www.udemy.com/course/constructing-a-complete-filemaker-16-contact-manager/
+databases,FileMaker,The Philosophy of FileMaker - Part 2,중급자,"35,000",,8.5시간 주문형 동영상,"배울 내용
+Design a multi-user solution
+Identify and create one-to-many, many-to-one, one-to-one and many-to-many relationships
+Create an Entity-Relationship diagram (ERD)
+Design according to the principals of anchor-buoy relational design
+Translate business systems from real-life to electronic using data modeling
+Create portals, filtered portals and filtered relationships
+Learn how to print properly in a multi-table environment
+Work with columns, merge fields, labels and a variety of other print mediums
+Create reports using sub summary parts and summary fields
+Learn how to script complex automations with decision making intelligence
+더 보기",영어,https://www.udemy.com/course/the-philosophy-of-filemaker-part-2/
+databases,SQL,Business Analyst - SQL Survival Guide,초급자,"19,000","₩25,000",2.5시간 주문형 동영상,"배울 내용
+Database fundamentals (including Entity Relationship Diagrams)
+Basics of SQL Management Studio
+Essential SQL commands that can build powerful queries",영어,https://www.udemy.com/course/business-analyst-sql-survival-guide/
+databases,SharePoint,SharePoint for Developers: Building Hosted Add-Ins,전문가,"19,000","₩25,000",4시간 주문형 동영상,"배울 내용
+Setup the development environment SharePoint 2016 / Office 365
+Get to know the cloud-first client side development model
+Transform SharePoint pages with JavaScript
+Get to know the structure of add-in solution, as well as different ways it can be deployed
+Add responsive styling and a site logo to host web
+Add and apply master pages and layouts
+Explore the SharePoint REST APIs
+Add TypeScript support to add-in packages",영어,https://www.udemy.com/course/sharepoint-for-developers-building-hosted-add-ins/
+databases,Oracle Database,Java JDBC with Oracle: Build a CRUD Application,초급자,"19,000","₩25,000",2시간 주문형 동영상,"배울 내용
+Learn all core JDBC concepts.
+Build Java database applications",영어,https://www.udemy.com/course/java-jdbc-with-oracle/
+databases,Python,Making Predictions with Data and Python,중급자,"19,000","₩48,000",4시간 주문형 동영상,"배울 내용
+Understand the main concepts and principles of Predictive Analytics and how to use them when building real-world predictive models.
+Properly use scikit-learn, the main Python library for Predictive Analytics and Machine Learning.
+Learn the types of Predictive Analytics problem and how to apply the main models and algorithms to solve real world problems.
+Build, evaluate, and interpret classification and regression models on real-world datasets.
+Understand Regression and Classification
+Refresh your visualization skills",영어,https://www.udemy.com/course/making-predictions-with-data-and-python/
+databases,Neo4j,Graph Database : Neo4j with Spring Boot,초급자,"17,000","₩59,000",4.5시간 주문형 동영상,"배울 내용
+Graph Database Neo4j (NoSQL)
+Node and Relationship In Neo4j
+Create, Read, Update and Delete (CRUD) Operations with Neo4j and Spring Boot
+AND, OR, IN Queries with Neo4j and Spring Boot
+Set up Neo4j on a Windows
+Constraints In Neo4j
+Aggregate Functions In Neo4j
+Contains, Starts with Queries In Neo4j
+Pagination & Sorting In Neo4j",영어,https://www.udemy.com/course/graph-database-neo4j-with-java-spring-boot-nosql-cypher-query-graphdb/
+databases,Data Analysis,PostgreSQL and MySQL for Beginners,초급자,"17,000","₩69,000",9.5시간 주문형 동영상,"배울 내용
+How to write SELECT queries to fetch relevant data in PostgreSQL and MySQL
+How to filter and sort the data using WHEN, logical operators and ORDER BY
+How to group and aggregate data in PostgreSQL and MySQL
+How to apply joins and combining queries in PostgreSQL and MySQL
+String, mathematical, date-time functions and pattern matching in PostgreSQL and MySQL
+Understanding of VIEWS and INDEXES in PostgreSQL and MySQL
+How to write subqueries in PostgreSQL and MySQL",영어,https://www.udemy.com/course/postgresql-and-mysql-for-beginners/
+databases,MySQL,SQL - A 3-step Process to Master MySQL With Examples,모든 수준,"19,000","₩25,000",4.5시간 주문형 동영상,"배울 내용
+Learn to use MySQL – the #1 Database Management System professionally!
+Apply for SQL jobs as an SQL Developer, Business Analyst and Database administrator.
+Create your own SQL databases and interact with existing databases.
+Use SQL queries to retrieve structured information from databases.
+Adopt professionally the best SQL practices.
+Learn how to answer specific business questions by using SQL’s aggregate functions
+Be comfortable putting SQL and MySQL on your resume boosting your career.
+Study relational database management theory that you will need in your workplace every day.
+Handle complex SQL joins with ease to solve complex analytical problems!",영어,https://www.udemy.com/course/introduction-to-sql-with-examples-for-mysql-mssql-plsql/
+databases,FileMaker,FileMaker Document Management Solution,중급자,"26,000",,8시간 주문형 동영상,"배울 내용
+Create portals, filtered portals and filtered relationships
+Learn how to script complex automations with decision making intelligence
+Create adaptive or dynamic scripts
+Work with modular scripting
+Capture errors and redirect programming with error analysis
+Compare and contrast different approaches to a problem in order to design better solutions
+Learn the differences and best uses for global fields, variables and parameters
+Examine new features in the FileMaker 17 platform including Default Fields, Found Set Portal (Master-Detail Layout) and more
+Recreate the status toolbar
+Define an open script
+더 보기",영어,https://www.udemy.com/course/filemaker-document-management-solution/
+databases,FileMaker,The Philosophy of FileMaker - Part 3,중급자,"35,000",,9시간 주문형 동영상,"배울 내용
+Design a multi-user solution
+Identify and create one-to-many, many-to-one, one-to-one and many-to-many relationships
+Create an Entity-Relationship diagram (ERD)
+Design according to the principals of anchor-buoy relational design
+Translate business systems from real-life to electronic using data modeling
+Create portals, filtered portals and filtered relationships
+Learn how to print properly in a multi-table environment
+Work with columns, merge fields, labels and a variety of other print mediums
+Create reports using sub summary parts and summary fields
+Learn how to script complex automations with decision making intelligence
+더 보기",영어,https://www.udemy.com/course/the-philosophy-of-filemaker-part-3/
+databases,SQL,SQL: Master SQL With PhpMyAdmin and MYSQL Engine,초급자,"19,000","₩25,000",1.5시간 주문형 동영상,"배울 내용
+You will learn the SQL Query Language
+You will learn how to use PhpMyAdmin
+You will learn about Mysql Engine",영어,https://www.udemy.com/course/sql-master-sql-with-phpmyadmin-and-mysql-engine/
+databases,Oracle SQL,Oracle SQL: The Ultimate Crash Course,모든 수준,"189,000",,6시간 주문형 동영상,"배울 내용
+NO Database Installation Required
+6 Months of High Quality Preparation
+Kick Start SQL Developer Career
+Work as SQL Developer Freelancer
+Write Complex SQL Statements
+Work With Oracle Databases",영어,https://www.udemy.com/course/oracle-sql-the-ultimate-crash-course/
+databases,SQL,Complete SQL Course for Beginners - with Real time SQL query,중급자,"17,000","₩23,000",4.5시간 주문형 동영상,"배울 내용
+Complete SQL Concept for Beginners - started with very very basics
+Understanding what is Database and SQL
+Clear understanding on how Software Projects are handled with SQL with Live Execution
+Clear understanding of different SQL Types
+Understanding DBeaver & PostgreSQL
+Installing Data base server and SQL Client
+Understanding how Different SQL queries are written and executed
+How SQL is used in Software Testing with Real time examples
+Where SQL is used in Business Intelligence, Data Science & Machines Learning
+This course will boost confidence and one can go from beginner to expert.",영어,https://www.udemy.com/course/complete-sql-course-qadata-analyticsbusiness-intelligence/
+databases,Data Warehouse,Introduction to Data Warehouse and Teradata Basics,초급자,"19,000","₩25,000",29분 주문형 동영상,"배울 내용
+What is Data Warehouse and Data Warehousing
+Why do we need Data warehouse
+Advantages of Data warehouse
+Where is Data warehouse used
+Core components of Data warehouse Architecture
+What is Teradata Database.
+Where do Teradata stand in Data Warehouse Architecture
+Who use Teradata
+Roles & Responsibilities of an Teradata Developer
+Classifying Teradata Database Administrators as an Application DBA & System DBA
+더 보기",영어,https://www.udemy.com/course/introduction-to-data-warehouse-and-teradata-basics/
+databases,SQL Server,"Season 1: Database, SQL Server, T-SQL",모든 수준,"17,000","₩23,000",7시간 주문형 동영상,"배울 내용
+Familiarise with what, how, and why of SQL Server
+Setting up SQL Server and SQL Server Management Studio for continuous learning
+Getting introduced to Transaction SQL
+SQL Basics through curated examples on Data Definition Language, Data Manipulation, and Select Queries
+Deep Dive into SQL queries and Utilities
+Learning has to be a continuous process",영어,https://www.udemy.com/course/sql-server-t-sql-basic/
+databases,SQL,2022-Basics of SQL using PostgreSQL,모든 수준,"17,000","₩23,000",7시간 주문형 동영상,"배울 내용
+Structured Query Language (SQL)
+PostgreSQL
+Relational Database Management Systems
+Build a three-tier web application
+CRUD (Create, Read, Update & Delete) Operations
+JOINs, GROUPs, PLPGSQL, FUNCTIONS, Python
+VIEWS, TRIGGERS, TRIGGER Functions
+INDEX, VACUUM
+3-Tier Application",영어,https://www.udemy.com/course/2022-basics-of-sql-using-postgresql/
+databases,Oracle Database,Oracle Database Administration from Zero to Hero,초급자,"30,000",,36시간 주문형 동영상,"배울 내용
+Create Oracle databases on Linux and Windows platforms
+Perform fundamental DBA tasks on Oracle databases
+Manage Oracle database files
+Managing database storage structures
+Manage database multitenancy
+Implement backup and recovery plans
+Apply patches and upgrade databases
+Deploy Oracle Restart configuration
+Troubleshoot Oracle database issues",영어,https://www.udemy.com/course/oracle-dba-course/
+databases,SQL,Learn Basic SQL with SQL Server 2019 Express,초급자,"19,000","₩25,000",2시간 주문형 동영상,"배울 내용
+Find , download and install SQL Server Express 2019 and the Management Studio
+Understand how to configure the SQL Server Management Studio
+Understand how to work with select, where, like
+Understand how to configure different options in the SSMS
+Understand how to import records from text files
+Understand how to use >, <=, between, not between, in , not like
+Understand the logical order of the execution of queries
+Understand how to use order by with where and field aliasing
+Understand the difference between statements and clauses
+Understand how to use group by with having and order by
+더 보기",영어,https://www.udemy.com/course/learn-basic-sql-with-sql-server-2019-express/
+databases,SQL,SQL: Reporting and Analysis for beginners,초급자,"19,000","₩25,000",3.5시간 주문형 동영상,"배울 내용
+Setup SQL Query Environment
+Retrieve Data using SELECT Statement
+Remove Duplicate Records
+Sort Returned Records
+Analyse data using subqueries
+Analyse data using nested subqueries
+Filter data using WHERE Clause
+Filter data using various operators
+Report on aggregated data
+Analyse data from multiple tables",영어,https://www.udemy.com/course/sql-reporting-and-analysis-for-beginners/
+databases,SQL Server,SQL Server Administration On Linux Operating System,초급자,"19,000","₩25,000",8.5시간 주문형 동영상,"배울 내용
+With the advent of SQL Server 2017 now available on a Linux platform, it is imperative that students learn how to navigate and understand SQL Server 2017 Administration on Linux server. Therefore, the student will learn how to install SQL Server 2017 on a Ubuntu Server (Linux Distro), navigate using the Ubuntu Gnome GUI for easy configuration, connect to SQL Server and Ubuntu with Putty third party software, view and manipulate both SQL Server data and log files, migrate data from SQL Server to another database with Ubuntu, use BCP to quickly import and export data, set up SQL database mail in Linux Server, use various tools and utilities to monitor SQL Server, backup and restore databases and much more.",영어,https://www.udemy.com/course/sql-server-administration-on-linux-operating-system/
+databases,Snowflake,Snowflake cloud data warehouse in an hour - Beginners,초급자,"17,000","₩23,000",1.5시간 주문형 동영상,"배울 내용
+Snowflake cloud data warehouse
+Preparing and loading data into Snowflake
+Queries, cache and cloning
+Time travel, access control and marketplace",영어,https://www.udemy.com/course/snowflake-warehouse/
+databases,Data Analysis,PostgreSQL and MS SQL for Beginners,초급자,"17,000","₩23,000",9시간 주문형 동영상,"배울 내용
+How to write SELECT queries to fetch relevant data in PostgreSQL and MS SQL
+How to filter and sort the data using WHEN, logical operators and ORDER BY
+How to group and aggregate data in PostgreSQL and MS SQL
+How to apply joins and combining queries in PostgreSQL and MS SQL
+String, mathematical, date-time functions and pattern matching in PostgreSQL and MS SQL
+Understanding of VIEWS and INDEXES in PostgreSQL and MS SQL
+How to write subqueries in PostgreSQL and MS SQL",영어,https://www.udemy.com/course/postgresql-and-ms-sql-for-beginners/
+databases,SQL,"Build Database Driven Apps with : SQL Server , C# , Python",초급자,"17,000","₩23,000",5.5시간 주문형 동영상,"배울 내용
+Install and setup Microsoft SQL Server
+Setup Python Development Environment
+Build database-driven apps with SQL Server and C#
+Build database-driven apps with SQL Server and Python
+Create database and table
+Design form with dataset",영어,https://www.udemy.com/course/build-database-driven-apps-with-sql-server-c-python/
+databases,Oracle SQL,Oracle SQL - A Complete Developer's Guide (2023),모든 수준,"19,000","₩25,000",11.5시간 주문형 동영상,"배울 내용
+Comprehensive course in SQL as per 100% Oracle University syllabus + Bonus 1 topics
+Learn SQL and get a job as Database Developer
+Well structured program to learn quickly learn and apply on projects from day 1
+Instructor is having real time IT experience in SQL 19 Years!!
+Course will help to clear Oracle SQL Certification (1Z0-071)
+100+ 1Z0-071 certification questions
+Oracle holds 46% share in commercial market space. So learn SQL with the best Database- Oracle !
+Learn SQL using Oracle Platform and can apply on any RDBMS like MySQL, Sybase, MS SQL Server etc.
+Covered concepts from 11g to 21c
+Multitenant Architecture with 21c Installation + PDB + Local & Common user creation.",영어,https://www.udemy.com/course/oracle-sql-certification-course-1z0-071/
+databases,SQL,SQL HackerRank Challenge: Get Gold star & 670 points,모든 수준,"17,000","₩23,000",11.5시간 주문형 동영상,"배울 내용
+Get silver and gold rank with 600+ points
+Solve 30+ questions of HackerRank SQL section
+How to write SELECT queries to fetch relevant data in PostgreSQL and MySQL
+How to filter and sort the data using WHEN, logical operators and ORDER BY
+How to group and aggregate data in PostgreSQL and MySQL
+How to apply joins and combining queries in PostgreSQL and MySQL
+String, mathematical, date-time functions and pattern matching in PostgreSQL and MySQL
+Understanding of VIEWS and INDEXES in PostgreSQL and MySQL
+How to write subqueries in PostgreSQL and MySQL",영어,https://www.udemy.com/course/sql-hackerrank-challenge/
+databases,Oracle SQL,Learn Advanced SQL For Oracle Databases,중급자,"19,000","₩25,000",4시간 주문형 동영상,"배울 내용
+Create Views
+Write Complex SQL Queries
+Know how to use Analytic functions
+Know how to use SET operators
+Retrieve deleted data using Flashback Query",영어,https://www.udemy.com/course/learn-advanced-sql-for-oracle-databases/
+databases,SQL Server,Indexes and the Microsoft SQL Server,중급자,"19,000","₩25,000",1.5시간 주문형 동영상,"배울 내용
+What indices are and how they work.
+What types of indexes exist and how do they work?
+How must indices be designed to maximally speed up queries?
+What are execution plans and how are they read?
+What strategies exist to clean up existing systems?
+Where are the limits of indices?",영어,https://www.udemy.com/course/indexes-and-the-microsoft-sql-server/
+databases,SQL,The SQL Ultimate Course: from Zero to Hero,모든 수준,"17,000","₩23,000",4시간 주문형 동영상,"배울 내용
+Obtain one of the most in-demand Skills.
+Answer company questions using data and SQL.
+Have the Ability to Solve any SQL Problem. Gain Theoretical Insights about SQL and Relational Databases.
+Understand how SQL queries are processed behind the scene, this helps to be more creative when writing SQL code.
+Tons of Best Practices and Tips & Tricks, i've collected from Real Life Projects.
+Code along with me to PRACTICE and IMPLEMENT everything you learn.
+Exercises & Tasks that will solidify your knowledge and challenge your new skills.",영어,https://www.udemy.com/course/the-sql-ultimate-course-from-zero-to-hero/
+databases,SQL,"SQL Learn SQL 101, 202 and 303 all in 1 Course. 10X Learning",모든 수준,"19,000","₩25,000",2시간 주문형 동영상,"배울 내용
+Create a Database From Scratch
+Understand Almost All SQL Syntax
+Be able to write both Basic and Complex SQL Statements without help
+Insert Update and Delete Data in a SQL Database",영어,https://www.udemy.com/course/learn-sql-maximize-productivty-and-make-more-money/
+databases,Data Analysis,Data Analysis with Oracle Analytic Functions,초급자,"19,000","₩25,000",2.5시간 주문형 동영상,"배울 내용
+Write and understand the syntax for analytic functions
+Analyse data with Rank Function
+Analyse data with First and Last Function
+Analyse data with LAG Function
+Analyse data with LISTAGG Function
+Analyse data with Row Number Function
+Analyse data with LEAD Function
+Analyse data with Windowing Clause",영어,https://www.udemy.com/course/data-analysis-with-oracle-analytic-functions/
+databases,SQL,Learn from Silicon Valley: SQL,초급자,"17,000","₩23,000",8시간 주문형 동영상,"배울 내용
+Learn from a Silicon Valley expert who uses SQL everyday to solve some of the toughest problems with billion-dollar clients
+Go from a complete beginner to an expert in SQL
+How to derive actionable insights from your data and make data-driven decisions
+Practice your new skill in scenarios inspired by real-world business cases
+Add SQL / PostgreSQL as a skill on your CV",영어,https://www.udemy.com/course/learn-from-silicon-valley-sql/
+databases,Tableau,Tableau Prep Builder for beginners - lets get started,초급자,"19,000","₩25,000",2시간 주문형 동영상,"배울 내용
+The fundamentals of Tableau Prep Builder
+How to get started with Tableau Prep Builder
+data cleaning with Tableau Prep Builder
+You might open up new career opportunities for you which are not only highly rewarding but also offer more job satisfaction
+New ways to easily prepare data by only clicking or drag and drop (The tableau way)",영어,https://www.udemy.com/course/tableau-prep-builder-for-beginners-lets-get-started/
+databases,Python,Beginners Guide Into Python : Become a Master At Python,모든 수준,"17,000","₩23,000",11.5시간 주문형 동영상,"배울 내용
+Master Python fundamentals: Variables, data types, control structures, functions, and object-oriented programming.
+Explore advanced Python syntax: List comprehensions, generators, context managers, and decorators.
+Understand metaprogramming in Python: Modify and generate code dynamically using decorators, metaclasses, and introspection.
+Learn Pythonic design patterns: Singleton, Factory, Observer, and Strategy patterns for writing maintainable code.
+Dive into functional programming in Python: Higher-order functions, lambda expressions, and functional libraries.
+Gain expertise in Python standard library: Modules for file I/O, networking, web scraping, and regular expressions.
+Develop performance-optimized Python code: Profiling, memory management, and efficient algorithms.
+Fine-tune Python applications: Packaging, versioning, documentation, and dependency management.
+더 보기",영어,https://www.udemy.com/course/beginners-guide-into-python-become-a-master-at-python/
+databases,FileMaker,The Philosophy of FileMaker - Part 4,중급자,"35,000",,8시간 주문형 동영상,"배울 내용
+Create a Preferences section for a multi-user solution
+Create Options for a multi-user solution
+Increase their knowledge of ExecuteSQL
+Create a To-Dos system with reminders
+Add notes with timestamps
+add notes via a portal for better organization
+Allow for multiple payments
+Get Maps and Directions from Google and Apple Maps
+Design an efficient FileMaker Go solution
+Add GPS coordinates
+Make a phone call
+Scan barcodes
+Add a picture
+Get a solution on an iOS device
+더 보기",영어,https://www.udemy.com/course/the-philosophy-of-filemaker-part-4/
+databases,Web Development,Linode: Build and Deploy Responsive Websites on the Cloud,초급자,"17,000","₩23,000",11.5시간 주문형 동영상,"배울 내용
+Understand the fundamental concepts and benefits of Cloud Computing and its service models.
+Learn how to create, configure, and manage virtual servers in the cloud using Linode.
+Understand the basic concepts of Linux operating system, including file system structure, command-line interface, and basic Linux commands.
+Learn how to manage users and permissions, configure network settings, and use package managers in Linux.
+Learn about the basic concepts of web servers, including Apache and Nginx, and databases such as MySQL and MariaDB.
+Learn how to install and configure web servers and databases on Linux servers.
+Learn how to install and configure LAMP stack to set up a web server and database for hosting dynamic websites and web applications.
+Understand server security concepts such as firewalls, access control, and SSL certificates.
+더 보기",영어,https://www.udemy.com/course/linode-build-and-deploy-responsive-websites-on-the-cloud/
+databases,FileMaker,Constructing a Complete FileMaker 16 CRM - Part 2,중급자,"35,000",,9.5시간 주문형 동영상,"배울 내용
+Design a multi-user solution
+Identify and create one-to-many, many-to-one, one-to-one and many-to-many relationships
+Create an Entity-Relationship diagram (ERD)
+Design according to the principals of anchor-buoy relational design
+Translate business systems from real-life to electronic using data modeling
+Create portals, filtered portals and filtered relationships
+Learn how to print properly in a multi-table environment
+Work with columns, merge fields, labels and a variety of other print mediums
+Create reports using sub summary parts and summary fields
+Learn how to script complex automations with decision making intelligence
+더 보기",영어,https://www.udemy.com/course/constructing-a-complete-filemaker-16-crm-part-2/
+databases,SQL,"4-in-1 bundle: MySQL, PostgreSQL, Microsoft SQL & Oracle SQL",초급자,"17,000","₩23,000",15시간 주문형 동영상,"배울 내용
+How to write SELECT queries to fetch relevant data in 4 SQL dialects - PostgreSQl, MySQL, Oracle SQL and Microsoft SQL
+How to filter and sort the data using WHEN, logical operators and ORDER BY
+How to group and aggregate data in PostgreSQl, MySQL, Oracle SQL and Microsoft SQL
+How to apply joins and combining queries in 4 SQL dialects - PostgreSQl, MySQL, Oracle SQL and Microsoft SQL
+String, mathematical, date-time functions and pattern matching in 4 SQL dialects - PostgreSQl, MySQL, Oracle SQL and Microsoft SQL
+Understanding of VIEWS and INDEXES in 4 SQL dialects - PostgreSQl, MySQL, Oracle SQL and Microsoft SQL
+How to write subqueries in SQL",영어,https://www.udemy.com/course/the-big-sql-bundle/
+databases,Node.Js,Node Local SQLite Database with Node for beginners,초급자,"19,000","₩25,000",1시간 주문형 동영상,"배울 내용
+how to write NodeJS
+Explore how nodeJS works
+Explore various useful package for node
+See how to setup a localhost server
+Setup a local SQLlite instance running a database",영어,https://www.udemy.com/course/node-database/
+databases,Microsoft SQL,Practical Data Analysis - SQL & Tableau with Real Projects,모든 수준,"17,000","₩23,000",8시간 주문형 동영상,"배울 내용
+SQL Server - Beginner to Intermediate. You will install and use SQL Server Management Studio
+Write complex queries to extract data from a database - No prior experience required
+Understand Relational Databases and Entity Relationship Diagrams
+Do a Customer Profile on Adventureworks database including Google Sheets Pivot Tables and dual axies charts
+Build Two Tableau Dashboards
+Create Calculated Fields and a Period Parameter in Tableau
+Publish your Tableau Dashboards Online so they can be accessed anywhere",영어,https://www.udemy.com/course/sql-for-beginners-with-data-analysis-project/
+databases,Microsoft Azure,Learn Hadoop and Azure HDInsight basics this evening in 2 hr,초급자,"19,000","₩25,000",2.5시간 주문형 동영상,"배울 내용
+Hadoop Basics
+Azure HDInsight basics",영어,https://www.udemy.com/course/azurehdinsight/
+databases,SQL Server,"Transaction, Isolation Levels and In-Memory OLTP in T-SQL",중급자,"19,000","₩25,000",4시간 주문형 동영상,"배울 내용
+Transactions & Deadlocks
+Concurrency Problems
+Isolation Levels
+In-Memory OLTP",영어,https://www.udemy.com/course/transaction-isolation-levels-in-memory-oltp-t-sql/
+databases,SQL,SQL Essentials - A Whole New Way of Learning SQL for Anyone!,초급자,"19,000","₩25,000",4.5시간 주문형 동영상,"배울 내용
+Write and understand SQL queries utilizing all the main clauses
+A totally new and easier way of approaching joins and groupings, the essentials of SQL
+Step-by-step method of approaching any SQL query
+Test data assumptions to verify your queries are accurate
+Explore data and detect data flaws that can affect query accuracy",영어,https://www.udemy.com/course/sql-essentials-for-anyone/
+databases,PostgreSQL,PostgreSQL: From Beginner to Intermediate 2023,초급자,"17,000","₩23,000",2.5시간 주문형 동영상,"배울 내용
+Create a Whole Database From Scratch by Coding SQL
+Dive into PostgreSQL Database Management System
+Practice through Coding Exercises, Practice Texts and Assignments
+Pure SQL Coding through Windows Command Prompt
+Master The Fundamentals of Databases
+Learn How To Create Users and Grant or Revoke Privileges
+Gain an Emersive Understand of Manipulating Data in a Database using SQL
+Learn how to insert, update, remove and retrieve data using SQL
+Learn how to join data together from more than one table.
+How to group data together and apply statistical computations",영어,https://www.udemy.com/course/database-postgresql/
+databases,FileMaker,Creating a Password Manager in FileMaker,초급자,"23,000",,4.5시간 주문형 동영상,"배울 내용
+Learn how to create layouts using themes and styles
+Write scripts and calculations
+Create relationships
+Design Tables
+Create housekeeping fields
+Recreate the toolbar and gain more screen real estate
+Create a basic open script
+Use script triggers
+Interface design
+Notes portal
+Adaptive related record addition and deletion
+Security including accounts, privilege sets, extended privileges and file access
+더 보기",영어,https://www.udemy.com/course/creating-a-password-manager-in-filemaker/
+databases,Oracle SQL,PostgreSQL and Oracle SQL for beginners,초급자,"17,000","₩23,000",9시간 주문형 동영상,"배울 내용
+How to write SELECT queries to fetch relevant data in PostgreSQL and Oracle SQL
+How to filter and sort the data using WHEN, logical operators and ORDER BY
+How to group and aggregate data in PostgreSQL and Oracle SQL
+How to apply joins and combining queries in PostgreSQL and Oracle SQL
+String, mathematical, date-time functions and pattern matching in PostgreSQL and Oracle SQL
+Understanding of VIEWS and INDEXES in PostgreSQL and Oracle SQL
+How to write subqueries in PostgreSQL and Oracle SQL",영어,https://www.udemy.com/course/postgresql-oracle-sql/
+databases,MySQL,Change Data Capture (CDC) using Debezium for MySQL,중급자,"26,000",,2시간 주문형 동영상,"배울 내용
+Understand what is meant by CDC
+Ability to capture data changes from MySQL DB
+Have their own fault-tolerant setup of Debezium connectors
+Learn in-depth about the Debezium capabilities",영어,https://www.udemy.com/course/debezium-for-mysql/
+databases,MongoDB,MongoDB - The Complete Dev BootCamp | Beginner-Expert (2023),모든 수준,"17,000","₩69,000",13.5시간 주문형 동영상,"배울 내용
+Learn what document databases are and how to manage data using MongoDB
+Learn how to design and structure your data with MongoDB
+Learn how to create basic and complex MongoDB queries with detailed practical examples
+Learn the CRUD operations in MongoDB with Mongoose
+Write your own BSON document database and efficient and well-performing queries to fetch data in the format you need it
+Learn to write high-performing queries to fetch data MongoDB
+Learn to apply Index, constraints (Schema Validation) and many MongoDB capabilities to make your project
+Use all features MongoDB offers you to work with data efficiently",영어,https://www.udemy.com/course/mongodb-complete-developers-guild/
+databases,Cloud Computing,"Cloud Computing Essentials: Linode, Linux, and LAMP Stack",초급자,"17,000","₩23,000",4시간 주문형 동영상,"배울 내용
+The fundamental concepts of cloud computing, including the differences between cloud computing and traditional computing models.
+The major cloud computing service models, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+The benefits and challenges of cloud computing, including scalability, cost-effectiveness, and security concerns.
+The Linode cloud computing platform, including its features and benefits, and how to set up an account and create virtual machines.
+The basics of Linux, including the file system, commands, and basic administration tasks.
+How to install and configure the LAMP stack on a Linode server, including Apache, MySQL, and PHP.
+더 보기",영어,https://www.udemy.com/course/cloud-computing-essentials-linode-linux-and-lamp-stack/
+databases,SQL,Using SQL for Data Science,초급자,"19,000","₩25,000",4시간 주문형 동영상,"배울 내용
+Install Oracle Database
+Install TOAD
+Install Oracle SQL developer
+Connect to oracle database
+Generate ERD
+Query data from single and multiple columns
+Count records
+Filter records
+Remove duplicate records
+Sort records
+Group records
+Filter records with various operators
+Extract records from multiple tables",영어,https://www.udemy.com/course/using-sql-for-data-science/
+databases,Python,Python For Accountants: Automate Accounting!,초급자,"17,000","₩23,000",3시간 주문형 동영상,"배울 내용
+Accounting Data Analytics (Data Cleansing & Spreadsheet Automation)
+Stock Data Extraction
+Use APIs to Extract Cryptocurrency Data
+Use APIs to Send Price Alerts (Stock & Crypto) To Your Phone
+Python Basics & Fundamentals",영어,https://www.udemy.com/course/python-for-accountants/
+databases,FileMaker,Constructing a Complete FileMaker 16 CRM - Part 3,중급자,"35,000",,9시간 주문형 동영상,"배울 내용
+Design a multi-user solution
+Identify and create one-to-many, many-to-one, one-to-one and many-to-many relationships
+Create an Entity-Relationship diagram (ERD)
+Design according to the principals of anchor-buoy relational design
+Translate business systems from real-life to electronic using data modeling
+Create portals, filtered portals and filtered relationships
+Learn how to print properly in a multi-table environment
+Work with columns, merge fields, labels and a variety of other print mediums
+Create reports using sub summary parts and summary fields
+Learn how to script complex automations with decision making intelligence
+더 보기",영어,https://www.udemy.com/course/constructing-a-complete-filemaker-16-crm-part-3/
+databases,Cisco,LEARNING PATH: Cisco:Voice Solutions for Business with Cisco,초급자,"19,000","₩25,000",4.5시간 주문형 동영상,"배울 내용
+Set up CLI connections for your SME voice network
+Work with the Cisco Unified Communications Manager Express software to manage your network connections
+Set up your network topology and configure your hardware, such as routers, switches, and IP phones
+Work with the perfect dial plan to maintain your network's cost-effectiveness
+Ensure Quality of Service and security over your network
+Create and maintain your GUI connections
+Work with Virtual Solutions for your Large Enterprise voice network with the help of VMWare
+Manage your network’s DHCP and DNS dependencies
+Set up different Dial Plans and manage your network’s Users
+Set up and configure Cisco Unity Connection for you enabling and managing voicemail over your network",영어,https://www.udemy.com/course/learning-path-ciscovoice-solutions-for-business-with-cisco/
+databases,Developer Tools,[NEW] Oracle SQL Developer Tool 19c- Mastering Tips & Tricks,모든 수준,"19,000","₩25,000",5.5시간 주문형 동영상,"배울 내용
+Learn the latest version SQL Developer tool - 19c
+Once mastered the features the team will look you as an Expert
+Speed-up your coding by using code templates inside the tool
+Data modeling & generating ERD (Entity Relationship Diagram)
+Debugging skill - Most sought skill when there is a production issue/bug to fix.
+Code formatter will help formatting code in seconds saving huge time.
+Migration of data from Other databases to Oracle
+Connection to 3rd party databases like - MySQL, SQL Server & Sybase
+21c - Multitenant Architecture + Connection to PDB from the Tool
+Exporting and Importing Reports
+더 보기",영어,https://www.udemy.com/course/oracle-sql-developer-tool-19c/
+databases,SQL,SQL Development with MS SQL Server Beginner to Master,모든 수준,"17,000","₩23,000",9.5시간 주문형 동영상,"배울 내용
+Understand and write SQL queries to interact with databases
+Summarize and analyze data with powerful SQL query techniques
+Build stored procedures to create and dynamically access production-level datasets
+Understand how SQL Indexes work and what they do to improve query performance
+Understand how SQL Aggregate functions and Window Functions work",영어,https://www.udemy.com/course/sql-server-beginner-to-master/
+databases,Database Design,Practical Database Guide with RDBMS(MySQL) & NoSQL(MongoDB),모든 수준,"17,000","₩48,000",7시간 주문형 동영상,"배울 내용
+Best of both database types - RDBMS(MySQL) & NoSQL(MongoDB)
+Basic to advanced SQL queries with complex data-structures
+NoSQL database structure designing using MongoDB
+Practical hands-on assignments with their solutions
+Database Indexing, Stored Procedures & Transactions…
+Prepare for real- world interview questions",영어,https://www.udemy.com/course/practical-database-guide-with-rdbmsmysql-nosqlmongodb/
+databases,PostgreSQL,Database Administrator Toolbox - all must have SQL Queries,모든 수준,"17,000","₩23,000",36분 주문형 동영상,"배울 내용
+Gathering schema data
+Checking metadata of objects in database
+Checking configuration of database engine
+Analyzing of database problems",영어,https://www.udemy.com/course/database-administrator-toolbox-all-must-have-sql-queries/
+databases,Database Design,Basic Relational Database Design,초급자,"19,000","₩25,000",1.5시간 주문형 동영상,"배울 내용
+Get an understanding of databases and database design
+Build a database scheme in a proper way
+Learn how to normalize your database
+Learn to design a database from scratch
+Master all types of relationship and properly design them all within a database",영어,https://www.udemy.com/course/basic-relational-database-design/
+databases,Amazon AWS,Learning Path: AWS: Building Secured Applications with AWS,중급자,"19,000","₩25,000",4시간 주문형 동영상,"배울 내용
+Add fully-managed user information and privilege services on your virtual network
+Manage traffic with Amazon's Elastic Load Balancer
+Create EC2 instances
+Balance your simple API
+Build fine-grained network access controls
+Discover the important differences between NAT instances and NAT gateways
+Learn how to create, track, and manage user access control levels
+Understand how to integrate your virtual cloud with a local network",영어,https://www.udemy.com/course/learning-path-aws-building-secured-applications-with-aws/
+databases,SQL,Learn SQL in a Day: ChatGPT Enhanced Crash Course,모든 수준,"17,000","₩23,000",2시간 주문형 동영상,"배울 내용
+The basics of using ChatGPT to learn new concepts
+How to leverage ChatGPT to learn SQL in an optimal manner
+Basics of data manipulation in SQL
+SQL Group By and Joining Functions
+Key SQL queries and operators
+Key SQL aggregation functions",영어,https://www.udemy.com/course/learn-sql-in-a-day-chatgpt-enhanced-crash-course/
+databases,DynamoDB,Amazon DynamoDB Data Modeling for Architects & Developers,모든 수준,"17,000","₩23,000",6.5시간 주문형 동영상,"배울 내용
+Use DynamoDB Data Modeling patterns
+Apply DynamoDB Best practices
+Leverage the right DynamoDb features in your applications
+Analyze use cases for DynamoDB
+Understand how DynamoDB work under the covers",영어,https://www.udemy.com/course/dynamodb-data-modeling/
+databases,SQL,EssentialSQL: SQL Window Functions for Business Analytics,모든 수준,"17,000","₩23,000",3.5시간 주문형 동영상,"배울 내용
+Learn how to incorporate window functions into your SQL queries.
+Understand how partitions and windows work together within a query.
+Apply window functions so you can avoid using cursors in your SQL.
+Understand the difference between window function mechanics and GROUB BY summaries.
+Create complex queries involving joins using window functions.
+Apply aggregate, analytic, and ranking functions to perform common business tasks such as calculating running totals or comparing one row’s value to the next.
+Create queries using either MySQL, PostgreSQL, or SQL Server.",영어,https://www.udemy.com/course/sql-window-functions-for-business-analytics/
+databases,SQL Server,SQL Server Analysis Services for beginners -SSAS,초급자,"17,000","₩23,000",3시간 주문형 동영상,"배울 내용
+Setup Analysis Services Environment
+Create a Tabular Model
+Connect to data source
+Create Table Relationships
+Create Calculated Columns
+Create Measures
+Create Key Performance Indicators
+Create Perspectives
+Create Partitions
+Create Roles
+Deploy Model
+Transform and import data",영어,https://www.udemy.com/course/sql-server-analysis-services-for-beginners-ssas/
+databases,SQL Server,Introduction to Microsoft SQL Server and Visual Studio,초급자,"17,000","₩23,000",2시간 주문형 동영상,"배울 내용
+Install a new instance of Microsoft SQL Server
+Install Visual Studio IDE
+Connect to SQL Server with SSMS
+Create and configure a new database
+Create a new Table
+Insert data into a database table
+Create a console application with Visual Studio
+Create an ASP DOT NET application with Visual Studio
+Create a Windows Forms console application with Visual Studio",영어,https://www.udemy.com/course/introduction-to-microsoft-sql-server-and-visual-studio/
+databases,Azure SQL Database,Azure Data Studio for beginners,초급자,"17,000","₩23,000",1시간 주문형 동영상,"배울 내용
+Install Azure Data Studio
+Connect Azure Data Studio to Azure SQL
+Connect Azure Data Studio to SQL Server
+Create database and table with Azure data studio on an Azure SQL Database
+Query Azure SQL Database with Azure data studio
+Create database and table with Azure data studio on an SQL Server Database
+Query SQL Server Database with Azure data studio",영어,https://www.udemy.com/course/azure-data-studio-for-beginners/
+databases,Cloud Computing,Linode: Web Server and Database Foundations,모든 수준,"17,000","₩23,000",3시간 주문형 동영상,"배울 내용
+Introduction to Cloud Computing (Cloud Service Models)
+Navigating the Linode Cloud Interface
+Remote Administration using PuTTY, Terminal, SSH
+Foundations of Web Servers (Apache vs. NGINX)
+SQL vs NoSQL Databases
+Database Transaction Standards (ACID vs. CAP Theorem)
+Key Terms relevant to Cloud Computing, Web Servers, and Database Systems",영어,https://www.udemy.com/course/linode-web-server-and-database-foundations/
+databases,MongoDB,MongoDB Masterclass: Excel in NoSQL & Pass Certification!,초급자,"17,000","₩23,000",14.5시간 주문형 동영상,"배울 내용
+Comprehend MongoDB architecture, data modeling techniques, and fundamental principles of NoSQL databases.
+Apply CRUD operations, advanced queries, and aggregation pipelines to effectively manage data in MongoDB.
+Optimize database performance using Indexing strategies and improve query execution within MongoDB.
+Integrate MongoDB with programming languages such as Java, Python, C#, and Node js for streamlined application development.
+Implement MongoDB Atlas for managing and deploying cloud-based databases with hands-on experience.
+Prepare for and successfully pass the official MongoDB Associate Developer Certification Exam.",영어,https://www.udemy.com/course/mongodb-masterclass-excel-in-nosql-pass-certification/
+databases,PostgreSQL,Mastering Database Management with Knex.js and PostgreSQL,중급자,"17,000","₩23,000",2.5시간 주문형 동영상,"배울 내용
+Understand and set up a development environment for Knexjs and PostgreSQL
+Master database migrations and seeding
+Perform advanced CRUD and join operations using Knexjs
+Implement transactions and utilize the Query Builder",영어,https://www.udemy.com/course/database-management-knexjs-postgresql/
+databases,Database Design,System Design-Data modeling for datawarehouses/OLAP DBs,중급자,"17,000","₩59,000",2.5시간 주문형 동영상,"배울 내용
+Understand the internal architecture of an OLAP store
+Designing the data model to support rich analytical queries
+Understand distribution and sort keys and how to leverage them
+Designing your aggregation queries in a column-oriented OLAP store
+Optimize Redshift Query Performance",영어,https://www.udemy.com/course/data-modeling-for-olap-datawarehouses/
+databases,FileMaker,FileMaker Audit Log,중급자,"33,000",,5.5시간 주문형 동영상,"배울 내용
+How to create an audit log in FileMaker
+Scripting
+Calculations
+Set Field: Push and Pull
+Auto-Enter Calculations
+Housekeeping fields
+Calculated field tracking
+Scripted field tracking
+New window techniques
+Set Variable
+Support for multiple audited tables
+Abstraction
+fmDataGuard plug-in
+Roll-Back
+Roll-Forward
+Migrating data from a single field to a table",영어,https://www.udemy.com/course/filemaker-audit-log/
+databases,R (programming language),Practical Recommender Systems For Business Applications in R,모든 수준,"17,000","₩59,000",3.5시간 주문형 동영상,"배울 내용
+Learn what recommender systems are and their importance for business intelligence
+Learn the main aspects of implementing data science technique within the R Programming Language
+Implement practical recommender systems using R Programming Language
+Learn about the theoretical and practical aspects of recommender systems",영어,https://www.udemy.com/course/practical-recommender-systems-for-business-applications-in-r/
+databases,Database Design,Practical Database Design - Blog Schema,초급자,"17,000","₩39,000",5.5시간 주문형 동영상,"배울 내용
+Build a database design from a given set of requirements
+Determine a set of prelimiary entities and attributes to start a database design
+Normalise a database design into 1NF taking into consideration multivalued and miltipart fields
+Establish table candidate and primary keys
+Normalise a database design into 2NF taking into consideration partial key dependencies
+Identify multiple types of table relationships and define relationships between tables
+Normalise a database design into 3NF taking into consideration transitive dependencies
+Develop database design solutions to common features of a blog application",영어,https://www.udemy.com/course/practical-database-design-blog-schema/
+databases,SQL,SQL & MySQL Subqueries: Understanding the weird parts - 2023,모든 수준,"17,000","₩59,000",9시간 주문형 동영상,"배울 내용
+Learn SQL & MySQL SUBQUERY - Understanding the Weird Parts
+Correlated, Nested, Scalar, single-row, Multiple-row, CTE & In-Line View Subqueries
+Learn to write subqueries to select data multiple tables using fro 2 to 14 subqueries in one query
+The different ways to create subqueries that return a single value or multiple values.
+How to use subqueries in the SELECT, FROM, WHERE, and HAVING clauses.
+The concept of correlated subqueries, which depend on values from the outer query, and how to use them in SQL.
+How to use subqueries to solve complex problems such as finding maximum or minimum values and records that don't have corresponding entries in other tables.
+The difference between IN, EXISTS, and ANY/ALL operators in subqueries and when to use each one.
+How to use subqueries to create more complex queries and better understand the structure and relationships in a database.
+Hands-on practice with a variety of subquery examples, exercises, and challenges to build skills and confidence in using subqueries in SQL.",영어,https://www.udemy.com/course/sql-subqueries-nested-correlated/
+databases,FileMaker,Complex Calculations in FileMaker,중급자,"49,000",,7.5시간 주문형 동영상,"배울 내용
+Calculation Fields
+Auto-Enter Calculations
+Validation Calculations
+Set Field Calculations
+Conditional Formulas
+Record Level Access Formulas
+Hide Object Formulas
+Conditional Formatting Formulas
+Placeholder Formulas
+Tooltip Formulas",영어,https://www.udemy.com/course/complex-calculations-in-filemaker/
+databases,Microservices,Transactional Outbox Pattern with Debezium,모든 수준,"17,000","₩39,000",1시간 주문형 동영상,"배울 내용
+Reliable microservice data exchange using Debezium
+Transactional Outbox Pattern
+Debezium with Mongodb connector
+Loose coupling Micro-services using Change Data Capture (CDC) and Debezium",영어,https://www.udemy.com/course/transactional-outbox-pattern-with-debezium/
+databases,Database Management,Basics of DBMS and MySQL for Data Analytics Full Course,모든 수준,"17,000","₩23,000",5.5시간 주문형 동영상,"배울 내용
+Basic Concepts of Database Management
+Learn complete MySQL Practically
+Learn Complete DBMS with coding skills
+Solve Problems based on DBMS Normalization and SQL subqueries
+Relational Algebra and Joins
+Transactions and serializability",영어,https://www.udemy.com/course/dbms-and-mysql-for-big-data-and-data-science/
+databases,SQL Server,SQL Server 2022: What's New - New and Enhanced Features,모든 수준,"17,000","₩23,000",3시간 주문형 동영상,"배울 내용
+How to download and install SQL Server 2022 on Windows
+What are the major new enhancements and features in SQL Server 2022 and SSMS 19
+How to use many of the new features and enhancements in SQL Server 2022 via live demos and guides
+What are the new business continuity features and enhancements
+What are the new security features and enhancements
+What are the new performance features and enhancements
+Other enhancements in SQL Server 2022 such as T-SQL enhancements, Azure Synapse Link and more",영어,https://www.udemy.com/course/sql-server-2022-whats-new/
+databases,Database Programming,Oracle Relational Database Management Systems,초급자,"17,000","₩23,000",6시간 주문형 동영상,"배울 내용
+Data Analysis Cycle.
+Working Structured Data within any Database system.
+Database Modelling .
+Handling Data Using Structured Query Language.
+Creating Business Logic.
+Filtering and Restricting Data.
+Transforming and Grouping Data.
+Create Digital Database.
+Oracle PL/SQL.
+Setting Connection to Database Server.
+Create Complex Data mining Queries.",영어,https://www.udemy.com/course/structured-data-handling-using-sql-for-accountants/
+databases,FileMaker,FileMaker Scripting Reference,중급자,"49,000",,8.5시간 주문형 동영상,"배울 내용
+Scripting in FileMaker
+Script Triggers
+Script Debugger
+Data Viewer
+Record Locking
+Error Capturing
+Global Fields
+Find Scripts",영어,https://www.udemy.com/course/filemaker-scripting-reference/
+databases,MySQL,MYSQL Interview Questions & Answers,모든 수준,"17,000","₩23,000",2.5시간 주문형 동영상,"배울 내용
+Questions will help you in revising MySQL concepts & to know how to answer most asked MySQL questions by IT firms. Each question is explained with an example.
+How to answer common MySQL Interview Questions around Normalization & Denormalization, 1st, 2nd and 3rd Normal Form, Aggregate functions, InnoDB, MyISAM.
+MySQL writing question around Inner Join, Left Join, Right Join, Cross Join, Subqueries & Co-related queries, Union vs Union All, Views, Like & Regex operators
+In-depth explanations of complex and tricky concepts around ENUM, Char vs Varchar, Blog datatypes, text datatypes, Triggers, Transactions and its implementation
+Comparison questions Stored Procedures vs functions, text vs blob, primary key vs candidate key, IFnull vs ISNull, Char vs Varchar.
+Extensive explanations of tricky questions such as Transactions, Trigger, Blog vs Text data types, Candidate key vs Unique key, Stored Procedure vs Stored Funct",영어,https://www.udemy.com/course/mysql-interview-questions-answers/
+databases,Database Programming,SQL Server Developer : SELECT query foundations,초급자,"17,000","₩23,000",3.5시간 주문형 동영상,"배울 내용
+Querying SQL server databases using the SELECT clause
+Joining multiple tables in different ways to combine information
+Filtering data to retrieve only the information you need
+Using aggregation functions and processes to find totals and averages for reports",영어,https://www.udemy.com/course/sql-server-developer-select-query-foundations/
+databases,MySQL,MySQL creating and managing relational databases,초급자,"19,000","₩25,000",5.5시간 주문형 동영상,"배울 내용
+MySQL
+SQL
+databases
+relational databases
+CRUD
+creating databases in MySQL
+managing databases
+loading data from files
+saving data to files
+joining tables
+managing tables with multilevel relations",영어,https://www.udemy.com/course/mysql-creating-and-managing-relational-databases/
+databases,Database Design,JavaFX Database Management System! Database Design In JavaFX,모든 수준,"19,000","₩25,000",4시간 주문형 동영상,"배울 내용
+You will create a simple login page
+You will create login authentication page
+You will add image to login page
+You will create SQlite Database JavaFX Database Management
+You will create Tables in Database
+You will create classes for Database
+You will connect to Database using connection class
+You will connect to Connection Class from Login Model
+You will successfully get results from your Database connection
+You will create a Login page for Students Portal
+You will open Database Table in Students Portal
+You will auto-close Login Page
+더 보기",영어,https://www.udemy.com/course/oracle-javafx-database-management-system-with-eclipse-ide/
+databases,SQL Server,Introduction to Microsoft SQL Server and SQL,초급자,"19,000","₩25,000",1.5시간 주문형 동영상,"배울 내용
+How to install the Microsoft SQL Server and the SQL Server Management Studio (SSMS)
+How to create a databases and tables with the graphical interfaces in SSMS
+Viewing, inserting, updating and deleting records in SSMS
+Viewing, inserting, updating and deleting records with SQL",영어,https://www.udemy.com/course/introduction-to-microsoft-sql-server-and-sql/
+databases,SQL,How to build SQL Queries with Logical and SET Operator,초급자,"19,000","₩25,000",1.5시간 주문형 동영상,"배울 내용
+Build Queries with IN Operators
+Build Queries with OR Operators
+Build Queries with AND Operators
+Build Queries with NOT Operators
+Build Queries with ISNULL Operators
+Build Queries with UNION SET Operators
+Build Queries with UNION ALL SET Operators
+Build Queries with INTERSECT SET Operators
+Build Queries with MINUS SET Operators",영어,https://www.udemy.com/course/how-to-build-sql-queries-with-logical-and-set-operator/
+databases,SQLite,Learn SQLite from scratch: Create SQL Queries,초급자,"17,000","₩23,000",2시간 주문형 동영상,"배울 내용
+Setup an SQLite Database Server
+Restore a sample database
+Backup sample database
+Query and manipulate database
+Build queries
+Create database tables
+Insert data into database
+Update data in database
+Delete data in database
+Filter and sort data",영어,https://www.udemy.com/course/learn-sqlite-from-scratch-create-sql-queries/
+databases,SQL,Software Developer Interview Guide: Must Know SQL Questions,초급자,"19,000","₩25,000",5시간 주문형 동영상,"배울 내용
+Land a high paying role as a software developer/programmer.
+Refresh your SQL questions with the most common database topics asked at the coding interview
+Learn the most commonly asked questions by the likes of Facebook, Google, Amazon and Netflix for beginners.
+Learn not only concepts but also be able to articulate your thought process as you plan and execute a solution.
+Learn how to recognize patterns for solutions to coding interview questions.
+Learn the best way to answer an interview question
+Learn through hands-on coding examples and learn to solve problems quickly
+Write a SQL query to find all products that are never sold.
+더 보기",영어,https://www.udemy.com/course/software-developer-interview-guide-must-know-sql-questions/
+databases,Redis,Redis for Beginners - Hands on with Redis,초급자,"17,000","₩35,000",2.5시간 주문형 동영상,"배울 내용
+The goal of this Redis training is to provide the basic to advanced knowledge of this open-source database called Redis
+It will help the trainee to master Redis’s training of reports and dashboards
+After the finishing of the course, the trainee will advance with skills needed for Redis Architecture, Common usage patterns, Redis as a Database
+Redis as a Cache, Redis for Message Broking, and Valid Data Structures.",영어,https://www.udemy.com/course/redis-for-beginners-hands-on-with-redis/
+databases,Kibana,Complete Guide to Data Visualization with Kibana 8,모든 수준,"17,000","₩23,000",1.5시간 주문형 동영상,"배울 내용
+Fundamentals of data visualization and best practices for effective visual storytelling.
+Utilization of Kibana's advanced features, such as machine learning, maps, and Canvas.
+Creation of various Kibana visualizations, including bar charts, line charts, pie charts, and more.
+Development of interactive dashboards for effective data presentation and communication.
+Best practices for optimizing Kibana performance, security, and scalability.
+Working with Dev Tools
+Installing Installation and configuration of Kibana for data visualization and exploration and kibana
+Examining and finding data such as logs
+더 보기",영어,https://www.udemy.com/course/complete-guide-to-data-visualization-with-kibana/
+databases,MySQL,MySQL Databases | Python Programming (Build App and API),초급자,"17,000","₩23,000",11시간 주문형 동영상,"배울 내용
+Setting up MySQL Database Server
+Creating Objects like Databases and Tables in MySQL
+Setting up Python
+Setting up a development environment for Django.
+Implementing MySQL table joins
+Mastering the basic syntax and constructs of Python.
+Writing Python functions and classes using object-oriented programming (OOP).
+Integrating MySQL with Django using Django's Object-Relational Mapping (ORM).
+Building an API using Django and Django REST Framework.
+Implementing Create, Retrieve, Update, Delete (CRUD) operations in the API.
+더 보기",영어,https://www.udemy.com/course/mysql-databases-python-programming-build-app-and-api/
+databases,Amazon AWS,Mastering AWS Administration,중급자,"19,000","₩25,000",2.5시간 주문형 동영상,"배울 내용
+Host a static website using S3, Route53, and CloudFront
+Build a WordPress website using EC2, RDS, and the Elastic Beanstalk
+Deploy Node. js, Python, and .NET apps on the Elastic Beanstalk
+Provision desktops in the AWS cloud using Amazon Workspaces
+Setup a CI/CD pipeline using CodePipeline and EC2
+Migrate a GIT repo to AWS using CodeCommit
+Deploy a Jenkins server on EC2 and Amazon EBS
+Set up an email pipeline using SES and Route53
+Replace tape backups with cloud storage",영어,https://www.udemy.com/course/mastering-aws-administration/
+databases,PostgreSQL,Learn PostgreSQL From Scratch,초급자,"17,000","₩23,000",4시간 주문형 동영상,"배울 내용
+Basics commands of PostreSQL like CRUD operations in table.
+How to work with the relational databases?
+Important & most used functions in PostgreSQL.
+How to work with primary, logical, and foreign keys within a database ?
+How to work with real-time large datasets ?
+Extended features of PostgreSQL.",영어,https://www.udemy.com/course/postgresql-for-beginners-learn-postgresql-from-scratch/
+databases,MongoDB,MongoDB for Beginners: Build a MEAN Stack App,초급자,"19,000","₩25,000",5시간 주문형 동영상,"배울 내용
+NoSQL Concepts
+MongoDB Installation and Configuration
+Mongo Shell
+Collections and Documents
+MongoDB CRUD Operations
+Schema Validations
+Find document(s) and Perform Operations
+Data Modeling
+Embedded Document and Reference Document
+Model Relationships - 1:m, m:m
+Aggregation and Map-reduce
+Data Import/Export
+Database Backup/Restore
+Building a MEAN Stack App
+MEAN Stack CRUD Operations
+더 보기",영어,https://www.udemy.com/course/mongodb-essentials-for-developers/
+databases,Tableau,Learn Tableau. Prevent the Zombie Apocalypse.,초급자,"19,000","₩25,000",3시간 주문형 동영상,"배울 내용
+Tableau
+Data Analysis",영어,https://www.udemy.com/course/learn-tableau-apocalypse-style/
+databases,Data Engineering,Become an SQL Data Engineer/Data Analyst,초급자,"17,000","₩23,000",7.5시간 주문형 동영상,"배울 내용
+Understand the roles and responsibilities of data analysts and data engineers.
+Identify and use different types of SQL databases including MS SQL, MySQL, PostgreSQL, and Oracle SQL.
+Write basic to complex SQL queries using various SQL syntax, operators, and functions.
+Understand and implement data cleaning, , backup, and restoration in SQL.
+Perform data analysis tasks using SQL, such as computing descriptive statistics and utilizing various functions and techniques for manipulating data.
+Understand the principles of data engineering using SQL, including designing databases, handling ETL processes, and managing large datasets.
+Implement SQL-like queries in NoSQL databases.
+Understand the basics of Big Data technologies and how SQL interfaces with these tools.
+더 보기",영어,https://www.udemy.com/course/become-an-sql-data-engineerdata-analyst/
+databases,SQL,Exam 70-761: Program Database by using Transact-SQL,중급자,"19,000","₩25,000",7.5시간 주문형 동영상,"배울 내용
+Working With Views
+Index
+Programming using T-SQL
+Implementing Stored Procedure
+Imeplement Error Handling and Transaction",영어,https://www.udemy.com/course/exam-70-761-program-database-by-using-transact-sql/
+databases,Keras,A Practical Guide to Deep Learning with Keras,중급자,"19,000","₩25,000",4시간 주문형 동영상,"배울 내용
+Install and configure Keras. Study Deep Convolutional Neural Networks.
+Develop a deep learning network from scratch with Keras using Python to solve a practical problem of classifying the traffic signs on the road.
+Get introduced to Computer Vision & Deep Learning.
+Setup and develop an environment with VM or Docker. Ipython and Jupyter notebook.
+Discover activation functions, forward propagation, backward propagation.
+Tensorboard and intuitions of filters and hyper-parameters.
+Deploy and evaluate for other real-world applications. Future work and readings!
+Learn Neural network style transfer - Image style translation and generation.
+Develop Game AI - Running game agents using Deep Q network.",영어,https://www.udemy.com/course/a-practical-guide-to-deep-learning-with-keras/
+databases,Oracle Database,Oracle Database and ELK Stack – Data Visualization,초급자,"17,000","₩23,000",1시간 주문형 동영상,"배울 내용
+Configuring ELK Stack from the beginning
+AWS RDS for Oracle
+GCP Compute Engine Service
+Logstash Configuration File
+Oracle DB connectivity using Logstash
+Data Visualization using Kibana
+Oracle HR schema data Visualization",영어,https://www.udemy.com/course/oracle-database-and-elk-stack-data-visualization/
+databases,PostgreSQL,PostgreSQL | Learn T-SQL Using PostgreSQL with Real Examples,모든 수준,"17,000","₩23,000",5시간 주문형 동영상,"배울 내용
+Basic Relational Database Concepts
+Normalization
+PostgreSQL Basics
+SQL Basics
+Database Tools to Build Your Own Data Architecture
+Privileges
+Partitioning
+Inheritance
+Row Security Policies
+Some Trip And Trick That Make the life easier for you when using postgresql
+The Groupby and having clauses
+How To Construct Your Own Relational Data Set
+더 보기",영어,https://www.udemy.com/course/postgresql-learn-t-sql-using-postgresql-with-real-examples/
+databases,SQL,Build SQL Queries with Excel from scratch,초급자,"19,000","₩25,000",2시간 주문형 동영상,"배울 내용
+Setup Database Server
+Create Table
+Prep Sample Excel Data
+Build Bulk SQL INSERT Queries
+Build Bulk UPDATE Queries
+Build Bulk DELETE Queries",영어,https://www.udemy.com/course/build-sql-queries-with-excel-from-scratch/
+databases,SQL,SQL Crash Course 2023 From Zero – Learn SQL with PostgreSQL,초급자,"17,000","₩23,000",4.5시간 주문형 동영상,"배울 내용
+Use SQL to answer real questions
+Write advanced queries, like joins, groups and subqueries
+Become comfortable putting SQL and PostgreSQL on your resume
+Use available functions and operators in SQL
+Understand important database concepts
+Create your own databases",영어,https://www.udemy.com/course/sql-with-postgresql/
+databases,Database Management,How to Download and Restore Databases in SQL Server,초급자,"17,000","₩23,000",1시간 주문형 동영상,"배울 내용
+Install SQL Server
+Install SQL Server Management Studio -SSMS
+Connect SSMS to SQL Server
+Restore adventureworks database
+Restore adventureworksDW database
+Restore World Wide Importers database
+Restore World Wide ImportersDW database
+Explore SQL Server Data Files",영어,https://www.udemy.com/course/how-to-download-and-restore-databases-in-sql-server/
+databases,Microsoft Access,How to Use SQL with Microsoft Access,초급자,"17,000","₩23,000",1시간 주문형 동영상,"배울 내용
+Fetch data with SQL
+Remove duplicate data with SQL
+Filter data with SQL
+Sort data with SQL
+Create a table with SQL
+Insert data into tables
+Update data in database
+Delete data in database",영어,https://www.udemy.com/course/how-to-use-sql-with-microsoft-access/
+databases,SQL,Basic SQL CRUD,초급자,"17,000","₩23,000",2시간 주문형 동영상,"배울 내용
+Creating and dropping tables and views in databases
+Inserting and deleting records into tables in databases
+Updating records in tables in databases
+Using transactions to minimize mistakes with database operations
+Basics of importing data into and exporting data out of databases",영어,https://www.udemy.com/course/basic-sql-crud/
+databases,SQL,RDBMS - SQL Course - Step by Step Guide to learn SQL,초급자,"17,000","₩23,000",13시간 주문형 동영상,"배울 내용
+Understand the basic and Intermediate concepts of databases and MySQL
+How to write SQL queries to manipulate data.
+Learn how to create database tables using SQL commands.
+Learn how to perform different types of join operations.
+Learn SQL operators to write complex SQL queries.
+Learn how to perform different types of Set Operators.
+Learn about different SQL functions and constrains including NULL values.
+How to write SQL queries to insert, update and delete data into database.",영어,https://www.udemy.com/course/rdbms-sql-course-step-by-step-guide-to-learn-sql/
+databases,Microsoft Azure,Modernize Node.js Web Apps with Azure App Service,중급자,"19,000","₩25,000",2시간 주문형 동영상,"배울 내용
+Simplify your deployment and testing processes with CI/CD
+Explore the flexibility of Azure App Service to configure and scale up your Node. js Web App
+Prevent performance issues by monitoring and diagnosing your app with Azure App Service
+Perform necessary tests on your refactored Node. js app and deploy it to Azure
+Improve deployment speed by introducing environmental variables
+Scale your application and maintain high availability to meet your customer's growing demands
+Set up and secure a cloud MySQL Database for your web app
+Manage and schedule your server tasks in the background with Azure",영어,https://www.udemy.com/course/modernize-nodejs-web-apps-with-azure-app-service/
+databases,Database Programming,Design Database Views in SQL Server,초급자,"19,000","₩25,000",1.5시간 주문형 동영상,"배울 내용
+Designing SQL Server Views
+Implementing SQL Server Views
+Advanced Database View Techniques
+Indexing Views
+Managing Large Tables using Views
+Partitioning Views",영어,https://www.udemy.com/course/designing-and-implementing-views-in-sql-server/
+databases,SQL,Learn SQL From Scratch,초급자,"17,000","₩23,000",3.5시간 주문형 동영상,"배울 내용
+What is Database & Types of Databases ?
+Basics of SQL
+How to work with complex queries ?
+How to work with nested queries ?
+Important Concepts like Joins, Wildcards, Unions, Functions, Triggers Etc.
+ER Diagram",영어,https://www.udemy.com/course/sql-for-beginners-sfg/
+databases,PL/SQL,Oracle PL/SQL for beginners,초급자,"17,000","₩23,000",1.5시간 주문형 동영상,"배울 내용
+Create PL/SQL Blocks
+Execute PL/SQL Blocks
+Create and initialize variables
+Create functions
+Create PL/SQL Stored procedures
+Execute or call PL/SQL Procedures
+Use conditional statements to execute block of code",영어,https://www.udemy.com/course/oracle-plsql-for-beginners/
+databases,PostgreSQL,PostgreSQL for beginners,초급자,"17,000","₩23,000",4.5시간 주문형 동영상,"배울 내용
+Solving real-world data analytics use cases through Postgres
+PGAdmin4 tool walkthrough
+Beginner commands - SELECT, LIMIT, CREATE, INSERT, WHERE, GROUP BY, ORDER BY, LIMIT, FETCH, HAVING
+Joins - LEFT, RIGHT, INNER, FULL OUTER, CROSS JOIN, SELF JOIN, NATURAL JOIN
+Grouping sets, CUBE and ROLLUP
+UNION, UNION ALL, INTERSECT, EXCEPT
+Writing sequence and Execution sequence of the codes
+CASE WHEN statements
+Subqueries - ALL, ANY, EXISTS commands
+Window functions - NTILE, LAG, LEAD, ROW_NUMBER, FIRST_VALUE
+더 보기",영어,https://www.udemy.com/course/postgres-for-data-analytics/
+databases,Microsoft Access,Access 365 Expert: The Ultimate Access 365 Database Course,전문가,"17,000","₩23,000",3.5시간 주문형 동영상,"배울 내용
+Students will learn and use the Access Event Model and delve more into Access VBA.
+Students will learn when and how to use Data Access Macros and assign them to the table level.
+Students will learn more about Access Macros to maintain inventory tables.
+Students will use Access Macros to create simple messages to calling multi-action queries.
+Students will learn to password protect database and vba code.
+Students will learn how to build and deploy multi-user applications",영어,https://www.udemy.com/course/access-365-expert/
+databases,SQLite,SQLite for Beginners,초급자,"17,000","₩23,000",35분 주문형 동영상,"배울 내용
+Learn to work with SQLite databases
+Learn the fundamentals of writing SQL queries
+Learn SQL commands such as SELECT, DELETE, CREATE, DROP, JOIN, and many more
+Learn how to use SQL to improve your career
+Learn how to use databases in your Python programs",영어,https://www.udemy.com/course/sqlite-for-beginners-f/
+databases,dbt (Data Build Tool),dbt(data build tool): dbt for Data Engineers,초급자,"17,000","₩23,000",7시간 주문형 동영상,"배울 내용
+dbt(data build tool) Cloud and Core Configuration to Snowflake
+dbt Models and their deployment
+Materialization and its different types
+Basic Data Warehouse Concepts
+Slowly Changing Dimensions and Snapshot in dbt
+dbt Sources and Seeds
+Jinja basic fundamentals
+Macros and Packages
+Testing of Different Models
+Basic Overview of Jinja Templating language and it's usage in dbt models
+dbt documentation and Job deployment",영어,https://www.udemy.com/course/dbt-data-build-tool/
+databases,SQL,SQL Server Management Studio - Tips & Tricks,모든 수준,"17,000","₩23,000",2시간 주문형 동영상,"배울 내용
+Learn to run, debug, save the sql-query
+Different menu options and how to use them effectively
+Database object exploration
+Managing DB, User, Login through SSMS",영어,https://www.udemy.com/course/sql-server-management-studio-tips-tricks/
+databases,SQL,"From Excel to SQL, Master SQL Like a Pro!",초급자,"23,000",,5.5시간 주문형 동영상,"배울 내용
+Develop a strong foundation in SQL, mastering syntax, database concepts, and querying techniques for efficient data manipulation.
+Seamlessly transfer Excel skills to SQL, leveraging familiarity with formulas and functions to perform data analysis effortlessly.
+Execute complex SQL queries, extracting and transforming data for advanced analysis, utilizing aggregation, joins, and subqueries.
+Generate insightful reports and visualizations in SQL, summarizing data, creating calculated fields, and effectively communicating findings.
+Acquire practical knowledge of database management and best practices, ensuring efficient data retrieval, organization, and optimization in SQL",영어,https://www.udemy.com/course/from-excel-to-sql/
+databases,SQL,SQL Crash Course: Zero experience to Jr. Full Stack Dev.,초급자,"17,000","₩23,000",3.5시간 주문형 동영상,"배울 내용
+Learn the fundamentals of SQL
+Develop Junior to Mid Level developer skills in MySQL
+Understand the role databases have in an application
+Learn how to search, create, update, delete and manage data in a full stack application.",영어,https://www.udemy.com/course/sql-crash-course-zero-experience-to-jr-full-stack-dev/
+databases,MySQL,Complete Mysql tutorial + Learning 16 complex queries,초급자,"19,000","₩25,000",3.5시간 주문형 동영상,"배울 내용
+You will how to work with mysql databases from scratch
+You will learn how to use structured query language for creating tables, columns and keys
+You will learn how to design a medium sized ecommerce database
+You will learn how to create different types of relationships
+You will learn how to create and execute 16 complex queries for extracting complex data",영어,https://www.udemy.com/course/complete-mysql-tutorial-learning-16-complex-queries/
+databases,PostgreSQL,PostgreSQL Partitioning. Before 2GB frontier,초급자,"17,000","₩23,000",2시간 주문형 동영상,"배울 내용
+Foundations of table partitioning in PostgreSQL
+Declarative and inheritance partitioning in PostgreSQL
+Why and when use different types of the partitioning
+Skills to analyze conditions for the partitioning introduction",영어,https://www.udemy.com/course/postgresql-partitioning-before-2gb-frontier/
+databases,Firebase,The Complete Firebase & Android Course - Mastering Firebase,모든 수준,"17,000","₩23,000",10시간 주문형 동영상,"배울 내용
+Build 9 Android Apps with Firebase Services and Products
+Master Firebase Firestore and Storage
+Create 5 Apps with Firebase Machine Learning Kit
+Build Professional Journal App ( Firebase Storage, Auth and Firestore)
+Create Face Detection App with Firebase ML Kit
+Create QR Code Scanner App with Firebase ML Kit
+Create Language Translator App with Firebase ML Kit
+Create OCR App with Firebase ML Kit
+Send Cloud Messages to your apps
+Firebase Authentication system
+Firebase Storage
+Firebase Firestore
+더 보기",영어,https://www.udemy.com/course/the-complete-firebase-android-course-mastering-firebase/
+databases,Oracle 1Z0-149,PLSQL - Oracle PL/SQL Exam 1Z0-149 / Database Program - 2023,모든 수준,"17,000","₩23,000",,,영어,https://www.udemy.com/course/1z0-149-oracle-database-program-with-plsql/
+databases,SQL,Realistic SQL Interview Prep Exams: Essential Questions 2023,모든 수준,"17,000","₩23,000",,,영어,https://www.udemy.com/course/realistic-sql-interview-prep-exams-essential-questions/
+databases,MySQL,1500 MySQL Interview Questions and Answers [July 2023],모든 수준,"17,000","₩23,000",,,영어,https://www.udemy.com/course/mysql-interview-questions/
+databases,SQL,Assess Your SQL Knowledge: Real-Life Challenging MCQs,초급자,"17,000","₩23,000",,,영어,https://www.udemy.com/course/assess-your-sql-knowledge-real-life-challenging-mcqs/
+databases,NoSQL,NoSQL: A Simple COURSE For Beginners,초급자,"17,000","₩23,000",1시간 주문형 동영상,"배울 내용
+Learning NoSQL basic information.
+Learning NoSQL related knowledge.
+Improving your NoSQL education.
+Getting tips for learning.",영어,https://www.udemy.com/course/nosql-a-simple-course-for-beginners/
+databases,Database Programming,"Database Systems Setup: PostgreSQL , MySQL, MS SQL Server",초급자,"17,000","₩23,000",2시간 주문형 동영상,"배울 내용
+Install and Setup PostgreSQL Database System
+Install and Setup MySQL Database System
+Install and Setup Microsoft SQL Server System
+Load sample databases into database systems
+Connect to database systems with various software tools",영어,https://www.udemy.com/course/database-systems-setup-postgresql-mysql-ms-sql-server/
+databases,Oracle SQL,Oracle SQL - A Complete Introduction,초급자,무료,,,,영어,https://www.udemy.com/course/introduction-to-oracle-sql/
+databases,OrientDB,OrientDB - Getting Started with Graph and Document Databases,초급자,무료,,,,영어,https://www.udemy.com/course/orientdb-getting-started/
+databases,Elasticsearch,Getting Started with Elasticsearch,초급자,무료,,,,영어,https://www.udemy.com/course/elasticsearch101/
+databases,SQL Server,The Ultimate Guide in Becoming a SQL Server DBA,초급자,무료,,,,영어,https://www.udemy.com/course/the-ultimate-guide-in-becoming-a-sql-server-dba/
+databases,SQL,Free SQL 101 Class Bootcamp Beginners Intro to SQL NYC,초급자,무료,,,,영어,https://www.udemy.com/course/sql-analytics-coding-101-bootcamp-begineers-course-hand-on/
+databases,Database Programming,Getting Started with ArangoDB,초급자,무료,,,,영어,https://www.udemy.com/course/getting-started-with-arangodb/
+databases,Oracle SQL,Oracle SQL: An Introduction to the most popular database,초급자,무료,,,,영어,https://www.udemy.com/course/oracle-sql-an-introduction-to-the-most-popular-database/
+databases,SQL,Introduction to SQL Using TeamSQL,초급자,무료,,,,영어,https://www.udemy.com/course/introduction-to-sql-using-teamsql/
+databases,Azure Virtual Machines,Azure Real World Hand-on Training For Beginners.,초급자,무료,,,,영어,https://www.udemy.com/course/azure-real-world-hand-on-training-for-beginners/
+databases,Data Structures,Data Structures: An Illustrative Introduction,초급자,무료,,,,영어,https://www.udemy.com/course/data-structures-an-illustrative-introduction/
+databases,Python,SQL to Python for Beginners,초급자,무료,,,,영어,https://www.udemy.com/course/sql-to-python-for-beginners/
+databases,Solidity,Dive into Solidity Smart Contract Development,중급자,무료,,,,영어,https://www.udemy.com/course/dive-into-solidity-smart-contract-development/
+databases,JavaScript,Spreadsheet Data query from JavaScript Frontend Code AJAX,중급자,무료,,,,영어,https://www.udemy.com/course/sheet-data-ajax/
+databases,FileMaker,Working with FileMaker Starter Solutions,초급자,무료,,,,영어,https://www.udemy.com/course/working-with-filemaker-starter-solutions/
+databases,Redis,Redis Tutorial for Beginners,초급자,무료,,,,영어,https://www.udemy.com/course/redis-tutorial-for-beginners/
+databases,Database Programming,SQL Server For Beginners - Part 3,초급자,무료,,,,영어,https://www.udemy.com/course/sql-server-for-beginners-part-3/
+databases,SQL Server,Introduction to database concepts - SQL Server,초급자,무료,,,,영어,https://www.udemy.com/course/introduction-to-database-concepts-sql-server/
+databases,Data Analysis,How to become a Data Analyst,초급자,무료,,,,영어,https://www.udemy.com/course/how-to-become-a-data-analyst/
+databases,SQL Server,Microsoft SQL Server Bootcamp for Absolute Beginners,초급자,무료,,,,영어,https://www.udemy.com/course/microsoft-sql-server-bootcamp-for-absolute-beginners/
+databases,Rapid Application Development,How to Build a Patient Portal Application With Caspio,초급자,무료,,,,영어,https://www.udemy.com/course/how-to-build-a-patient-portal-application-with-caspio/
+databases,Python,Graph plotting in Python for scientific Journals & papers,모든 수준,무료,,,,영어,https://www.udemy.com/course/basic-and-advanced-graph-plotting-in-python-masterclass/
+databases,Rapid Application Development,How to Build Different Type of Web Forms With Caspio,초급자,무료,,,,영어,https://www.udemy.com/course/how-to-build-different-type-of-web-forms-with-caspio/
+databases,Apache Spark,Overcoming Common Performance Issues in Apache Spark,초급자,무료,,,,영어,https://www.udemy.com/course/overcoming-common-performance-issues-in-apache-spark/
+databases,Amazon RDS,AWS RDS Concepts BootCamp,모든 수준,무료,,,,영어,https://www.udemy.com/course/aws-rds-concepts-bootcamp/
+databases,DynamoDB,Databases in Cloud - Amazon DynamoDB,중급자,무료,,,,영어,https://www.udemy.com/course/databases-in-cloud-amazon-dynamodb/
+databases,Windows Forms,Introduction to WinForms,초급자,무료,,,,영어,https://www.udemy.com/course/introduction-to-winforms/
+databases,Rapid Application Development,"Create a working IoT Project - Apache Kafka, Python, GridDB",초급자,무료,,,,영어,https://www.udemy.com/course/create-a-working-iot-project-with-iot-database-griddb/
+databases,IBM Db2,DB2 for Newbies: Manipulating DB2 Databases with SQL,초급자,무료,,,,영어,https://www.udemy.com/course/db2-for-newbies-manipulating-db2-databases-with-sql/

@@ -1,0 +1,1950 @@
+﻿대분류,소분류,강의명,난이도,가격(현재가격),가격(원래가격),총소요시간,강의소개,언어,출처
+development-tools,Git,【한글자막】 Git & Github 실무 활용 완벽 가이드,초급자,"69,000",88000.0,17시간 주문형 동영상,"배울 내용
+Git이 보이지 않는 곳에서 어떻게 작동하는지 이해합니다.
+트리, 블롭, 커밋, 주석 태그와 같은 Git 객체의 차이점을 설명합니다.
+추가하기와 커밋하기 같은 필수 Git 워크플로우를 익힙니다.
+Git 브랜치로 작업합니다.
+Git merge를 수행하고 병합 과정에서 발생한 충돌을 해결합니다.
+Git diff를 사용하여 시간 경과에 따른 변경사항을 표시합니다.
+Git stash 방법을 익힙니다.
+Git restore, Git revert, Git reset을 사용하여 변경사항을 원래대로 되돌립니다.
+로컬 및 원격 저장소를 사용하여 작업합니다.
+Pull request, ‘fork 및 clone’ 등의 협업 워크플로우를 익힙니다.
+더 보기",한국어,https://www.udemy.com/course/best-git-github/
+development-tools,JIRA,이슈트래킹과 협업을 더 쉽게! 전문가에게 배우는 JIRA 첫걸음,모든 수준,"19,000",69000.0,6시간 주문형 동영상,"배울 내용
+JIRA에 대한 이해
+JIRA를 이용한 Issue Tracking 및 ALM(Application Lifecycle Management)방법
+JIRA에서 제공하는 각종 기능 활용 방법
+JIRA를 업무 환경에 맞게 커스터마이제이션 하는 방법",한국어,https://www.udemy.com/course/atlassian-jira-a-to-z-powered-by-open-source-consulting/
+development-tools,DevOps,【한글자막】 DevOps (데브옵스) : Terraform 을 이용한 인프라 자동화,초급자,"69,000",88000.0,11시간 주문형 동영상,"배울 내용
+테라폼의 고급 기능을 포함한 테라폼을 이용하고 적용하고 이해하기
+테라폼을 이용해 AWS 리소스 프로비저닝하기
+시험 목표에 맞춘 강의로 하시코프 테라폼 인증 준비하기
+이미지를 만들기 위해 패커를 이용한 테라폼 활용하기
+AWS ECS, 파게이트 그리고 코드 파이프라인과 함께 테라폼 이용하기
+테라폼을 이용해 데브옵스 적용하기",한국어,https://www.udemy.com/course/best-devops-terraform/
+development-tools,DevOps,【한글자막】 DevOps 학습: 파이프라인 및 Docker를 이용한 Jenkins 와의 CI/CD,모든 수준,"48,000",59000.0,4.5시간 주문형 동영상,"배울 내용
+젠킨스를 사용하여 소프트웨어 개발 수명 주기 내에서 지속적 통합 수행
+도커를 사용한 젠킨스 설치
+도커, 잡 DSL, 젠킨스 파이프라인을 사용한 젠킨스 “DevOps 방식” 구성
+플러그인을 사용하여 젠킨스를 널리 사용되는 개발 소프트웨어와 통합
+젠킨스 UI의 보안을 강화하기 위한 인증 및 권한 부여 옵션 구성",한국어,https://www.udemy.com/course/best-devops-docker-jenkins-cicd/
+development-tools,Generative AI,인공지능 코딩으로 동영상 제작 로봇 만들고 영상 무한으로 찍어내기,모든 수준,"99,000",,3시간 주문형 동영상,"배울 내용
+인공지능 코딩 도구를 활용하여 문제를 해결해 나가는 방법을 배웁니다.
+인공지능 코딩도구를 통해 AI기반으로 작동하여 동영상을 완전히 자동으로 만들어내는 프로그램을 만드는 방법을 배웁니다
+OpenAI의 GPT API, Dall-E, Google Cloud의 TTS와같은 인공지능 기반의 API를 활용하는 코드를 AI코딩도구를 통해 만드는 방법을 배웁니다
+VSCode의 익스텐션인 AICodeHelper의 사용방법을 배웁니다.",한국어,https://www.udemy.com/course/aicodehelper/
+development-tools,Kubernetes,【한글자막】 Kubernetes 실습: AWS 클라우드에 마이크로서비스 배포하기,모든 수준,"17,000",88000.0,28시간 주문형 동영상,"배울 내용
+쿠버네티스 클러스터에 컨테이너 배포
+EKS 또는 Kops를 사용하여 AWS에서 쿠버네티스 실행
+프로메테우스 및 그라파나를 사용하여 라이브 쿠버네티스 클러스터 모니터링
+ELK 스택(ElasticStack)을 사용하여 시스템 전체 로그를 분석 키바나와 엘라스틱서치
+슬랙 채널에 알림을 보내 쿠버네티스 클러스터에서 알림 처리
+쿠버네티스에서 요청 및 제한이 작동하는 방식 이해
+쿠버네티스 수평형 포드 자동 확장 사용
+라이브 쿠버네티스 배포에서 인그레스 컨트롤 구성
+쿠버네티스 스테이트풀셋 이해
+쿠버네티스를 지속적 배포 시스템(CD)과 통합
+헬름을 사용하여 차트 관리 및 쿠버네티스 YAML을 동적으로 업데이트
+더 보기",한국어,https://www.udemy.com/course/kubernetes-microservices-aws-cloud/
+development-tools,Git,모든 개발자를 위한 실습으로 배우는 Git & GitHub 입문,초급자,"33,000",,4시간 주문형 동영상,"배울 내용
+Git & GitHub의 기본개념
+GIt의 기초 명령어부터 심화명령어까지
+GitHub의 기본기능부터 심화기능까지
+터미널 명령어와 vi 활용법 기초",한국어,https://www.udemy.com/course/learn-git-github-by-practice/
+development-tools,Docker,【한글자막】 Docker - Java 개발자를 위한 완벽 실습 과정,모든 수준,"17,000",88000.0,8.5시간 주문형 동영상,"배울 내용
+프로덕션 품질의 Java 시스템에서의 Docker 사용하기
+클러스터 내 여러 노드에 시스템 분산하기
+이미지를 DockerHub에 게시하기
+이미지와 컨테이너의 차이점 파악하기
+Dockerfile에 컨테이너 구축하기
+Docker를 빌드 프로세스에 통합하기",한국어,https://www.udemy.com/course/docker-java-developer/
+development-tools,GitHub,처음 배우는 Git/GitHub,모든 수준,"119,000",,5시간 주문형 동영상,"배울 내용
+Git& GitHub에 대한 기본 개념을 이해한다.
+Git 설치와 기본/중급/심화 명령어를 익힌다.
+GitHub 회원가입 방법과 기본, 중급 기능을 익힌다.
+GitHub 실전 프로젝트 실습을 통해서 활용방법을 익힌다.",한국어,https://www.udemy.com/course/gitgithub_hihrd/
+development-tools,C++ (programming language),C++중급 개발자로 도약하기: Qt/부스트 애플리케이션 개발,초급자,무료,,,,한국어,https://www.udemy.com/course/cpp_development_with_qt_and_boost_library/
+development-tools,Git,[생활코딩] 깃(GIT) 입문,초급자,무료,,,,한국어,https://www.udemy.com/course/git-yxee/
+development-tools,Kubernetes,Docker Mastery: with Kubernetes +Swarm from a Docker Captain,모든 수준,"33,000",169000.0,21시간 주문형 동영상,"배울 내용
+How to use Docker, Compose and Kubernetes on your machine for better software building and testing.
+Learn Docker and Kubernetes official tools from an award-winning Docker Captain!
+Learn faster with included live chat group (50,000 members!) and monthly live Q&A.
+Gain the skills to build development environments with your code running in containers.
+Build Swarm and Kubernetes clusters for server deployments!
+Setup GitHub Actions to auto-build your images and scan for security vulnerabilities
+Hand's-on with best practices for making Dockerfiles and Compose files like a Pro!
+Build and publish your own custom images.
+Create your own custom image registry to store your apps and deploy in corporate environments.",영어,https://www.udemy.com/course/docker-mastery/
+development-tools,Docker,Docker and Kubernetes: The Complete Guide,모든 수준,"37,000",179000.0,21.5시간 주문형 동영상,"배울 내용
+Learn Docker from scratch, no previous experience required
+Master the Docker CLI to inspect and debug running containers
+Build a CI + CD pipeline from scratch with Github, Travis CI, and AWS
+Understand the purpose and theory of Kubernetes by building a complex app
+Automatically deploy your code when it is pushed to Github!",영어,https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
+development-tools,Confluence,Learn JIRA with real-world examples (+Confluence bonus),모든 수준,"22,000",99000.0,11.5시간 주문형 동영상,"배울 내용
+Understand what JIRA is, benefits of JIRA and how to use JIRA
+Understand Scrum - the stakeholders, events and overall flow of work
+Understand Kanban flow of work
+Use JIRA as a user working within an agile team - creating, working on and searching for issues, customizing dashboards etc.
+Use JIRA as a manager of an agile team - configuring agile boards, managing the backlog, sprints and releases etc.
+Administer all aspects of JIRA - create users, groups, set permissions, configure issue types, screens, fields, workflows etc.
+Use examples presented in this course to customize and use JIRA based on your own unique needs
+Get ideas (through examples presented in the course) on how JIRA can be utilized for different scenarios or situations
+Learn the basics of Confluence
+Learn how you can use both JIRA and Confluence together to work better and be more productive in general",영어,https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/
+development-tools,Alteryx,Alteryx Bootcamp,초급자,"19,000",59000.0,6.5시간 주문형 동영상,"배울 내용
+Develop Alteryx Workflows
+Create ETL (Extract Transform and Load) Processes
+Perform Predictive Analytics Functions
+Build Custom Data Transformations
+Develop Repeatable Alteryx Macros
+Embed custom R code inside Alteryx
+Use Alteryx in your Professional Day Job",영어,https://www.udemy.com/course/alteryx-bootcamp/
+development-tools,JIRA,"Understanding Jira for users, managers and admins",모든 수준,"17,000",49000.0,7시간 주문형 동영상,"배울 내용
+Understand Jira's core features and how it works.
+Use Jira more productively.
+Benefit from Jira as a team leader or manager.
+Set Jira up for your team or company as an administrator.",영어,https://www.udemy.com/course/introduction-to-jira/
+development-tools,Git,The Git & Github Bootcamp,초급자,"17,000",79000.0,17시간 주문형 동영상,"배울 내용
+Understand how Git works behind the scenes
+Explain the difference Git objects: trees, blobs, commits, and annotated tags
+Master the essential Git workflow: adding & committing
+Work with Git branches
+Perform Git merges and resolve merge conflicts
+Use Git diff to reveal changes over time
+Master Git stashing
+Undo changes using git restore, git revert, and git reset
+Work with local and remote repositories
+Master collaboration workflows: pull requests, ""fork & clone"", etc.
+더 보기",영어,https://www.udemy.com/course/git-and-github-bootcamp/
+development-tools,CI/CD,"GitLab CI: Pipelines, CI/CD and DevOps for Beginners",중급자,"17,000",69000.0,5시간 주문형 동영상,"배울 내용
+What is a pipeline
+What is Continuous Integration (CI), Continuous Delivery (CD) and Continuous Deployment (CD)
+Automate your build, test & deployment with Gitlab CI
+Learn industry ""best practices"" in building CI/CD pipelines
+Demonstrate your understanding of building CI/CD pipelines to future employers
+Automate your builds, tests, and deployments
+Automatic deployments using AWS
+Build pipelines with code quality checks, unit tests, API testing
+Solve problems with hands-on assignments
+Create Merge Requests and review code
+더 보기",영어,https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/
+development-tools,Entity Framework,Entity Framework in Depth: The Complete Guide,중급자,"17,000",59000.0,6.5시간 주문형 동영상,"배울 내용
+Understand the differences between database-first and code-first workflows
+Build a domain model using database-first workflow
+Build a domain model using code-first workflow (with an existing or a new database)
+Use code-first migrations to upgrade or downgrade your database
+Override code-first conventions (using data annotations and fluent API)
+Query data using LINQ (using query syntax and extension methods)
+Use eager loading, lazy loading and explicit loading effectively
+Add, update and remove objects
+Use additional tools to profile and troubleshoot your applications
+Understand what the repository pattern is, what and if you need it, and how to implement it
+더 보기",영어,https://www.udemy.com/course/entity-framework-tutorial/
+development-tools,Terraform,Terraform for the Absolute Beginners with Labs,초급자,"17,000",69000.0,4.5시간 주문형 동영상,"배울 내용
+Gain a good understanding of Infrastructure as Code
+Gain confidence working with the HCL format
+Gain hands-on experience working with Terraform
+Learn to provision AWS infrastructure with Terraform",영어,https://www.udemy.com/course/terraform-for-the-absolute-beginners/
+development-tools,Kubernetes,Kubernetes Hands-On - Deploy Microservices to the AWS Cloud,모든 수준,"17,000",79000.0,28시간 주문형 동영상,"배울 내용
+Deploy containers to a Kubernetes Cluster
+Run Kubernetes in AWS using either EKS or Kops
+Monitor a live Kubernetes cluster using Prometheus and Grafana
+Analyse system-wide logs using the ELK Stack (ElasticStack); Kibana and ElasticSearch
+Handle Alerts in a Kubernetes cluster by notifying Slack Channels
+Understand how Requests and Limits work in Kubernetes
+Use Kubernetes Horizontal Pod Autoscaling
+Configure Ingress Control on a live Kubernetes deployment
+Understand Kubernetes StatefulSets
+Integrate Kubernetes with a Continuous Deployment System (CD)
+더 보기",영어,https://www.udemy.com/course/kubernetes-microservices/
+development-tools,DevOps,DevOps MasterClass : Terraform Jenkins Kubernetes Ansible,모든 수준,"17,000",79000.0,65시간 주문형 동영상,"배울 내용
+An understanding of DevOps and the modern DevOps Tools Docker, Kubernetes, Jenkins, Docker Swarm, Kubernetes Helm.
+The ability as DevOps Engineer to Automate Code Delivery and Deployment Pipeline Using Jenkins.
+Complete Understanding of Docker Containers & Docker Swarm Orchestration & Kubernetes.
+Learn Building the Apps Dockerize using Docker Containers and Docker File & HELM as DevOps Engineer.
+Be DevOps Master in Kubernetes and Kubernetes Administration from Scratch to Advance Level.
+Kubernetes Development and Complete Deployment on Kubernetes & Docker Containers.
+As CI DevOps Engineer, Jenkins Multiple Integration with Modern Technology Tools like Docker, Code Delivery Pipeline, Git & GitHub .",영어,https://www.udemy.com/course/devops-training/
+development-tools,Vim Text Editor,Vim Masterclass,모든 수준,"20,000",88000.0,7시간 주문형 동영상,"배울 내용
+Edit plain text files quickly and efficiently using the Vim text editor.",영어,https://www.udemy.com/course/vim-commands-cheat-sheet/
+development-tools,CI/CD,Introduction to Continuous Integration & Continuous Delivery,모든 수준,"19,000",25000.0,2.5시간 주문형 동영상,"배울 내용
+Understand what Continuous Integration and Continuous Delivery is
+Obtain a firm understanding of DevOps
+Understand the competitive advantages of using CI and CD in your organization
+Find out why companies like NetFlix and Amazon use CI and CD in their daily workflow
+Find out about the popular tools for integrating CI and CD into your workflow
+See an actual case study of a real project using CI/CD from start to finish",영어,https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/
+development-tools,Data Visualization,"Complete Course on Data Visualization, Matplotlib and Python",모든 수준,"19,000",59000.0,3.5시간 주문형 동영상,"배울 내용
+Learn Matplotlib Anatomy
+Customize charts of any complexity with ease
+Create a variety of charts, Bar Charts, Line Charts, Stacked Charts, Donut and Pie Charts, Histograms, KDE plots, Violinplots, Boxplots, Auto Correlation plots, Scatter Plots, Heatmaps
+Feel comfortable managing various Matplotlib Artists such as Legends, Annotations, Texts, Patches, Lines, Collections, Containers, Axis
+Create statistical charts with Seaborn
+Visualize data with Matplotlib in OOP
+Dual Axis Charts",영어,https://www.udemy.com/course/complete-course-on-data-visualization-matplotlib-and-python/
+development-tools,CI/CD,Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins,모든 수준,"17,000",59000.0,9시간 주문형 동영상,"배울 내용
+You will know how to Practically Implement Continuous Integration & Delivery for any Projects
+Understand working with AWS Cloud Linux Servers from Scratch to Setup Deployment
+Real time hands on Deploying Apps into Dockerized Containers by setting up Dockers in AWS
+Knowledge on Ansible tool to automate the Scripts/tasks in any Linux Servers
+Ability to achieve Continuous Integration with Ansible + Docker + Jenkins + GIT
+Git Web Hook Integration with Jenkins to achieve Continuous Integration Solution",영어,https://www.udemy.com/course/devops-fundamentals-aws/
+development-tools,Git,The Complete Git Guide: Understand and master Git and GitHub,모든 수준,"19,000",79000.0,23시간 주문형 동영상,"배울 내용
+Deeply understand how Git works under the hood
+Use Git not just in terminal but also in graphical user interfaces like GitHub Desktop, SourceTree, Visual Studio Code
+Learn different GIt objects - blobs, trees, commits and annotated tags
+Create local and remote Git repositories
+Perform basic and advanced Git operations
+Learn how to perform rebasing and merging of the branches
+Learn what is pull request and how to create pull request at GitHub
+Contribute to public repositories using technique of forks and pull requests from the forked repository
+Understand what is semantic versioning and how to use Git Tags in order to create software release versions
+Learn advanced Git operations - squashing, cherry-picking, amending, reverting commits.",영어,https://www.udemy.com/course/git-and-github-complete-guide/
+development-tools,AWS Certified Developer - Associate,AWS Certified Developer Associate Practice Exams,모든 수준,"17,000",69000.0,,,영어,https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-amazon-dva-c01/
+development-tools,Apache Kafka,Apache Kafka Series - Confluent Schema Registry & REST Proxy,중급자,"17,000",69000.0,4.5시간 주문형 동영상,"배울 내용
+Write simple and complex Avro Schemas
+Create, Write and Read Avro objects in Java
+Write a Java Producer and Consumer leveraging Avro data and the Schema Registry
+Learn about Schema Evolution
+Perform Schema evolution using the command line and in Java
+Utilize the REST Proxy using a REST Client",영어,https://www.udemy.com/course/confluent-schema-registry/
+development-tools,Articulate Storyline,Create eLearning Courses with Articulate Storyline 360,초급자,"17,000",23000.0,14.5시간 주문형 동영상,"배울 내용
+Ability to create engaging eLearning courses
+Create instructional eLearning interactions",영어,https://www.udemy.com/course/create-elearning-courses-with-articulate-storyline-360-or-3/
+development-tools,DevOps,Learn Devops: Continuously Deliver Better Software,모든 수준,"20,000",25000.0,4.5시간 주문형 동영상,"배울 내용
+Apply DevOps in your team
+Understand Continuous Delivery
+Automate the Software Development Lifecycle (SDLC)
+Automate the deployment process
+Reduce release time
+Release better software
+Build a highly available and fully scalable application
+Deploy microservices using Docker and Kubernetes
+Automate using Ansible and Chef",영어,https://www.udemy.com/course/learn-devops-continuously-deliver-better-software/
+development-tools,Open API Specification,OpenAPI: Beginner to Guru,모든 수준,"17,000",59000.0,5시간 주문형 동영상,"배울 내용
+Learn to define APIs using OpenAPI Specifications
+Create awesome API Documentation with Swagger UI
+Edit OpenAPI Specifications in Swagger Hub",영어,https://www.udemy.com/course/openapi-beginner-to-guru/
+development-tools,Docker,Docker - Hands On for Java Developers,모든 수준,"17,000",59000.0,8.5시간 주문형 동영상,"배울 내용
+Use Docker on production quality Java systems.
+Distribute systems across multiple nodes in a cluster
+Publish your own images on DockerHub
+Know the differences between images and containers
+Build your own containers from Dockerfiles
+Integrate Docker into your build process",영어,https://www.udemy.com/course/docker-hands-on/
+development-tools,JIRA,The Complete JIRA Agile Project Management Course,초급자,"20,000",26000.0,2시간 주문형 동영상,"배울 내용
+Learn how to configure and customize board components, swimlanes, columns & layouts to help your team visualize work in progress with ease
+Create and understand the key differences between JIRA Scrum and Kanban boards
+Understand the key differences between Epics, Stories, Sub-Tasks and Bugs
+Understand the JIRA issue workflow and how to create issues
+Leverage burndown, control and cumulative flow charts for reporting",영어,https://www.udemy.com/course/the-complete-jira-agile-project-management-course/
+development-tools,Version Control,Git & GitHub For Beginners - Master Git and GitHub (2022),초급자,"20,000",69000.0,9.5시간 주문형 동영상,"배울 내용
+Understand some ""Common Problems"" developers face (without Git)
+Learn what is Version Control System (VCS )
+Download & Install Git Source Control System
+Create ""First Git Project"" (Initialize a Git Repository)
+Learn the key concepts of ""Git Basic Workflow""
+Understand the difference between ""Git Untracked"" and ""Git Tracked"" files
+3 stages: Working Directory - Git Staging Area - Git Repository
+Learn Git Common Commands - ""git status"", ""git add"", ""git commit"", ""git log""
+Review Changes using ""git diff""
+Unstage & Revert - Important Git and GitHub functionalities
+더 보기",영어,https://www.udemy.com/course/git-and-github-crash-course/
+development-tools,Git,Git & GitHub Complete Masterclass : Beginner to Git Expert,모든 수준,"22,000",27000.0,14시간 주문형 동영상,"배울 내용
+Build rock solid foundation in Git and related concepts
+Learn Git installation on multiple platforms
+Learn how to configure git repository in 3 ways
+Learn how to modify, add and commit artifacts
+Learn how to inspect Git repository using status and log checks
+Learn Git branching basics
+Learn to basics of public key cryptography
+Learn GitHub and how use and manage the web based Git repository
+Learn how to communicate with GitHub from local repository
+Learn HTTPS and SSH connection with GitHub
+더 보기",영어,https://www.udemy.com/course/git-basic-concept-fundamentals-github/
+development-tools,GitHub,GitHub Actions - The Complete Guide,초급자,"17,000",79000.0,10.5시간 주문형 동영상,"배울 내용
+Use GitHub Actions to build automated workflows & processes
+Automate code-based and project-based tasks
+Run simple and complex workflows on a broad variety of triggers
+Build powerful CI / CD workflows, including runtime configuration, security and conditional execution
+Build custom actions or leverage public community solutions
+How to secure GitHub Action workflows",영어,https://www.udemy.com/course/github-actions-the-complete-guide/
+development-tools,CMake,Master CMake for Cross-Platform C++ Project Building,초급자,"17,000",49000.0,3.5시간 주문형 동영상,"배울 내용
+CMake Commands and Terminologies
+Importance of Make and CMake
+Importing and Exporting Packages
+CMake's Scripting Mode
+Configure Project Building using Cache Variables
+Linking against External Libraries",영어,https://www.udemy.com/course/master_cmake/
+development-tools,DevOps,More than Certified in Terraform,초급자,"17,000",79000.0,12.5시간 주문형 동영상,"배울 내용
+Terraform
+Infrastructure as Code
+Docker
+AWS
+Devops
+Hashicorp Configuration Language
+Terraform Cloud",영어,https://www.udemy.com/course/terraform-certified/
+development-tools,Data Analysis,Fundamentals of Watson Analytics,모든 수준,"19,000",25000.0,1시간 주문형 동영상,"배울 내용
+Learn the Fundamentals of Watson Analytics
+Importing, joining, and refining data
+Using natural language querying
+Understanding key drivers
+Data, discovery, and display
+Displaying insights and interpreting decision trees",영어,https://www.udemy.com/course/fundamentals-of-watson-analytics/
+development-tools,Alexa Development,Comprehensive Alexa Skill Development course (2018 Updated),모든 수준,"17,000",48000.0,9.5시간 주문형 동영상,"배울 내용
+Develop Alexa skills using Alexa Skills Kit (ASK) and publish skills to Alexa Skill Store
+Develop Alexa Skills using AWS Lambda function or Web Service as an end point
+Create Skills using Account linking feature of Alexa Skills Kit, so that you can link Alexa user with use in your system
+Do automated testing of Alexa Skills using Mocha test framework or Python Unittest framework
+Learn how to access external APIs from your Alexa Skills
+Learn how to access external database like AWS DynamoDB from your Alexa Skill to store per user information
+Learn how to setup your local environment and AWS CLI, so that you can automate the process of uploading Alexa Skills from your local machine
+Learn how to use FLASK-ASK framework to develop Alexa Skills
+Create your own custom skills for Amazon Echo, Echo dot devices",영어,https://www.udemy.com/course/comprehensive-alexa-skill-development-course/
+development-tools,Docker Swarm,Docker Swarm Mastery: DevOps Style Cluster Orchestration,중급자,"17,000",69000.0,9.5시간 주문형 동영상,"배울 내용
+Create a multi-node highly-available Swarm cluster on Linux and Windows.
+Remotely orchestrate complex multi-node systems from macOS, Windows, or Linux.
+Update your containers using rolling updates, healthchecks, and rollbacks.
+Ensure zero-downtime updates by understanding service startup and shutdown details.",영어,https://www.udemy.com/course/docker-swarm-mastery/
+development-tools,Git,"Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub",초급자,"48,000",59000.0,4시간 주문형 동영상,"배울 내용
+Learn the key concepts of the Git source control system
+Install git on Windows, MacOS and Linux
+Install the slick visual tool SourceTree on Windows, MacOS and Linux
+Be aware of other visual tools including GitKracken and GitHub Desktop
+Use .gitignore files intelligently to track only what matters
+Create ""feature branches"" to allow you to explore new ideas safely
+""Push"" your work to GitHub or BitBucket for backup & sharing
+Understand how to use the command line when necessary
+Understand more about how the tool you use really works by watching file changes
+Be prepared to collaborate on your project with others professionally",영어,https://www.udemy.com/course/git-smart-learn-git-the-fun-way-with-unity-games/
+development-tools,JIRA,JIRA Visual Reference: Issue Administration,모든 수준,"20,000",48000.0,3.5시간 주문형 동영상,"배울 내용
+After watching this course you'll have a firm understanding of every section in the Issue Administration area of JIRA.
+After watching this course, you'll have a great idea of what JIRA is capable of doing so you'll know how to boost your team's performance in JIRA.
+Perhaps best of all, you don't have to memorize everything in this course. Just come back to the individual videos in this course to get a refresher on exactly what you need.",영어,https://www.udemy.com/course/jira-visual-reference-issue-administration/
+development-tools,Docker,Docker: A Project-Based Approach to Learning,모든 수준,"20,000",69000.0,4.5시간 주문형 동영상,"배울 내용
+How to install, configure, and manage Docker host systems and Docker containers. Linux, Mac, and Windows are covered.
+Hands-on exercises and projects complete with step-by-step, command-by-command instructions. You'll not only learn Docker concepts, but you'll be able to actually USE them in real-world situations.
+Best-practices for creating custom Docker images using Dockerfiles.
+How to dockerize any application, including your very own custom-written applications.
+How to create a private Docker registry to safeguard sensitive data. Perfect for enterprise or corporate environments. (It's like having your own private Docker hub.)
+How to create multi-container applications the right way using Docker networks.
+And much, much more...",영어,https://www.udemy.com/course/docker-tutorial/
+development-tools,ServiceNow,All You Need to Know About REST Integration In ServiceNow,초급자,"19,000",25000.0,5.5시간 주문형 동영상,"배울 내용
+Get knowledge on configuring REST integration
+Have Knowledge on ServiceNow platform to complete the integration between two ServiceNow instances
+Integrate two ServiceNow instances
+Send REST calls from ServiceNow
+Receive REST calls and parse them using Import API",영어,https://www.udemy.com/course/servicenow-rest-integration/
+development-tools,Git,Git & GitHub Masterclass,모든 수준,"20,000",25000.0,11.5시간 주문형 동영상,"배울 내용
+Use Git and GitHub in the way that modern development teams use them.
+Understand the ideal structure of a repository.
+Learn how GitHub will enable great collaboration in a development team.
+Master the git commands that will help you explore any repository.
+Leverage Markdown in your GitHub repositories.
+Publish your repositories in public websites through GitHub Pages.
+Feel comfortable contributing to a repository, whether open source or as part of your job.
+Understand how GitHub is the foundation for more advanced development practices such as CI/CD and DevOps.",영어,https://www.udemy.com/course/git-and-github-masterclass/
+development-tools,Docker,Docker for Node.js Projects From a Docker Captain,중급자,"59,000",69000.0,8시간 주문형 동영상,"배울 내용
+Optimize your local development setup for NodeJS in Docker
+Operate smoothly in a team of NodeJS developers using Docker and Compose
+Improve the speed and reliability of your Node builds and testing using Docker
+Get the best NodeJS tweaks to use for dev, test, and prod
+Design NodeJS images for use with Kubernetes and Swarm
+Learn about security scanning and locking-down your NodeJS apps",영어,https://www.udemy.com/course/docker-mastery-for-nodejs/
+development-tools,JIRA,Leading Agile Teams with Jira Software Cloud,모든 수준,"17,000",59000.0,8.5시간 주문형 동영상,"배울 내용
+What is Jira, and how does it fit into the rest of the Atlassian product suite
+Jira's terminology and getting started with a Jira Software Cloud subscription
+How to navigate the interface and set up the software for first-time use
+Begin creating projects using Jira’s Scrum and Kanban project templates
+Understand processes for adding team members, configuring workflows, setting up and customizing Scrum and Kanban boards
+Start creating and managing a project backlog with epics, user stories, issues, tasks, and bugs
+Learn to estimate and prioritize issues
+Plan and execute a Scrum sprint and/or lead a Kanban team
+Use and customize reports to track progress
+Administer a Jira site for an organization
+더 보기",영어,https://www.udemy.com/course/leading-agile-teams-with-jira-software-cloud/
+development-tools,AWS CodePipeline,AWS CodePipeline Step by Step,모든 수준,"59,000",69000.0,10시간 주문형 동영상,"배울 내용
+Create CI/CD pipelines using AWS CodePipeline to automate your deployments to Amazon EC2, ECS and S3.
+Use AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy with AWS CodePipeline.
+Learn AWS CodeDeploy in-place all-at-once, rolling and blue-green deployments with EC2 auto scaling and load balancing.
+Build your Docker images With CodeBuild and deploy them to ECS as rolling deployments with CodePipeline.
+Use AWS CloudFormation with AWS CodePipeline to create and delete stacks automatically in each execution.
+Configure manual approval actions and pipeline notifications on your pipelines.
+View AWS CodeBuild build logs and AWS CodeDeploy deployment logs.
+Understand how AWS CodePipeline works in detail.",영어,https://www.udemy.com/course/aws-codepipeline-step-by-step/
+development-tools,Salesforce Lightning,Salesforce Lightning: Learn about Salesforce Lightning,모든 수준,"19,000",25000.0,5.5시간 주문형 동영상,"배울 내용
+Navigate the Salesforce Lightning interface
+Learn about Salesforce Lightning UI features
+Know where to go in the setup area to make customizations
+Create dynamic reports and dashboards
+View Lightning on a mobile device
+Train other users on common day-to-day activities within Lightning",영어,https://www.udemy.com/course/salesforce-lightning-ui/
+development-tools,ChatGPT,Introduction to OpenAI API & ChatGPT API for Developers,모든 수준,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Understand the fundamentals of OpenAI and ChatGPT APIs
+Register for an OpenAI account and get an API key
+Understand key concepts: prompts, models, & tokens
+Use the AI model behind ChatGPT
+Use Postman to work with the OpenAI API
+Navigate and utilize the OpenAI Playground effectively
+Differentiate between GPT-3.5 models and their use cases
+Generate images with DALL-E (Image API)
+Transcribe speech using the Whisper API
+Learn how to manage API costs effectively
+Configure OpenAI models for creative output (temperature)
+더 보기",영어,https://www.udemy.com/course/introduction-to-openai-api-chatgpt-api-chatgpt-plugins/
+development-tools,Git,Master Git and GitHub in 5 Days: Go from Zero to Hero,모든 수준,"17,000",59000.0,5.5시간 주문형 동영상,"배울 내용
+Understand what git is and how it works
+Comprehend the differences between git and Github
+Work with Git Merges and Merge Conflicts
+Understand the use of git at an organizational level
+Discover specific GitHub features
+Learn how to push and pull code from Github
+Understand how to use commands such as git diff
+Learn how to rollback changes using a variety of git commands",영어,https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero/
+development-tools,Git,Git & Github Master Course(2022),모든 수준,"19,000",25000.0,11시간 주문형 동영상,"배울 내용
+Understand Version Control Systems
+Master Git, the most popular VCS
+Git Workflow - Staging area, git commits, git diff
+Branching - Creating and Merging Branches
+Deploying a Git Repository on Github
+Using Github Pages to deploy websites
+How to collaborate as a team
+Moving back and forth in git timeline
+Advanced Git Features - Rebasing, Stashing, Branching, Merge Conflicts
+Project Work - Create a Web Portfolio",영어,https://www.udemy.com/course/git-github-master-course/
+development-tools,GitHub,"Git & GitHub with Eclipse, Android studio & IntelliJ",모든 수준,"19,000",79000.0,8시간 주문형 동영상,"배울 내용
+Understand what Git is, and how to use it.
+Save your software projects in Git
+Be able to clone Git projects from the Internet
+Upload projects to Git enabled web repositories like GitHub
+Access Git inside popular IDE's such as Eclipse, IntelliJ and Android Studio",영어,https://www.udemy.com/course/git-bootcamp-with-github-learn-step-by-step/
+development-tools,Apache Kafka,The Complete Apache Kafka Practical Guide,모든 수준,"48,000",59000.0,8.5시간 주문형 동영상,"배울 내용
+Understand how Apache Kafka works
+Create fault-tolerant clusters with topics replication across multiple brokers
+Apache Kafka Architecture
+How to create Kafka cluster with multiple Brokers
+Practice to create producers and consumers using built-in console producer and console consumer
+Write custom producer and consumer in Java
+Use Python and Node to produce and consume messages
+Learn components of the Apache Kafka Cluster",영어,https://www.udemy.com/course/apache_kafka/
+development-tools,Vagrant,Vagrant Up! Comprehensive development system automation,모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Create automatic, reliable, repeatable, easy to use, and versioned development environments
+Write provisioning scripts to automatically setup Vagrant managed environments
+Solve the development box setup problem",영어,https://www.udemy.com/course/vagrant-up/
+development-tools,Docker,Docker & Kubernetes: The Complete Practical Guide,모든 수준,"23,000",99000.0,21.5시간 주문형 동영상,"배울 내용
+How to use Docker images and create Containers
+Manage Docker containers: start, stop, prune, restart
+Enable port mapping and expose container ports to outside
+Run Node and Python applications using Docker Containers
+Create environment variables for Docker containers
+Use volumes mapping and use specific working directories in the Docker containers
+Create custom bridge networks and run multiple containers
+Communicate between containers by container name in the custom bridge network",영어,https://www.udemy.com/course/docker-complete/
+development-tools,AWS CloudFormation,"Rocking AWS CloudFormation, CDK with DevOps, Interview Guide",모든 수준,"48,000",59000.0,10시간 주문형 동영상,"배울 내용
+Master CloudFormation in both YAML and JSON
+Learn to code AWS CDK (Cloud Development Kit) in Typescript and Python
+Run your templates using DevOps Tools - Jenkins, Terraform and CodePipeline
+Interview guide from Instructor's actual field experience as cloud architect
+Get the edge by learning from real world cloud architect. Learn what's important for actual projects, pros-cons for different services and tools
+Code any CloudFormation, SAM and CDK alongside instructor by learning how to navigate reference guides
+Updated with all the recent features (2021)",영어,https://www.udemy.com/course/rocking-aws-cloudformation-cdk-with-devops-interview-guide/
+development-tools,Visual Studio Code,Visual Studio Code for Developers 2023: Beginner to Advanced,초급자,"17,000",79000.0,8.5시간 주문형 동영상,"배울 내용
+Optimize your productivity with Visual Studio Code.
+Master the fundamental features of Visual Studio Code.
+Customize Visual Studio Code to fit your needs, style, and personal taste.
+Install helpful extensions from the Extensions Marketplace.
+Work with repositories, git, and GitHub in Visual Studio Code.
+Learn how to work with the debugger and Jupyter Notebooks in Visual Studio Code.
+Optimize Visual Studio Code to work with Python and Web Development.
+Work with the integrated terminal and run commands.
+Add built-in code snippets, install new ones, and create custom snippets.
+Learn Visual Studio Code tips to optimize your productivity.",영어,https://www.udemy.com/course/learn-visual-studio-code-vscode-course/
+development-tools,Salesforce Lightning,Salesforce Lightning Flows Complete Course,초급자,"17,000",23000.0,8시간 주문형 동영상,"배울 내용
+They will learn to build complex business logic with lightning flows.
+They will learn about Screen Flow, Record-Triggered Flow, Platform Event Triggered flow, Schedule Flows and Autolaunched Flow
+They will learn to debug flows.
+Learn to build complex Screen flow and other types of auto-launched flow",영어,https://www.udemy.com/course/salesforce-lightning-flow-builder1/
+development-tools,AWS CodePipeline,AWS CodeCommit CodeBuild CodeDeploy CodePipeline | Hands On,모든 수준,"32,000",39000.0,3.5시간 주문형 동영상,"배울 내용
+You will learn creating simple rest application using Spring Boot
+You will learn and understand the local git repository, remote git repository and how to use them from Spring Tool Suite IDE.
+You will learn practically implementing AWS CodeCommit, CodeBuild, CodeDeploy & CodePipeline Services..
+You will learn concepts, features and integration aspects present in CodeCommit, CodeBuild, CodeDeploy & CodePipeline services.
+You will practically implement the Continuous Integration and Continuous Development/Delivery concepts using these 4 AWS Developer tools.
+You will learn about AWS SNS (Simple Notification Service - Topics, Subscriptions) and implement the notifications in CodeCommit, CodeBuild, CodeDeploy and CodePipeline Services.",영어,https://www.udemy.com/course/aws-codecommit-codebuild-codedeploy-codepipeline-hands-on/
+development-tools,PCB Design,PCB Design a Tiny Arduino In Altium CircuitMaker,모든 수준,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+Create an design a custom Tiny Arduino Nanite in Altium CircuitMaker
+FInd and Download Components for Schematic use.
+Draw the schematic of an Arduino Nanite and wire components
+Compile design detect and eliminate design errors.
+Define board shape and size.
+Route Printed Circuit Board (PCB)
+Use to the autorouting capabilities to speed up the routing process
+Use design rule checker to eliminate errors and reduce manufacturing board iterations",영어,https://www.udemy.com/course/pcb-design-a-tiny-arduino-in-altium-circuitmaker/
+development-tools,Kubernetes,Learn DevOps: On-Prem or Cloud Agnostic Kubernetes,전문가,"19,000",25000.0,4시간 주문형 동영상,"배울 내용
+Use enterprise features within kubernetes
+Setup a Kubernetes cluster on-prem or on any cloud infrastructure provider using kubeadm
+Know how to setup storage using Rook
+Setup let's encrypt signed TLS certificates for their Kubernetes applications
+Setup authentication using GitHub or LDAP using OIDC and Dex
+Know what a service mesh is and how to setup Istio on Kubernetes
+Know the networking basics within Kubernetes using Calico
+Able to use a secret store in Kubernetes
+Know what Operators are and able to use them within Kubernetes
+Know how to setup and use PaaS with Kubernetes using OpenShift Origin",영어,https://www.udemy.com/course/learn-devops-on-prem-or-cloud-agnostic-kubernetes/
+development-tools,Oozie,From 0 to 1: The Oozie Orchestration Framework,모든 수준,"19,000",25000.0,4시간 주문형 동영상,"배울 내용
+Install and set up Oozie
+Configure Workflows to run jobs on Hadoop
+Configure time-triggered and data-triggered Workflows
+Configure data pipelines using Bundles",영어,https://www.udemy.com/course/from-0-to-1-the-oozie-orchestration-framework/
+development-tools,Radio Frequency,RF Microwave & Transmission Line Theory - RAHRF200,초급자,"23,000",,8시간 주문형 동영상,"배울 내용
+Complete understanding of RF Microwaves
+Transmission line theory
+Smithchart
+matching
+hand on examples on ADS for matching (top level only do not get confused with RAHRF209-L ADS simulation course)",영어,https://www.udemy.com/course/rf-microwave-radio-transmission-theory-online-course-rahsoft-rahch200/
+development-tools,Linux,Linux - The Complete Linux Guide,모든 수준,"19,000",25000.0,6시간 주문형 동영상,"배울 내용
+Linux Command Line
+Linux Bash Shell
+Create and manage new directories and files
+Getting information about hardware and software of the Linux computer
+Create new users and change user passwords
+Searching for files and folders using Find command
+Compressing and sorting in Linux
+Files and directories permissions and modification of the permissions
+Creating and executing executable files
+Networking in Linux
+Environment variables access and creation of the new environment variables
+Access of the remote Linux computer via SSH
+더 보기",영어,https://www.udemy.com/course/linux-complete/
+development-tools,Electrical Wiring,Fundamentals of Electrical Instrumentation,모든 수준,"19,000",59000.0,1.5시간 주문형 동영상,"배울 내용
+Instrumentation wiring & operation
+Digital (discrete) Inputs - learn digital input circuits, learn how to wire contact and transistor input devices in sink & source configuration
+Digital (discrete) Outputs - learn digital output circuits, learn how to wire output devices such as a solenoid actuated valve, learn sink & source output wiring configuration
+Analog Inputs - learn 0-10volt and 4-20ma input circuits, learn how to connect a loop powered analog input device
+Analog Outputs - learn 0-10volt and 4-20ma output circuits, learn how to connect a current output to a variable frequency drive",영어,https://www.udemy.com/course/fundamentals-of-electrical-instrumentation/
+development-tools,Git,Git for Windows: Step-By-Step Mastery using Commands and GUI,모든 수준,"19,000",25000.0,8시간 주문형 동영상,"배울 내용
+Learn the key concepts of the Git source control system
+Step through the entire Git workflow
+Install Git and configure a text editor for efficient use with Git
+Compare the different states in Git
+Manage files inside and outside the control of Git and GitHub
+Create and manage repositories on GitHub
+Create branches and resolve conflicts with confidence
+Work with branches on GitHub
+Walk through the pull request workflow on GitHub
+Perform many of the same local Git operations directly on GitHub
+더 보기",영어,https://www.udemy.com/course/git-for-windows/
+development-tools,Salesforce Lightning,Salesforce Flows - Learn Salesforce Lightning Flows Fast,초급자,"17,000",49000.0,3.5시간 주문형 동영상,"배울 내용
+Everything you need to know about Salesforce Flows
+How to build robust and reliable Salesforce Flows
+How to become a more in demand Salesforce Professional
+How to build all 5 types of Salesforce Flow",영어,https://www.udemy.com/course/salesforce-flows/
+development-tools,CMake,"CMake, Tests and Tooling for C/C++ Projects [2022 Edition]",중급자,"17,000",59000.0,4.5시간 주문형 동영상,"배울 내용
+CMake (Command Line and GUI)
+Create modern C/C++ Projects
+Use external Projects via Git, Conan and VCPKG
+Automate the HTML Documentation (Doxygen)
+Unit Testing with Catch2
+Code Coverage of the Unit Tests
+Continuous Integration with Github Actions
+Tooling: Clang-Format, Clang-Tidy, Cppcheck
+Tooling: Sanitizer, Cmake-Format, Pre-Commit
+VSCcode and VS 2022 with GCC, Clang and MSVC",영어,https://www.udemy.com/course/cmake-tests-and-tooling-for-cc-projects/
+development-tools,Git,Git Masterclass,초급자,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+Git
+GitHub
+Branching Strategies
+Pull Requests
+Using Git In A team
+Fixing and Troubleshooting Issues
+Working Confidently With Git and GitHub
+Much, much more",영어,https://www.udemy.com/course/git-masterclass/
+development-tools,PowerShell,Learning Path: Powershell: Getting Started with Powershell 6,초급자,"20,000",25000.0,6시간 주문형 동영상,"배울 내용
+Learn to set up a lab environment to learn and test PowerShell processes
+Navigate and use PowerShell 6 easily
+Manage servers remotely using PowerShell 6
+Use common parameters to produce verbose output and protect yourself from accidents
+Identify object properties and methods and how to use them
+Manage files and import and export them as CSV, HTML, JSON, and XML
+Learn to use branching and logic in scripts
+Use logging through writing log files and events to the Windows Event Log",영어,https://www.udemy.com/course/learning-path-powershell-getting-started-with-powershell-6/
+development-tools,Git,The Ultimate Git Course - with Applications in Unreal Engine,모든 수준,"17,000",69000.0,6.5시간 주문형 동영상,"배울 내용
+How Git works
+How to use Git from the command line
+Using Git tools such as GitHub, the GitHub desktop app, Git tools in Visual Studio and VS Code
+Using Git to track an Unreal Engine project in both Unreal Engine 5 and Unreal Engine 4
+Using Git to version control C++ projects in Visual Studio and Visual Studio Code
+Understanding the concepts of Git so they can use any Git based tool
+Creating a repository
+Committing to the repository
+Branching, merging, rebasing, cherry picking, stashing
+Reverting to previous versions of the project and rewriting commit history
+Customizing git with text editors of choice
+Resolving merge commits with different merge tools, and much more!
+더 보기",영어,https://www.udemy.com/course/the-ultimate-git-course-with-applications-in-unreal-engine/
+development-tools,Dependency Management (programming),Yarn Dependency Management: The Complete Guide,모든 수준,"17,000",30000.0,1.5시간 주문형 동영상,"배울 내용
+Manage project dependencies with Yarn
+Understand Semantic Versioning
+Create & Publish JavaScript modules/packages to the NPM registry
+Migrate projects from NPM to Yarn",영어,https://www.udemy.com/course/yarn-dependency-management/
+development-tools,DevOps,"DevOps: CICD with Git GitLab Jenkins, Docker and Django",모든 수준,"17,000",49000.0,8시간 주문형 동영상,"배울 내용
+You will learn how to set up a functional CICD Pipeline for Django applications with GitLab/Jenkins
+You will learn how to set up a functional CICD Pipeline for Django applications with GitLab CI
+You will learn how to collaborate on code using GitLab
+You will learn how to deploy Django Applications to a Digital Ocean droplet
+You will learn how to use Git and GitLab for Source Control
+You will learn how to dockerize Django applications as a DevOps Engineer
+You will learn to create Virtual Machines on your personal computer
+You will learn how to securely connect to virtual machines via the SSH protocol",영어,https://www.udemy.com/course/devops-project-cicd-with-git-gitlab-jenkins-and-django/
+development-tools,QT Framework,Qt 5 C++ GUI Development - Intermediate,중급자,"48,000",59000.0,40시간 주문형 동영상,"배울 내용
+Event Programming
+Custom Widgets
+Painting and Drawing
+Drag and Drop
+Copying data through the clipboard
+Model View Architecture
+Graphics View Framework
+Implementing Copy, Cut and Paste Features in Qt Apps
+Saving and Loading Documents
+Undo Redo in Qt Apps
+Building Resizable Items in Graphics View
+Multi Language Support in Qt Apps
+Deploying Qt applications on Windows and Linux and Mac
+Building Games and Painting Applications with Qt
+더 보기",영어,https://www.udemy.com/course/qt-c-gui-development-intermediate/
+development-tools,Open API Specification,OpenAPI Specification & Swagger Tools - Zero To Master,초급자,"17,000",69000.0,8.5시간 주문형 동영상,"배울 내용
+Designing APIs with OpenAPI Specifications and Swagger Tools
+Describing APIs details using OpenAPI Specifications
+History of OpenAPI & Swagger. Relation between them
+Details about Swagger tools like Swagger Editor, Swagger UI, Swagger Inspector, Swagger Hub etc.
+How to get started with OpenAPI in code first & Design first scenarios
+How to write a valid OpenAPI yaml document
+Writing re-usable content inside OpenAPI with components
+Data types supported by OpenAPI & their details
+Inheritance & polymorphism inside OpenAPI
+How to describe APIs security inside OpenAPI
+더 보기",영어,https://www.udemy.com/course/openapi-specification-swagger-tools-zero-to-master/
+development-tools,Informatica PowerCenter,50 Informatica Interview Scenarios - Solved,모든 수준,"19,000",59000.0,7시간 주문형 동영상,"배울 내용
+You will be able to crack interviews, answer the scenario based questions in interviews and approaches to solve given scenarios
+Example: Divide the data in two half & load in two separate table",영어,https://www.udemy.com/course/informatica-interview-scenarios-solved/
+development-tools,Robot Operating System (ROS),"ROS2 (Foxy-Humble) For Beginners I: Basics, Motion & Lasers",초급자,"20,000",26000.0,8.5시간 주문형 동영상,"배울 내용
+Install ROS2 on Ubuntu
+Recognize the concepts of ROS2 and its ecosystem
+Understand the difference between ROS1 and ROS2
+Recognize the features of Data Distribution Service (DDS) used in ROS2
+Create ROS2 workspaces and packages
+Develop programs with ROS2 (C++ and Python)
+Execute applications using ROS2
+Practice ROS2 Computation Graph Concepts using Hands-on with Turtlesim",영어,https://www.udemy.com/course/ros2-how-to/
+development-tools,Kubernetes,DevOps using Kubernetes and Docker (Hands-on),모든 수준,"19,000",25000.0,2.5시간 주문형 동영상,"배울 내용
+Be able to understand, deploy and administer Kubernetes Platform
+Create Docker container images for web applications
+Create a multi-node, production grade Kubernetes Cluster with High Availability
+Create, Run and Manage Docker Containers at Cloud scale in a Kubernetes Cluster
+Horizontally scale each microservices application, on demand and expose the microservice using a load balancer service.
+Upgrade, downgrade applications running in a live production system using Kubernetes
+Rollback to the previous working version of the application, if there was any problem with the upgrade.
+Perform server maintenance activities in a live production Kubernetes Cluster, without any application downtime.",영어,https://www.udemy.com/course/kubernetes-for-beginners-ganesh-velrajan/
+development-tools,Ansible,Ansible: Beginner to Pro,초급자,"19,000",25000.0,4.5시간 주문형 동영상,"배울 내용
+How to work with Ansible and AWS
+Dynamic Inventories for large projects
+Managing and securing information using Vault
+Combining Terraform and Ansible
+Hacks to speed up your Ansible run times",영어,https://www.udemy.com/course/ansible-masterclass/
+development-tools,Git,Git Github Gitkraken: Version Control without Command Line,초급자,"19,000",25000.0,2.5시간 주문형 동영상,"배울 내용
+Work on version control
+Understand how to revert to an older version
+Familiar with Git concept, Gitkraken and Github",영어,https://www.udemy.com/course/git-github-gitkraken-version-control-without-command-line/
+development-tools,DevOps,DevOps Project: CICD with Git GitLab Jenkins and Laravel,모든 수준,"19,000",59000.0,6시간 주문형 동영상,"배울 내용
+How to set up a local DevOps Lab Environment. Think of a Virtual Private Network
+You will learn how to create virtual servers in the cloud and securely connect to them
+You will learn how to Deploy Laravel Applications to Production
+You will learn how to set up a functional CICD Pipeline for Laravel applications with GitLab CI
+You will learn how to deploy Laravel applications to a Digital Ocean droplet
+How to collaborate on code using Gitlab collaboration tools
+You will learn how to use Git and GitLab for source code management",영어,https://www.udemy.com/course/devops-project-cicd-with-git-gitlab-jenkins-and-laravel/
+development-tools,QT Framework,Multi-Threading and IPC with Qt 5 C++,중급자,"17,000",59000.0,13시간 주문형 동영상,"배울 내용
+Creating and Managing Threads
+Sending Feedback to main thread
+Thread Synchronization
+Thread Safety and Reentrancy
+Using Thread Pools
+Qt Concurrent : High level Threading API
+Managing Processes
+Inter Process Communication
+DBus",영어,https://www.udemy.com/course/multi-threading-and-ipc-with-qt-c-plus-plus/
+development-tools,WebStorm,Productive coding with WebStorm,모든 수준,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Learn how to best use WebStorm in your role as JavaScript and TypeScript developer.
+Learn how to customize the IDE, discover the most valuable shortcuts and the quickest way to write your code.
+It doesn't matter if you are working with Angular, React, Aurelia or vanilla JavaScript and TypeScript. Everybody benefits from knowing their IDE inside out.",영어,https://www.udemy.com/course/productive-coding-with-webstorm/
+development-tools,Salesforce Lightning,Salesforce Lightning Development,모든 수준,"19,000",69000.0,31.5시간 주문형 동영상,"배울 내용
+What is lightning and how it differ from classic exp?
+What are the advantages of LEX?
+Lightning components and its usage
+Lightning App Builder and its usage
+Lightning Data Service to manipulate Record in LEX(LDS)
+Lightning Connect and its usage
+Lightning Out to expose component to outside of LEX
+OOPS concept in Lightning component
+Attribute and expression in lightning component
+Styling lightning component in various mechanism
+Dynamically create component in javascript
+Validations in lightning component
+더 보기",영어,https://www.udemy.com/course/salesforce-lightning-component/
+development-tools,Raspberry Pi,Raspberry Pi: Make a Workbench Computer,초급자,"19,000",69000.0,11시간 주문형 동영상,"배울 내용
+Create graphical applications on the Raspberry Pi
+Understand the basics of controlling mains appliances using relays
+Learn how to use a low-cost relay board to control large loads with your Raspberry Pi
+Understand how to use a relay board to control large loads with your Raspberry Pi
+Control DC devices
+Use the camera to take snapshots, interval snapshots and videos.
+Create a Python application that allows you to control external devices and appliances, and interact with sensors
+Manipulate still images and video taken by the Raspberry Pi camera
+Design a driver circuit for the external relays
+Control mains appliances safely
+더 보기",영어,https://www.udemy.com/course/raspberrypibc/
+development-tools,JIRA,Learn Automation in Jira with real-world examples,중급자,"17,000",39000.0,2.5시간 주문형 동영상,"배울 내용
+Understand how automation works in Jira - types of automations, allowances, permissions etc
+Be able to set up automation rules to automate mundane tasks in Jira
+Get ideas (through examples) of where the automation tool can be taken advantage of",영어,https://www.udemy.com/course/learn-automation-in-jira-with-real-world-examples/
+development-tools,GitHub,Complete Git and Github Beginner to Expert,초급자,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+Learn the key concepts of the Git and Github
+Learn the entire Git workflow
+Learn create branches, resolve conflicts, undoing things etc.
+Create and fork repositories on GitHub and push changes back after locally
+Learn how to collaborate a github project
+Git is a modern system for version control that lets software developers manage changes to a product’s source code over time.
+Git features a distributed architecture so that every team member has a working copy of the code.
+It's my first time dealing with Git which scared because the commands were overwhelming.
+After this course, I feel that it is easy now that I know the basics and meaning of commands.",영어,https://www.udemy.com/course/complete-git-and-github-beginner-to-expert/
+development-tools,Java,Reflections and Annotation in Java Uncomplicated,모든 수준,"17,000",59000.0,4시간 주문형 동영상,"배울 내용
+Two Java APIs Reflections and Annotation
+Build Spring like DI framework
+Build Hibernate like ORM
+Hands on Coding using reflection and annotations",영어,https://www.udemy.com/course/reflections-and-annotation-in-java-uncomplicated/
+development-tools,JIRA,"Learn JIRA Quickly - Enhance your resume, Move Ahead!",모든 수준,"19,000",25000.0,1시간 주문형 동영상,"배울 내용
+Learn key concepts about JIRA
+Create projects suited for tracking agile, help desk, project management and any other type
+Create, edit and manage different types of issues (stories, tasks, sub-tasks)
+Become a power user by learning basic and advanced search using JQL
+Create impressive reports with JIRA
+You can also ask any questions during the course, and we'll be happy to answer and help with those!",영어,https://www.udemy.com/course/learn-jira-quickly/
+development-tools,Spark AR Studio,The Complete Spark AR Course: Build 10 Instagram AR Effects,모든 수준,"29,000",,7시간 주문형 동영상,"배울 내용
+Spark AR Studio - the most advanced augmented reality creation tool available
+Create and publish your own augmented reality camera effects for Instagram (and Facebook)
+Build augmented reality camera effects for your brand or clients
+Be one of the first developers to join the AR revolution, an industry expected to be worth $165 billion by 2024",영어,https://www.udemy.com/course/the-complete-spark-ar-course/
+development-tools,Swagger Tools,The Ultimate Swagger Tools Course: Build OpenAPI with Ease,초급자,"17,000",59000.0,4시간 주문형 동영상,"배울 내용
+Learn Swagger Tools that includes Swagger Editor, Swagger UI, Swagger Codegen, Swagger Inspector, and SwaggerHub for simpler API management.
+Design API using Swagger Editor and Swagger UI to create an OpenAPI Specification from scratch.
+Use Swagger Codegen to generate server code stub as well as client SDK code to give you a ready-made code to start coding right away.
+Understand Swagger Inspector to test APIs with ease without leaving the Swagger ecosystem.
+Collaborate using SwaggerHub with team members to manage the API with ease.
+Publish APIs in the SwaggerHub community including steps to unpublish API, fork API, and delete API.
+Analyze the usage of Swagger Tools to build an OpenAPI Specification through various stages with step-by-step instructions.
+Understand the best practices for Swagger Tools usage.
+Quizzes and assignments to validate your learning.
+Lots of demos showing how to use Swagger Tools with clear instructions.",영어,https://www.udemy.com/course/swagger-tools-openapi/
+development-tools,SAP PO,SAP PO: Java Mapping Training with 10 Programs,초급자,"19,000",25000.0,2.5시간 주문형 동영상,"배울 내용
+How to Properly Install JDK
+Download, Install and Configure Eclipse Tool on your machine
+How to work with Eclipse Tool
+Write, Compile and Run Java Mapping using Eclipse Tool
+Right way to upload Java Mapping in ESR
+Test Java Mapping in Eclipse Tool and Operation Mapping
+10 Java Mapping Program for every Interface Scenario",영어,https://www.udemy.com/course/sap-po-java-mapping-training-with-10-programs/
+development-tools,Git,Git & GitHub A Practical Course: Beginner To Advanced Level,모든 수준,"17,000",23000.0,6.5시간 주문형 동영상,"배울 내용
+Basics of Git
+Git installation
+The basics of command prompt terminal in Windows
+How to handle local Git repositories
+How to make commits using Git terminal and VSC
+How to check the history of your project
+Using github for source control
+How to use Git Commands",영어,https://www.udemy.com/course/git-and-github-a-practical-course-beginner-to-advanced/
+development-tools,DevSecOps,Ultimate DevSecOps With Real World Scenarios,모든 수준,"19,000",25000.0,23.5시간 주문형 동영상,"배울 내용
+What is DevOps Vs DevSecOps
+Linux/Unix For DevOps and Developers
+Learn Python From the Scratch
+Make your own Ethical Hacking Tools In Python
+Learn Cloud Services - AWS (Amazon Web Services)
+Learn Continuous Integration And Continuous Delivery CI/CD - Jenkins
+Learn Containerization Technology - Docker
+Learn IAC (Infrastructure As Code) - AWS Cloud Formation
+Learn IAC (Infrastructure As Code) - Terraform
+Learn Continuous Monitoring - AWS CloudWatch
+Learn Cyber Security Threats and the Best Practices
+Learn Soft Skills for DevOps
+더 보기",영어,https://www.udemy.com/course/ultimate-devsecops-with-real-world-scenarios/
+development-tools,Git,Learn to use Git and Github with Eclipse: A Complete Guide,모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Learn all the required skills to use Git and GitHub with Eclipse
+Master the techniques to leverage the Git related features available in Eclipse",영어,https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide/
+development-tools,Chrome Developer Tools,Google Chrome Basics,초급자,"19,000",25000.0,31분 주문형 동영상,"배울 내용
+Google Chrome Features
+Download & Install Google Chrome
+Menu
+People
+Autofill
+Appearance
+Search Engine
+On Startup
+Advanced
+Extensions
+Developer Tools
+More Extensions",영어,https://www.udemy.com/course/learn-google-chrome/
+development-tools,Helm,Helm - The Kubernetes Package Manager hands-on course,초급자,"17,000",69000.0,4.5시간 주문형 동영상,"배울 내용
+Introduction to Helm: What is Helm, its architecture, and its benefits for Kubernetes deployment.
+Helm Installation and Configuration: How to install and configure Helm on a Kubernetes cluster, and how to set up a local development environment.
+Helm Charts: What are Helm charts, how to create and manage them, and best practices for chart development.
+Helm Commands and Templates: How to use Helm commands and templates for chart deployment, customization, and management.
+Helm Repositories: How to create and manage Helm repositories, and how to share and distribute charts.
+Gitlab CI/CD: Introduction to Gitlab CI/CD and how to set up a pipeline for building and deploying Helm charts.
+Gitlab Integration with Kubernetes: How to integrate Gitlab with Kubernetes for seamless deployment and monitoring.
+Advanced Topics: Advanced Helm features and techniques, such as Helm plugins
+Best Practices and Troubleshooting: Best practices for using Helm and Gitlab for Kubernetes deployment, and common issues and their solutions.",영어,https://www.udemy.com/course/helm-the-kubernetes-package-manager-hands-on-course/
+development-tools,Version Control,Git Training: Step-by-Step Guide to Git Version Control,초급자,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+Fully understand version control with Git
+Correct workflow of using Git
+Working with Github to upload your code remotely
+Working with branches and resolving conflicts
+Creating your own aliases for git commands",영어,https://www.udemy.com/course/console-git-practical-guide/
+development-tools,Python,Python in Microsoft Power BI to Enhance Reporting Power,모든 수준,"17,000",48000.0,4.5시간 주문형 동영상,"배울 내용
+Learn to install and optimally configure Python, add-on packages, and IDEs for maximum stability and functionality.
+Discover how to enhance data preparation and transformations in Power Query using Python.
+Master the ability to perform complex analytical tasks in Power BI with Python, including statistical analyses.
+Create highly customizable visuals beyond the native visualization capabilities in Power BI
+Automate and enrich your Power BI report elements with the power of Python.
+Establish a stable, efficient environment minimizing conflicts between Python and Power BI.",영어,https://www.udemy.com/course/python-for-power-bi-users/
+development-tools,Salesforce,Salesforce Change and Release Management - A complete guide,모든 수준,"19,000",25000.0,2.5시간 주문형 동영상,"배울 내용
+Explain the benefits of change management
+Discuss the key processes of change management
+Understand the tools/processes to be successful
+Develop a change management strategy
+Handle metadata effectively
+Use deployment tools - Change sets/Force.com IDE/Snapshot",영어,https://www.udemy.com/course/salesforce-change-and-release-management-a-complete-guide/
+development-tools,Infrastructure as Code,Learn Azure Infrastructure As Code using JSON ARM templates,초급자,"17,000",23000.0,3.5시간 주문형 동영상,"배울 내용
+Learn Infrastructure As Code concept
+Learn Azure Resource Manager Templates structure
+Learn how to create Infrastructure using Azure ARM templates
+Learn how to automate infrastructure creation using Azure DevOps YAML pipelines
+Learn how to automate infrastructure creation using GitHub workflows",영어,https://www.udemy.com/course/learn-azure-infrastructure-as-code-using-json-arm-templates/
+development-tools,Git,Git Crash Course for beginners,중급자,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+Create, track and modify projects using Git
+Integrate Git in your projects.
+Understand how Git works
+Master the essential Git workflow: adding & committing",영어,https://www.udemy.com/course/git-for-begineers/
+development-tools,Ethical Hacking,Wi-Fi Hacking and Wireless Penetration Testing Course,모든 수준,"22,000",79000.0,4시간 주문형 동영상,"배울 내용
+Ethical hacking involves a hacker agreeing with an organization or individual who authorizes the hacker to levy cyber attacks on a system.
+Becoming an ethical hacker involves learning at least one programming language and having a working knowledge of other common languages like Python, SQL, C++
+Ethical hacking is legal because the hacker has full, expressed permission to test the vulnerabilities of a system
+Many hackers use the Linux operating system (OS) because Linux is a free and open-source OS, meaning that anyone can modify it. It’s easy to access.
+Passing the Certified Information Security Manager (CISM) exam indicates that the credentialed individual is an expert in the governance of information security
+The Certified Ethical Hacker (CEH) certification exam supports and tests the knowledge of auditors, security officers, site administrators, security.
+더 보기",영어,https://www.udemy.com/course/wi-fi-password-penetration-testing-course/
+development-tools,Alteryx,Alteryx Designer Advanced Certification Mega Bundle,중급자,"17,000",49000.0,17시간 주문형 동영상,"배울 내용
+Take your next steps with Alteryx Designer with confidence
+Learn critical analytics skills such as data investigation, data parsing, reporting, macros, and geospatial analytics (and much more)
+Get fully prepared for Alteryx Designer Advanced Certification with a proven framework for on-demand learning and self-study - earn that Advanced certification!
+Go beyond advanced certification with bundled modules including In-Database, Server, Intelligence Suite and Citizen Data Science lessons for R and Python users!",영어,https://www.udemy.com/course/alteryx-designer-advanced-certification-bootcamp/
+development-tools,VLSI,VSD - Circuit Design & SPICE Simulations - Part 2,중급자,"19,000",59000.0,3시간 주문형 동영상,"배울 내용
+Understand, in brief, Physics of MOSFET
+Run smart SPICE simulations on your own and test your own circuits
+Get better understanding of Timing Analysis
+Learn VLSI from scratch to advanced (this includes my other courses as well)",영어,https://www.udemy.com/course/vlsi-academy-circuit-design-part2/
+development-tools,Entity Framework,Learning Entity Framework Core,중급자,"20,000",25000.0,4시간 주문형 동영상,"배울 내용
+Explore object-relational mapping
+Install Entity Framework Core
+Create a database context
+Create, execute, and roll back migrations
+Execute complex relational models
+Seed the database
+Write custom SQL queries
+Work with existing databases",영어,https://www.udemy.com/course/learning-entity-framework-core/
+development-tools,Quantum Computing,Quantum Computing: Theory to Simulation and Programming,모든 수준,"19,000",25000.0,4.5시간 주문형 동영상,"배울 내용
+Use a real Quantum Computer to solve real world problems
+Basics of Quantum Computing
+Basics of Quantum Physics
+Basics of Cirq programming
+Basics of Dwave-Ocean-SDK
+Quantum implementation of Logic gates
+Basic Combinatorial Optimisation techniques",영어,https://www.udemy.com/course/quantum-computing/
+development-tools,Git,Git for Beginners,초급자,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+Set up Git on your machine
+Create a local Git repository
+Stage and commit changes from the command line
+View the history of your source code
+Branch and merge your code to work on software features
+Handle merge conflicts when working with branches
+Push your code to a remote repository on GitHub
+Clone a remote repository from GitHub
+Create a pull request on GitHub
+Collaborate with other developers on GitHub",영어,https://www.udemy.com/course/git-for-beginners-course/
+development-tools,Visual Studio,Double Your Coding Speed with Visual Studio and ReSharper,모든 수준,"19,000",25000.0,3시간 주문형 동영상,"배울 내용
+Use the most important shortcuts of Visual Studio
+Use the most important shortcuts of R#
+Create custom code snippets
+Apply different refactorings via VS and R#
+Debug apps more efficiently
+Use helpful VS plugins",영어,https://www.udemy.com/course/vs-resharper/
+development-tools,Git,Git Essentials ? The step-by-step guide to Git mastery,초급자,"19,000",25000.0,3.5시간 주문형 동영상,"배울 내용
+How Git and GitHub work
+Learn the entire daily workflow that most developers use
+Install git on Windows, Mac and Linux
+Configure SSH for authentication
+How to clone a GitHub repository
+Create and use a remote repository on GitHub
+How to add files to your own GitHub repository
+Creating git branches
+How to resolve merge conflicts
+GitHub issues
+How to fork a repo
+GitHub pull requests
+더 보기",영어,https://www.udemy.com/course/git-and-github-tutorial/
+development-tools,Open Source Tools,Learn Adobe Brackets Free open source code editor,초급자,"19,000",25000.0,1.5시간 주문형 동영상,"배울 내용
+use Brackets code editor
+add extensions, edit code more efficiently
+display live preview of code while working on it
+learn about features available in Brackets",영어,https://www.udemy.com/course/learn-brackets-free-open-source-code-editor/
+development-tools,Scala,Supercharge Scala Future | FP-Tower,중급자,"17,000",23000.0,5시간 주문형 동영상,"배울 내용
+Understand the difference between IO (cats-effect, Monix, ZIO) and Future
+Learn to use lazy evaluation to repeat actions and execute code concurrently
+Write property-based tests for real-world examples
+Understand the dangers of blocking code in a concurrent environment
+Gains the skills to join one of the many companies using functional Scala
+Learn to think functionally",영어,https://www.udemy.com/course/supercharge-scala-future/
+development-tools,Siemens TIA Portal,Siemens TIA Portal for S7-1200 PLC Programming(PLC-SCADA-10),모든 수준,"19,000",25000.0,27.5시간 주문형 동영상,"배울 내용
+Basic Programming in Siemens TIA Portal
+Working of Tags, Latching And Unlatching, Interlocking, Move Operations, Comparator Operations, Math Functions, Timer and Counter in TIA Portal.
+Program Control Function in Siemens TIA Portal.
+Word Logic Operation in Siemens TIA Portal.
+Shift and Rotate Instruction in Siemens TIA Portal.
+You will be enriched with the latest technical knowledge related with the industrial automation.
+Students can establish their career in various manufacturing industries like Oil and Gas, Water/Waste Water Treatment, food & Beverages, Power Plants, Manufacturing Process, Chemicals and Pharmaceutical Industries, Power Generation, Automotive, Fabricated Metals, Packaging Process, Metals and Mining’s Aerospace, etc.",영어,https://www.udemy.com/course/siemens-tia-portal-for-s7-1200-plc-programming/
+development-tools,Visual Studio Code,Master Visual Studio Code 2023: Your Complete VS Code Guide,모든 수준,"17,000",23000.0,4시간 주문형 동영상,"배울 내용
+Get familiar with Vs code interface
+How to use workspace effectively inside Visual studio code
+Get the most out of the Editor area in Visual studio code
+Boost your productivity with popular extensions in Vs code
+Methods to open and create new files and folders in vs code
+Customize your Vs code and get the best themes available
+Working with fonts and font ligatures
+Learn various keyboard shortcuts
+How to edit and create your own keyboard shortcut
+Master emmet in Visual studio code
+Project based learning for Web development in Vs code
+Learn how to work with HTML CSS and JavaScript inside your VS code
+더 보기",영어,https://www.udemy.com/course/master-visual-studio-code-your-complete-vs-code-guide/
+development-tools,GitHub,Learn Github Actions for CI/CD DevOps Pipelines,초급자,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+The fundamentals for writing CI/CD pipelines with Github Actions
+Best practices for editing Github workflows
+Triggering a workflow on a Pul Request, Tag, Push or on a schedule
+Creating DevOps pipelines for Web Apps, Container apps and Databases
+Deploying apps and infra into Azure Cloud
+Using Terraform and Bicep (Infra as Code) with Github Actions
+Creating custom runner to run the pipelines
+Implement DevSecOps principles",영어,https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/
+development-tools,Xcode,80 Xcode Tips To Improve Productivity - Xcode 9 iOS11 Swift4,초급자,"19,000",25000.0,3시간 주문형 동영상,"배울 내용
+becomes more efficient and productive with Xcode as a tool
+use keyboard shortcuts to increase proficiency
+Learn new tips and tricks to make you better at using Xcode",영어,https://www.udemy.com/course/xcode-tips-and-tricks/
+development-tools,Simulink,"5 Days of Matlab, Simulink & SimScape + ChatGPT - New 2023!",초급자,"19,000",59000.0,7.5시간 주문형 동영상,"배울 내용
+Model and simulate Mechanical Systems Using Physical Modeling techniques in SimScape
+Model and Simulate Systems in the Time Domain Using Simulink
+Analyze Systems Response and Change Model Parameters Using Matlab Live Scripts
+Understand the Basic Concepts of Control Systems and Develop their Own Controllers in Simulink
+Understand Control System Theory, Develop PID controllers, and Tune Controllers in Simulink
+Convert Systems from Time Domain to S-Domain Using Laplace Transform
+Understand the Concept of Transfer Functions
+Understand the Impact of Stiffness and Damping Coefficients on Second-Order Systems
+더 보기",영어,https://www.udemy.com/course/5-days-of-matlab-simulink-simscape-new-2022/
+development-tools,Terraform,DevOps Bootcamp: Terraform,모든 수준,"17,000",69000.0,7.5시간 주문형 동영상,"배울 내용
+Learn and understand the power of Infrastructure as Code (IaC) technologies
+Prepare for the HashiCorp Certified Terraform Associate exam
+How to provision cloud infrastructure (AWS, Azure, GCP) with Terraform
+Learn one of the most in-demand skills for DevOps Engineers and SysAdmins
+Master Terraform from fundamentals all the way to Advanced Modules
+Have the skills and understanding of Terraform to confidently become certified and apply for jobs
+Learn to implement Terraform in your enterprise
+Learn by doing through hands-on experience with Terraform
+Program using the HashiCorp Configuration Language (HCL) used by Terraform
+Become a top 10% Terraform developer to enhance your skillset and career opportunities",영어,https://www.udemy.com/course/devops-bootcamp-terraform-certification/
+development-tools,Git,Git Mindset: Underlying Architecture of Git in Simple Terms,모든 수준,"19,000",25000.0,6시간 주문형 동영상,"배울 내용
+How to use Git to manage your project
+How to collaborate with other developers using Git
+The core concepts underlying Git through storytelling
+How Git works under the hood
+How to study the history of your project for learning and troubleshooting
+Effectively use Git commands in the command line",영어,https://www.udemy.com/course/git-mindset/
+development-tools,FPGA,Xilinx Vivado: Beginners Course to FPGA Development in VHDL,초급자,"19,000",49000.0,1시간 주문형 동영상,"배울 내용
+Use Vivado to create a simple HDL design
+Sythesize, Implement a design and download to the FPGA
+Create a Microblaze Soft Core Processor
+Understand the fundamentals of the Vivado Design FLow",영어,https://www.udemy.com/course/learn-fpga-xilinx-vivado-design-suite-training-in-under-1-hour-vhdl/
+development-tools,API Testing,Postman Course - Rest API Testing and Development,모든 수준,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+Basics of APIs
+Getting started with Postman
+Making API requests using different environments
+Types of API Authorization models and how to configure them in Postman
+Writing Pre-Request and Test Scripts to automate API Testing
+Simulating API behavior using mocking feature in Postman
+Documenting your API and sharing it with others
+Collaborating on APIs with teammates effectively using Postman",영어,https://www.udemy.com/course/fundamentals-of-postman/
+development-tools,Git,Git Basics for Everyone,초급자,"19,000",25000.0,3.5시간 주문형 동영상,"배울 내용
+Git basics
+git commands
+real world git commands
+github basics",영어,https://www.udemy.com/course/git-basics-for-everyone/
+development-tools,Google Forms,Basic Research: Google Forms Questionnaire Development,모든 수준,"17,000",23000.0,44분 주문형 동영상,"배울 내용
+How to develop Google Form for Survey Research?
+Converting Word Doc questionnaire into Google Forms
+Important Sections in Google Forms
+Creating a title (topic) section
+Creating Covering letter section
+Creating Variables section
+Creating Respondents' Profile Section
+Beautifying your Google Form questionnaire
+How to add photos?
+How to add videos?",영어,https://www.udemy.com/course/basic-research-google-forms/
+development-tools,DevOps,DevOps and Agile: The Complete Guide + 2 EXTRA Courses,모든 수준,"17,000",59000.0,3시간 주문형 동영상,"배울 내용
+Software engineers will be able to negotiate with management resources to set up a DevOps initiative.
+Managers will be able to create business strategies empowered by DevOps.
+Analyze how big tech companies such as Netflix and Spotify applied DevOps and revolutionized business models, product management, and quality management.
+Explain how DevOps enables Agile and Lean.
+Contrast the waterfall and agile software development lifecycle models.
+Summarize the software lifecycle.
+WITHOUT A DOUBT, you will be more recognized and paid, as you will master something valuable for companies, and less than 5% of professionals dominate.",영어,https://www.udemy.com/course/devops-culture-and-agile-software-development-the-complete-guide/
+development-tools,Performance Testing,Discovering Backend Bottlenecks: Unlocking Peak Performance,전문가,"17,000",23000.0,9.5시간 주문형 동영상,"배울 내용
+Identify bottlenecks in backend applications
+Find where latencies live
+Intercept slow requests from Mobile and Web Apps
+Using DevTools Networking tap to its full potentional
+Using Man in the middle proxy MITM to intercept HTTP requests
+Using Wireshark for packet inspections
+Real-world Performance Analysis of Backend Applications",영어,https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/
+development-tools,Git,Git & GitHub Masterclass: The Practical Bootcamp,모든 수준,"19,000",25000.0,7.5시간 주문형 동영상,"배울 내용
+Understand Git basics and how it works behind the scenes
+Essential Git commands such as add, status, commit, log, push, and pull
+Branching and merging code in Git
+Resolving merge conflicts in Git
+Mastering advanced Git concepts such as rebase, stash, restore, squash, revert, reset & more!
+Working with GitHub: Push our projects on remote repositories
+Work with Git specific files: Ignore & README
+Customizing the appearance of GitHub Profile and Projects using README file
+Master collaboration workflows: fork, clone, pull requests etc.
+Using pull requests to collaborate on code changes on Open Source Projects
+더 보기",영어,https://www.udemy.com/course/learn-git-and-github/
+development-tools,Git,Git Ultimate Essentials: Everything you NEED to know,모든 수준,"20,000",25000.0,2.5시간 주문형 동영상,"배울 내용
+Use git confidently to back up and collaborate work",영어,https://www.udemy.com/course/git-essentials/
+development-tools,Git,Essential Git - All You Need to Know to Use Git Effectively,초급자,"19,000",25000.0,1.5시간 주문형 동영상,"배울 내용
+You will be able to start a Git repository from an existing project or clone a project hosted on the Internet.
+You will become knowledgeable with the Github portal and how to use it professionally.
+You will obtain a fundamental understanding of how to manage remote repositories.
+You will learn the theory of and why branches are important.
+You will participate in a Git collaborative project with other developers.",영어,https://www.udemy.com/course/essential-git-course/
+development-tools,VMware Horizon,Advanced VDI with VMware Horizon 7,전문가,"19,000",25000.0,7시간 주문형 동영상,"배울 내용
+Architechture and implement your Horizon 7 Virtual Desktop Infrastructure.
+The best type architecture for your Horizon 7 deployment.
+The best type of desktops to provisioning for use for their end-users.
+How end-users can access their desktop anywhere via a wide range of mobile devices.
+How the new features in Horizon 7 can revolutionize your VDI environment.",영어,https://www.udemy.com/course/advanced-vdi-with-vmware-horizon-7/
+development-tools,GNU Make,Make and Makefile for C/C++ Projects [2022 Edition],모든 수준,"17,000",49000.0,1시간 주문형 동영상,"배울 내용
+Makefile Targets
+Makefile Variables
+Makefile Arguments
+Set Compiler Flags etc.",영어,https://www.udemy.com/course/make-and-makefile-for-cc-projects-2022-edition/
+development-tools,Nanotechnology,Step by Step Guide to Design Nano Devices and Sensors,모든 수준,"20,000",25000.0,3.5시간 주문형 동영상,"배울 내용
+How to design and develop simulator for nano devices and sensors
+You’ll be able to model nanostructures, examine your ideas and propose results for your projects, thesis and publications
+How to implement NEGF method in Matlab to explore electronic/transport properties of nano structures such as transmission probability and I-V characteristics
+How to Convert an Example Code to Systematic Simulator
+Become familiar with Graphene Nanoribbon and Carbon Nanotube structures and model their properties in Matlab
+Ups and Downs of NEGF and how to make your code expandable and efficient",영어,https://www.udemy.com/course/step-by-step-guide-to-build-nano-devices-and-sensors-by-negf/
+development-tools,Vim Text Editor,Master vi / vim Linux Command Line Text Editor,모든 수준,"17,000",39000.0,2시간 주문형 동영상,"배울 내용
+Difference between vi and vim
+Different vi modes
+Editing files in insert mode
+navigation in command mode
+editing file in command mode
+understanding visual mode
+cut , copy , paste
+running set commands
+finding and replacing text
+running Linux / Unix commands from vi
+command abbreviation
+creating macros
+opening multiple file tabs
+creating vertical and horizontal splits
+creating local and global bookmarks
+performing backup and recovery
+getting help in vi
+extending vi with plugins
+더 보기",영어,https://www.udemy.com/course/vim-master-course/
+development-tools,JIRA,Jira Complete Tutorial- Agile Management Tool for beginners,초급자,"19,000",25000.0,1시간 주문형 동영상,"배울 내용
+Jira Complete Agile Management
+Introduction to Jira
+Creating issues in Jira
+Understanding Sprint Management and Story Points Allocation
+Complete Sprint Planning
+Logging Defects in Jira
+Report Generation in Jira
+Writing Test Cases in Jira - Zephyr Plugin
+Updating Test Case Status- Zephyr Plugin
+Creating RTM (Requirement Traceability Matrix) with Zephyr Plugin",영어,https://www.udemy.com/course/jira-complete-tutorial-agile-management-tool-for-beginners/
+development-tools,Raspberry Pi,Home Automation with Raspberry Pi and AWS - IoT - 2019,모든 수준,"20,000",25000.0,5시간 주문형 동영상,"배울 내용
+Create a headless Raspberry PI
+AWS CodeDeploy
+AWS Pipeline
+AWS SSM - Parameter Store
+AWS DynamoDB
+AWS SNS
+AWS IAM
+Important Commands in Linux
+Cloud Security
+Nodejs",영어,https://www.udemy.com/course/awsraspberrypi/
+development-tools,Nanotechnology,How to Simulate Electronic Properties of Nano Structures,모든 수준,"17,000",48000.0,2시간 주문형 동영상,"배울 내용
+You’ll be able to model electronic properties of periodic structures, examine your ideas and propose results for your projects, thesis and publications
+About Band structure, how to read and analyze a given E-K diagram. What does Energy band and level means and also relation between energy and momentum in E-K diagram
+Tight binding model. What it is, how it works
+Concept of Band gap and what does direct or indirect band gap mean
+How to implement Tight Binding method in Matlab to explore Band-structure (E-k), Bad ap and obtain Hamiltonian Matrix of periodic structures
+Bloch Theorem for periodic nanostructures and answers of Schrodinger equation for periodic potential
+Become familiar with Graphene Nanoribbon and Carbon Nanotube structures and model their properties in Matlab
+About Schrodinger equation and E-K diagram of free electron",영어,https://www.udemy.com/course/how-to-simulate-electronic-properties-of-nano-structures/
+development-tools,LangChain,LangChain: Develop AI web-apps with JavaScript and LangChain,초급자,"17,000",23000.0,6시간 주문형 동영상,"배울 내용
+Chat With Anything - use AI to chat with books, videos, etc.
+Supercharge Your Work - create autonomous AI agents that can ""think"" through complex tasks
+Launch Your Product - display your AI projects for potential employers/customers to see
+Troubleshoot Anything - how to use AI tools beyond ChatGPT to become the ""10x developer""",영어,https://www.udemy.com/course/langchain-develop-ai-web-apps-with-javascript-and-langchain/
+development-tools,Sociology,Global Citizenship - Your path to the globalized world,초급자,"19,000",25000.0,43분 주문형 동영상,"배울 내용
+Get an in depth understanding of Citizenship and its importance in today’s emerging world of Global Citizenship.
+A better understanding and appreciation of one’s roles, rights and responsibilities as a responsible citizen.
+Learn general tips and tricks on how to curate effective social action plan.
+Learn how to step out of their comfort zone with self awareness and confidence.",영어,https://www.udemy.com/course/global-citizenship/
+development-tools,ERP,The Complete ERPNext API Mastery Series,모든 수준,"35,000",,1.5시간 주문형 동영상,"배울 내용
+An introduction to APIs
+Setting up the environment for API writing within ERPNext
+Writing our first API in ERPNext
+ERPNext API Authentication, Access and the API response data
+Formatting ERPNext APIs and making them Publicly accessible
+Manipulating ERPNext API Response format & passing custom items to response body
+Querying with parameters passed from external applications
+Getting data from a fronted application and using it in your ERPNext API
+Updating records in ERPNext with an API
+Deleting items from an ERPNext DocType with an API
+더 보기",영어,https://www.udemy.com/course/the-complete-erpnext-api-mastery-series/
+development-tools,Visual Studio Code,Write Html & Css 5 Times Faster With Vs Code & Emmet 2023,모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Write code faster to be more productive.
+From beginning to advanced concepts in vs code and emmet
+Explore the UI of VSCode
+Download ,Install and configure VS Code For Coding
+Get familiar with Vs code User interface
+how to work with HTML and CSS inside your Visual studio code
+All about Vs code integrated terminal/Panel
+How to work in multiple files side by side
+Get the most out of the Editor area in Visual studio code
+create your own keyboard shortcut
+All Helpfull shortcuts for vs code
+Shortcuts for file management , searching and replacing , opening/closing windows and editors.
+더 보기",영어,https://www.udemy.com/course/learn-visual-studio-code-and-emmet-full-course-vs-code-masterclass-323/
+development-tools,Docker,"Learn Docker: Images, Containers, DevOps & CI/CD - Hands On",모든 수준,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+What is Docker
+CI/CD and DevOps
+Installation of Docker
+Running Docker images
+Tags in Docker images
+Removing Docker containers
+Removing Docker images
+Restarting a Docker container
+Executing commands inside a running container
+Viewing logs generated by the container
+Delete multiple containers
+Deleting all created images
+Searching for images from the terminal
+Rename a container
+Display system-wide information
+Save an image to a compressed file
+더 보기",영어,https://www.udemy.com/course/docker-images-containers-devops-cicd/
+development-tools,Salesforce Development,Salesforce Functions - From Zero to Hero,모든 수준,"17,000",23000.0,5시간 주문형 동영상,"배울 내용
+What is Salesforce Functions
+What are the use cases of Salesforce Function and When to Go for it Over an Apex Solution
+Architecture of Salesforce Functions and How it runs within the same salesforce Boundaries
+Create Functions in Industry Standard Language Such as Java, JavaScript and TypeScript
+Understanding What a Function or Compute Space is
+Creating Compute Space and Connect it With Salesforce Org
+Deploy Functions to Compute space and Invoke it from Apex Class
+Invoking and Testing Functions Locally
+더 보기",영어,https://www.udemy.com/course/zero-to-hero-in-salesforce-functions/
+development-tools,Automation,Data Center DevOps: On-Prem Infrastructure Like The Cloud,중급자,"19,000",23000.0,5.5시간 주문형 동영상,"배울 내용
+Automate Windows and Linux virtual machine creation with Packer
+Provision servers into VMWare from Packer virtual machine templates using Terraform
+Configure virtual machines using Ansible
+Integrate secure credential management into Packer, Ansible and Terraform using Vault
+Dynamically create Ansible inventories from terraform plans
+Deploy full application stacks with multiple servers and application configurations using Terraform and Ansible
+Deploy, setup and manage build processes using Packer, Terraform, Vault and Ansible in Jenkins
+Setup and configure the GOGS git server
+Setup and configure Jenkins build server with integration to Git",영어,https://www.udemy.com/course/data-center-devops-on-prem-infrastructure-like-the-cloud/
+development-tools,Git,Git & GitHub Master Course - Complete Guide,모든 수준,"17,000",23000.0,6.5시간 주문형 동영상,"배울 내용
+The basics of command prompt terminal in Windows
+Basics of Git
+How to handle local Git repositories
+Git installation
+Using github for source control
+How to use Git Commands
+How to make commits using Git terminal and VSC
+How to check the history of your project",영어,https://www.udemy.com/course/the-git-complete-guide-learn-and-master-git-github/
+development-tools,Embedded Systems,Learn MSP430 Programming while Implementing a Task Scheduler,중급자,"20,000",26000.0,1시간 주문형 동영상,"배울 내용
+Students will learn how to set up registers on the MSP430, the proper way to write firmware for low power consumption, and how to create a simple task scheduler.",영어,https://www.udemy.com/course/learn-msp430-programming/
+development-tools,Docker,Containers Under the Hood,중급자,"17,000",69000.0,11.5시간 주문형 동영상,"배울 내용
+Ever wondered how Docker or any other container technology works under the hood?
+Understand in depth the core concepts that underlie any container technology - Namespaces, Cgroups and Overlay Filesystems.
+Understand the different Namespaces that enable Containers with detailed examples on PID, MOUNT, UTS and IPC Namespaces
+Gain in-depth knowledge on Overlay Filesystems - what they are and what role they play in the world of Containers
+Learn how to use Cgroups with step-by-step concrete examples for controlling the CPU and Memory available to an application
+Create your own container by just using Namespaces, Cgroups and Overlay Filesystems
+Learn what container images are, how image layering works under the hood, how they related to Overlay FS using detailed hands-on working examples.
+See under the hood to understand how Cgroups are used in Containers and Kubernetes for resource allocation.
+What a Kubernetes Control Plane is, what the key components are and how they work together
+Gain a solid understanding of related concepts such as the proc filesystem and mount points. Learn how these tie into Namespaces.",영어,https://www.udemy.com/course/containers-under-the-hood/
+development-tools,DevOps,DevOps Tools: Optimizing The Software Development Lifecycle,중급자,"20,000",25000.0,2시간 주문형 동영상,"배울 내용
+Git
+GitHub
+Git LFS
+Nexus
+Jira
+Jenkins
+DevOps
+Tool Integrations
+IT
+Software",영어,https://www.udemy.com/course/optimizing-the-software-development-lifecycle/
+development-tools,Business Fundamentals,Learning Path: Business Management with Odoo 10,중급자,"19,000",25000.0,4시간 주문형 동영상,"배울 내용
+Get familiar with Odoo Architecture and Odoo online
+Know some troubleshooting and Odoo management tips
+Learn to create a database in Odoo
+Know the basic Odoo Interface
+Learn installation of your application on Odoo
+Learn how to enter a product, product invoicing page, and sales order
+Learn to install a CRM application
+Implementing the human resources application",영어,https://www.udemy.com/course/learning-path-business-management-with-odoo-10/
+development-tools,GitHub,Github Actions: Become the Jedi of CI/CD 2023,모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+CI/CD - it's like a personal assistant for your code. Only, it won't make your coffee. Sorry.
+Setting up Github Actions workflows - the closest thing you'll get to being a cyborg developer
+Automating tasks like building, testing, deploying, and creating release notes: more Netflix, less manual work.
+Working with various Github Actions: a buffet of code awesomeness.
+Troubleshooting and debugging Github Actions workflows: detective work with coffee.
+Best practices for using Github Actions in a team: teamwork = dreamwork. Karen, stop breaking the code.
+Integrating Github Actions with other tools: like playing with Lego blocks but for software solutions.
+Using Github Actions beyond coding: automate your life (well, almost).",영어,https://www.udemy.com/course/become-the-jedi-of-cicd-github-actions/
+development-tools,AWS DevOps,Linux Essential for DevOps - Data Scientist - Development,모든 수준,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+Linux Essentials for DevOps
+Linux Essentials for Software Development
+Linux Essentials for Data Science
+Linux Commands to make you comfortable to work with CLI",영어,https://www.udemy.com/course/linux-essential-for-aws-devops-data-scientist-development/
+development-tools,Docker,Docker and Containers Essentials,모든 수준,"20,000",25000.0,3시간 주문형 동영상,"배울 내용
+Docker
+Creating Docker Images
+Running Docker Containers
+Package code into Images and Run Containers
+Best Practices for creating Images
+Debugging",영어,https://www.udemy.com/course/docker-and-containers-essentials/
+development-tools,Hadoop,Simple Hadoop with EMR,중급자,"19,000",25000.0,3.5시간 주문형 동영상,"배울 내용
+Identify problems that can be solved by the Map Reduce Model
+Write applications that run on hadoop
+Run your existing or new applications on hadoop (EMR)
+Save a lot of processing time like a boss!",영어,https://www.udemy.com/course/simple-hadoop/
+development-tools,Recognition Software,Attendance System with Face Recognition in Python 2023,모든 수준,"17,000",23000.0,9.5시간 주문형 동영상,"배울 내용
+Real Time Live Attendance System
+Detect and Idenify person name and person role with Face Recognition
+Develop 3 Streamlit Web App
+Integrate Face Recognition Model with Redis Database
+Learn about Redis with Python
+App-1: Real Time Live Attendance System
+App-2: Registration Form for new teachers and students
+App-3: Reporting",영어,https://www.udemy.com/course/attendance-software/
+development-tools,Mac Terminal,Learn Terminal from Beginner to Professional,초급자,"19,000",25000.0,1시간 주문형 동영상,"배울 내용
+The ability to understand about the terminal and shell in details. From the history of terminal to the command usage.
+Customize the terminal, make it colorful and beautiful.
+Basic, Common and Daily Commands, Navigation, Roles and Permission, Advanced Topics Understanding.
+Understand everything that's needed to improve the programming career.",영어,https://www.udemy.com/course/learn-bash-terminal/
+development-tools,Vivado,Xilinx Vivado Essentials for the Logic Designer,중급자,"32,000",39000.0,2.5시간 주문형 동영상,"배울 내용
+Getting started designing FPGAs with Xilinx Vivado Design Tools",영어,https://www.udemy.com/course/xilinx-vivado-essentials-for-the-logic-designer/
+development-tools,Oracle 1Z0-071,Practice Test Oracle Database SQL 1Z0-071,모든 수준,"20,000",25000.0,,,영어,https://www.udemy.com/course/practice-test-oracle-certified-associate-1z0-071/
+development-tools,GitHub,Learning GitHub Actions for DevOps CI/CD,모든 수준,"17,000",49000.0,3시간 주문형 동영상,"배울 내용
+Introduction to GitHub Actions
+GitHub Actions Workflow Nuts & Bolts
+DevOps Practices
+Designing CICD pipeline in GitHub
+Infra as Code deployment with GitHub actions",영어,https://www.udemy.com/course/learning-github-actions/
+development-tools,Markdown,Learn GitHub Flavored Markdown,초급자,"20,000",25000.0,3시간 주문형 동영상,"배울 내용
+Create headings in GitHub-flavored Markdown.
+Create lists in GitHub-flavored Markdown.
+Add images to a document in GitHub-flavored Markdown.
+Add links to a document in GitHub-flavored Markdown.",영어,https://www.udemy.com/course/learn-github-flavored-markdown/
+development-tools,Code Editor,Secrets to Effortless Code Editing in Android Studio,모든 수준,"17,000",48000.0,1.5시간 주문형 동영상,"배울 내용
+Select anything you want with a few keystrokes
+Let Android Studio finish boilerplate for you
+Move cursor efficiently within a file (navigate to fields, to matching brackets, to bookmarks, or problems)
+Work efficiently with lines without losing caret position
+Switch effectively between two or more files
+Find anything in your codebase using the Search Anywhere feature
+Use Android Studio's powerful refactoring tools without touching the mouse
+Define your own Live Templates, including the very useful Surround With templates
+Do all this fluently, without having to stop to think",영어,https://www.udemy.com/course/effortless-android-studio/
+development-tools,Google App Engine,Deploy a Serverless Django app on Google App Engine,중급자,"19,000",59000.0,3.5시간 주문형 동영상,"배울 내용
+How to use Serverless technology
+How to use Google App Engine
+How to use Google Cloud Datastore
+How to use Google Cloud Secret Manager
+How to setup a Django project using Docker
+How to build a Django app",영어,https://www.udemy.com/course/serverless/
+development-tools,Big Data,Big Data Internship Program - Data Processing - Hive and Pig,모든 수준,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+Have excellent understanding of Apache Hive and Pig tool with hands-on experience .
+Understand the working of a project in real-world scenario.
+Work experience in end-to-end Project ( Data Masking) and can mention in Resume .",영어,https://www.udemy.com/course/big-data-internship-program-data-processing-hive-and-pig/
+development-tools,Talend,"Talend Advanced for Big Data, Cloud and Database integration",중급자,"17,000",69000.0,8시간 주문형 동영상,"배울 내용
+connect to Big Data and Cloud systems like Snowflake, Amazon S3 and MongoDB
+use advanced database features, such as stored procedures, bulk loading, ELT, SCD
+use custom Java code, libraries and external components
+use existing routines and learn many types of data conversions",영어,https://www.udemy.com/course/talend-advanced-for-big-data-cloud-and-database-integration/
+development-tools,Git,Git for Beginners: Learn Git in One Hour,초급자,"19,000",25000.0,1시간 주문형 동영상,"배울 내용
+The key concepts and techniques to start working with git.
+Solve Merge Conflicts, Refactor Files and Stash Changes.
+Create, Modify, Delete & Work with local repositories.
+Work with branches by making & merging changes and comparing differences.
+Create, Modify, Delete and Squash Commits.
+Apply Everything your Learn on your Final Capstone Project!",영어,https://www.udemy.com/course/learn-git-from-scratch-for-beginners/
+development-tools,Azure Kubernetes Service (AKS),Introduction to Azure Kubernetes Service - Terraform & ELK,초급자,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Azure Kubernetes Service, Elastic Search Stack on a high level
+Learn to write Kubernetes Manifest file and master Kubectl command
+Monitor, configure and Watch Kubernetes dashboard for deployments [Deprecated]
+Don;'t just deploy an nginx or hello world program, learn by deploying real world workloads like data base, front end.
+Tips and tricks of Azure Kubernetes Service like testing before deployment, tools to manage your config
+Learn to Automate Azure AKS Production grade clusters using Terraform
+Learn Kubernetes Fundamentals in both imperative and declarative approaches
+Understand core fundamentals of Kubernetes like when to use services, deployment, replica... and how to join them together in production environment
+Learn to attach a static IP on AKS service",영어,https://www.udemy.com/course/introduction-to-azure-kubernetes-service/
+development-tools,Git,Git and GitHub for Developers,초급자,"17,000",23000.0,12.5시간 주문형 동영상,"배울 내용
+Learn the basic Git commands: add, commit, push, fetch
+Learn advanced Git commands: merge, rebase, config, alias
+Backup your work and collaborate with others using Git remote repositories
+See the full Git flow from the beginning of the project to the end
+Discover the benefits of command-line Git over graphical user interfaces
+Understand the role of GitHub and learn to use this platform",영어,https://www.udemy.com/course/git-for-developers/
+development-tools,Visual Studio Code,Master VS Code: Learn To Use Visual Studio Code Like A Pro,중급자,"19,000",25000.0,3.5시간 주문형 동영상,"배울 내용
+Maximize your productivity while using Visual Studio Code
+Have more fun while coding
+Control VS Code with your keyboard using advanced key-bindings and shortcuts
+Navigate between your files like a ninja",영어,https://www.udemy.com/course/master-vs-code/
+development-tools,OpenCV,OpenCV Starter Project - Pencil Sketch and Cartoon Paint,초급자,"17,000",39000.0,1시간 주문형 동영상,"배울 내용
+Pencil Sketch Image
+Image to Cartoon Image
+Gaussian Blur, Median Blur
+Bilateral Filter
+Edge Preserving Filter, Detail Enhance Filter
+Image Processing with OpenCV
+Ipython Widgets",영어,https://www.udemy.com/course/image-to-cartoon-sketch-using-opencv-in-python/
+development-tools,IntelliJ,IntelliJ IDEA 2021 for Java & Kotlin Developers,모든 수준,"17,000",48000.0,6.5시간 주문형 동영상,"배울 내용
+apply useful keyboard shortcuts
+use refactoring support
+quick code navigation
+using technology integration (databases, docker, angular)
+tips and tricks for increased productivity
+analyzing applications with profiling and debugging
+version control with git and advanced git features like git submodules
+working with spring boot integration",영어,https://www.udemy.com/course/intellij-idea-for-java-devs/
+development-tools,Data Visualization,Apache Zeppelin - Big Data Visualization Tool,모든 수준,"19,000",49000.0,2시간 주문형 동영상,"배울 내용
+Data Ingestion in Zeppelin environment
+Configuring Interpreter in Zeppelin
+How to Use Zeppelin to process Data in Spark Scala, Spark Python, SQL and MySQL
+Data Discovery
+Data Analytics in Zeppelin
+Data Visualization
+Pivot Chart
+Dynamic Forms
+Various types of Interpreters to integrate with various big data eco system
+Visualization of results from big data",영어,https://www.udemy.com/course/apache-zeppelin-big-data-visualization-tool/
+development-tools,Business Development,Infection Control for the Esthetician,모든 수준,"19,000",25000.0,37분 주문형 동영상,"배울 내용
+Identify the roles and purpose of the Health and Safety Protocols, Administration, and Governing bodies in respect to Health and Safety
+Identify bloodborne pathogens and how they affect business in the spa
+Explain the principles of infection control in the spa
+Develop strategies to prevent hazards within the spa environment
+Create protocols for staff to carry out day to day services and tasks within the spa",영어,https://www.udemy.com/course/infection-control-for-the-esthetician/
+development-tools,GitHub,React Redux and Git Mastery with Hands-on Project,초급자,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+You will learn the basics of ReactJS and component development
+You will learn about Redux state management
+You will learn about various React hooks
+You will learn about Importance of using Version Control System(VCS)
+You will learn about the most popular VCS - Git/Github
+You will learn to use Git commands from Git bash & Terminal",영어,https://www.udemy.com/course/react-redux-and-git-mastery-with-hands-on-project/
+development-tools,Apache Nifi,Apache NiFi - A Complete Introduction | Master the Flow,초급자,"17,000",23000.0,4시간 주문형 동영상,"배울 내용
+Installing Apache Nifi
+Apache Nifi Expression Language
+Master core functionalities like FlowFile, FlowFile Processor, Process Groups,, etc.
+Configuring Processors and Controller Services
+Load and Back Pressure Management
+Distributed Cache Maps",영어,https://www.udemy.com/course/apache-nifi-course/
+development-tools,Kubernetes,Kubernetes for Beginners,초급자,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+Understand what is Kubernetes and its architecture which includes Nodes, Pods, Services and Deployments and how to manage Services and Deployments
+Create Kubernetes cluster, manage it using Kubernetes Dashboard, create Pods using command line, connect to Pods and explore their internals
+Understand and be able to create different kinds of services such as ClusterIP, NodePort and LoadBalancer and certainly understand how internal DNS works
+Create Services and Deployments using YAML configuration files which allow to apply and update configurations fast and easy",영어,https://www.udemy.com/course/kubernetes-guide/
+development-tools,Salesforce Lightning,Salesforce Lightning Process Builder With Real Time Examples,모든 수준,"19,000",25000.0,6시간 주문형 동영상,"배울 내용
+Salesforce Process Builder
+salesforce lightning
+Real time examples with process builder
+Students will be able to build simple to complex business processes using Process builder
+Invoke apex code from Processes
+Updating Child record from process builder
+How to post to chatter from Process builder
+Scheduled automated action from process builder
+Auto launch flow use in process builder
+Invoke Approval process from process builder
+Use quick action in process builder
+Schedule and organize multiple actions in process builder
+더 보기",영어,https://www.udemy.com/course/salesforce-lightning-process-builder-with-real-time-examples/
+development-tools,Docker,Project in Docker | Docker Basics - Microservices,모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Develop and deploy project in Docker with Docker and Docker Compose
+Build real applications with Docker from scratch
+Learn Docker basics through real usage
+Deep dive with Docker for beginners",영어,https://www.udemy.com/course/docker-and-docker-compose-project-deployment-from-scratch/
+development-tools,C# (programming language),Master New Cross-Platform IDE for .NET: Rider by JetBrains,모든 수준,"17,000",39000.0,2.5시간 주문형 동영상,"배울 내용
+Harness the power of modern IDE - Rider
+Rider Settings
+Refactorings in Rider
+Code Editing in Rider",영어,https://www.udemy.com/course/rider-ide/
+development-tools,Prompt Engineering,Prompt Engineering with ChatGPT for Developers: Crash Course,초급자,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Apply your skills and knowledge to build a fully functional chatbot from scratch.
+Get hands on experience with OpenAI's ChatCompletion API endpoint, using both the GPT-4 and GPT-3 models.
+Learn basic prompting techniques like text classification, translation, Q&A, conversation, and reasoning.
+Build advanced prompts to create robust and nuanced outputs for large tasks.
+Gain a deeper understanding of practical applications by analyzing a wide range of case studies.
+Gain a solid understanding of the foundational concepts of prompt engineering to write powerful prompts.
+Identify and understand the limitations of ChatGPT and how to avoid these pitfalls.",영어,https://www.udemy.com/course/prompt-engineering-with-chatgpt-for-developers/
+development-tools,Jupyter Notebook,Data Analysis Crash Course For Beginners (Pandas + Python),초급자,"19,000",25000.0,1시간 주문형 동영상,"배울 내용
+Fundamentals of Data Analysis.
+Working with Pandas, iPython, Jupyter Notebook.
+Important Jupyter Notebook Commands.
+Working with CSV, Excel, TXT, JSON Files and API Responses.
+Working with DataFrames (Indexing, Slicing, Adding and Deleting).",영어,https://www.udemy.com/course/pandas-basics/
+development-tools,Azure Functions,Azure Front Door Deep Dive,모든 수준,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+What is Azure Front Door?
+Create Azure Front Door
+Settings up Custom Domains for your Azure Front Door
+Secure your Custom Domain using SSL
+Root / APEX Domain
+HTTP to HTTPS Redirection
+URL Redirection
+Backends
+Backend Pools
+Caching
+Rules Engine
+Rules Engine Architecture
+Rules Engine Conditions
+Rules Engine Actions
+Front Door Routing
+Front Door Routing Architecture
+더 보기",영어,https://www.udemy.com/course/azure-front-door-deep-dive/
+development-tools,Microsoft Azure,Azure Data Engineering-Master 6 Real-World Advanced Projects,중급자,"17,000",23000.0,8.5시간 주문형 동영상,"배울 내용
+The basics of Azure data engineering and the services available in Azure for data engineers
+How to design, implement and manage data pipelines using Azure Data Factory, Azure SQL, Azure Storage Account, and Data Lake Storage
+How to create dynamic and reusable mapping data flows in Azure Data Factory
+How to use metadata-driven frameworks in real-time projects in Azure Data Factory
+How to perform incremental data loading using Azure Data Factory and watermarking techniques
+Techniques for validating source schema using Azure Functions and Azure SQL
+Five Real-world use cases and scenarios for data engineering in Azure
+Master Azure Data Factory Advance Configurations
+더 보기",영어,https://www.udemy.com/course/azure-data-engineering-projects/
+development-tools,Kubernetes,FluxCD 101 with Hands-On Labs,중급자,"17,000",23000.0,6시간 주문형 동영상,"배울 내용
+Overview of GitOps vs DevOps
+Overview of FluxCD and its architecture
+Install and configure FluxCD
+Deploy apps using GitOps methodology
+Automate Deployments via Image Tags
+Container Sigining & Verfication
+Secret Encryption & Decryption
+Alerts, Monitoring & User Interface
+Understand OCI Artifacts & Registry",영어,https://www.udemy.com/course/gitops-flux/
+development-tools,Microservices,K8s Native Java Microservices on Quarkus - 2022 Edition,초급자,"17,000",48000.0,4시간 주문형 동영상,"배울 내용
+Basics of Quarkus and its tooling
+Building Microservices from ground-up using Quarkus
+Testing Microservice code using JUnit and RestAssured
+Deploying Services to Kubernetes like environment using Minikube
+Configuration Management for Services and property file ordinals
+Database access for in-memory and external databases
+Connecting two services using RestClient
+Health Checks and Metrics",영어,https://www.udemy.com/course/k8s-native-microservices-on-quarkus/
+development-tools,ChatGPT,ChatGPT for Developers: Create Apps within Minutes,모든 수준,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Using ChatGPT to Write and Run Programs
+Using ChatGPT to Add New Functionality to Existing Programs
+Making Changes to a Multi-File App
+Asking ChatGPT to Improve and Refactor Code",영어,https://www.udemy.com/course/chatgpt-for-developers/
+development-tools,ChatGPT,ChatGPT Masterclass for Programmers and Software Engineers,모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+How to effectively use ChatGPT to boost your productivity, streamline your workflow, improve your skills, and land your dream job.
+Hands-on experience using ChatGPT to build complex programs from scratch and add new features, including a sentiment analyzer and an image recognition feature.
+Advanced Prompt Engineering Principles and Techniques for achieving your desired goal with ChatGPT, Bard, Bing Chat, Claude, and other LLMs.
+Hands-on experience making ChatGPT become your AI Mock Interviewer for technical and behavioral interviews (Applies to Tech & Non-Tech roles)
+Reviewing and optimizing your code or an employee's code using ChatGPT for better performance, efficiency, security, privacy, robustness, and other aspects.
+Practical applications of ChatGPT, including tracking & fixing bugs, refactoring code to improve readability and translating code between programming languages.
+더 보기",영어,https://www.udemy.com/course/chatgpt-masterclass-for-programmers-and-software-engineers/
+development-tools,Postman,Postman API Testing 2022 Complete Guide,모든 수준,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+Manual testers, interested in learning Automation
+Software Testers who want to learn API Testing
+Anyone who wants to learn Postman for Manual or Automation Testing
+End to End API Test Automation with Postman
+Practicle Examples and Access to postman collection for practice",영어,https://www.udemy.com/course/postman-rest-api-testing-2022-complete-guide/
+development-tools,Kubernetes,Beginning Kubernetes: Practical Guide with Hands-on Approach,모든 수준,"19,000",25000.0,2.5시간 주문형 동영상,"배울 내용
+Learn about Container Orchestration and why it is important
+What is Kubernetes and how come it is so popular?
+Understand the Kubernetes Architecture
+Setup your own Kubernetes multi-node cluster
+Grasp the Kubernetes fundamentals like Pods, ReplicaSets, Deployments and Services
+Learn how to deploy, run and expose a multi-tier web microservice based application on a Kubernetes cluster",영어,https://www.udemy.com/course/beginning-kubernetes-practical-guide-with-hands-on-approach/
+development-tools,Gradle,Gradle Plugin Development,중급자,"17,000",59000.0,2.5시간 주문형 동영상,"배울 내용
+Build custom Gradle plugin
+Get free Gradle consultation or code review if you have concrete questions.
+Learn about different types of Gradle plugins
+Extract Gradle script into standalone Gradle plugin
+Write Gradle plugins with Gradle 8.x version
+Understand how to apply custom Gradle plugin in real life
+Learn how to deploy plugin to Gradle Plugin Portal
+Create extension that provides DSL configuration block for your plugin.
+Cover plugin logic with unit (JUnit5) and functional tests (Gradle TestKit).",영어,https://www.udemy.com/course/gradle-development/
+development-tools,npm,NPM - Node package manager - Quickstart & Advanced,모든 수준,"17,000",49000.0,3시간 주문형 동영상,"배울 내용
+Learn how to use the basic functions of npm
+Npm commands: npm install, npm run
+Dependency management with npm
+Semantic versioning
+Npm workspaces
+Create npm packages
+Use npm with TypeScript
+Npm security: audit, post install scripts, security events
+Execute node modules with npx
+Npm alternatives like Yarn and Pnpm
+Git and Npm
+Safely unlock the power of the NodeJs ecosystem",영어,https://www.udemy.com/course/npm-node-package-manager-course/
+development-tools,ChatGPT,"ChatGPT for DEVOPS : Learn Kubernetes, Docker and AWS ECR!",모든 수준,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+How to get started with Docker and Kubernetes from Zero to Mastery with ChatGPT's AI
+Understand Docker and Kubernetes concepts while using ChatGPT's AI
+Learn an important concept of AWS - The Elastic Container Registry
+Create all necessary files and applications with zero knowledge and deploy your Docker and Kubernetes applications with ChatGPT
+Deploy your built applications to Image Registries like AWS-ECR and Dockerhub
+Learn how to understand and select relevant ideas from ChatGPT's responses
+Make good use of the free Tier Data provided by AWS and Dockerhub for everyone
+Really understand these DEVOPS concepts with animations and simplified explanations
+더 보기",영어,https://www.udemy.com/course/chatgpt-for-devops-learn-docker-kubernetes-and-aws-ecr/
+development-tools,Containerization (software),Container Management With Podman Made Easy and Hands-On,초급자,"17,000",23000.0,42분 주문형 동영상,"배울 내용
+How to manage containers using Podman
+Baseline knowledge on what container are and their benefits
+How to handle container networking
+How to create/extend their own container images
+Understand Software Containerization
+Study for the EX180 exam",영어,https://www.udemy.com/course/container-management-with-podman-made-easy-and-hands-on/
+development-tools,Python,Building Python CLI Apps with Click,중급자,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+CLI Applications with Python
+Tools for Automation
+Click CLI Framework
+Software development",영어,https://www.udemy.com/course/building-python-cli-apps-with-click/
+development-tools,AWS DevOps,DevOps projects using Kubernetes: a hands-on guide,중급자,"17,000",39000.0,3.5시간 주문형 동영상,"배울 내용
+Apply the latest DevOps and Kubernetes practices in real-world scenarios
+Gain hands-on experience by doing real labs
+Advance your DevOps career in Kubernetes
+Add more projects to your GitHub portfolio",영어,https://www.udemy.com/course/devops-projects-using-kubernetes-a-hands-on-guide/
+development-tools,Git,Git LFS Training,모든 수준,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Learn how to deal with big files with Git.
+Analyze and convert repositories with big files to small repository using Git LFS.
+Work in a team using Git LFS.
+Explore services that provide Git LFS support.",영어,https://www.udemy.com/course/git-lfs-training/
+development-tools,Alexa Development,Exploring Alexa Voice Services and Alexa Gadgets,전문가,"19,000",59000.0,3시간 주문형 동영상,"배울 내용
+You can build your own Alexa-enabled device , a Smart Mirror , that can talk to you and listen to you.
+You can customize the device and enable it to do chores for you.
+You can build a fun-filled Alexa gadget which can be controlled using voice.
+You can come up with many creative ideas which can solve the practical problems using voice-controlled technology.",영어,https://www.udemy.com/course/exploring-alexa-voice-services-and-alexa-gadgets/
+development-tools,Git,The Beginning with GIT & Github course,모든 수준,"19,000",25000.0,8시간 주문형 동영상,"배울 내용
+Understand how GIT works and use the most common tools to work with local repos
+Learn GITHUB and the tools we get from it
+Learn the Git + Github workflow for your projects or if you are about to work on a company.",영어,https://www.udemy.com/course/the-beginning-with-git-github-course/
+development-tools,Cloud Architecture,Advanced Java Programming: Becoming Cloud Native,모든 수준,"17,000",59000.0,3시간 주문형 동영상,"배울 내용
+Introduction to Cloud Native
+Introducing Cloud Native Architecture
+Cloud Adoption Framework
+Creating your first Cloud Native Application
+Designing Cloud Native Applications
+Extending your Cloud Native Application
+Cloud Native Application Testing
+DevOps and Deployment
+Cloud Native Application Run Time
+As a Service Integration
+API Design Best Practices
+Digital Transformation",영어,https://www.udemy.com/course/advanced-java-programming-becoming-cloud-native/
+development-tools,CI/CD,DevOps CI/CD with Multi-Project and Troubleshooting,초급자,"17,000",23000.0,13시간 주문형 동영상,"배울 내용
+Introduction to DevOps principles and practices
+Git and GitHub for source control management
+Continuous Integration and Continuous Deployment (CI/CD) with Jenkins
+Configuration Management with Ansible
+Containerization with Docker
+Cloud Computing with AWS
+Programming languages: Java, Python, PHP, HTML
+Web servers: Apache and Tomcat",영어,https://www.udemy.com/course/devops-multi-project-and-troubleshooting/
+development-tools,Java,Automating Microsoft Word with Java | Apache POI,중급자,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+How to automate the creation of a Word Document
+How to add paragraphs to a Word Document programmatically
+How to format paragraphs programmatically
+How to add different List Numbering styles to paragraphs programmatically
+How to add Footer to a Word Document programmatically",영어,https://www.udemy.com/course/automating-microsoft-word-with-java-apache-poi/
+development-tools,.NET,Building Background Services in .NET with HangFire,초급자,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Why is it important to do some types of work in the background?
+Adding HangFire to your .NET Application
+Building jobs that run on demand
+Building jobs that run at scheduled times
+Building recurring jobs that run on intervals",영어,https://www.udemy.com/course/building-background-services-in-net-with-hangfire/
+development-tools,JIRA,Jira Team-Managed Projects for Agile Teams,초급자,"19,000",25000.0,3시간 주문형 동영상,"배울 내용
+Benefits of using Jira Team-managed vs Jira Company-managed Project Types
+How to automate your workflow using Jira Software Cloud Team-managed Projects
+How to quickly generate Jira Software Cloud Team-managed Agile reports
+How to build Jira Software Cloud Team-managed Roadmaps
+How to visualize Jira Software Cloud Team-managed dependencies
+Release Readiness: How to create and manage Jira Software Cloud Team-managed releases
+How to Create, Read and Take Action on Jira Team-managed Reports",영어,https://www.udemy.com/course/jira-next-gen-projects-for-agile-teams/
+development-tools,AWS CodePipeline,Creating Intelligent Data-Driven Enterprise Apps with AWS,모든 수준,"17,000",59000.0,3.5시간 주문형 동영상,"배울 내용
+Learn how to use a range of AWS to build a variety of Intelligent Data-Driven applications
+Commit, build, and deploy AWS Deployment services
+Use EC2 Container Service effectively and achieve efficiency
+Databases essentials
+Learn How to Integrate a Database Layer
+RDS and how to use it
+Redshift and how to use it
+Kinesis and how to use it
+Manage applications with Elastic BeanStalk
+Discover AWS AI additions offered by AWS
+Learn about the breadth of AI services available on the AWS Cloud
+더 보기",영어,https://www.udemy.com/course/creating-intelligent-data-driven-enterprise-apps-with-aws/
+development-tools,PyCharm,Learn Python Debugging With PyCharm IDE,모든 수준,"17,000",23000.0,3.5시간 주문형 동영상,"배울 내용
+Learn all the required skills to debug any Python application using PyCharm
+Master the techniques to quickly find out the root cause of the bug in a program
+Gain the exposure the powerful debugging features that PyCharm provides
+Get equipped with the skills to handle real life debugging issues",영어,https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide/
+development-tools,Python,Python for Maya: Beginner to Advanced Rigging Automation,모든 수준,"17,000",23000.0,24.5시간 주문형 동영상,"배울 내용
+Master the creation of high-level, functional Python tools using Python 2 and 3 for Maya to enhance your 3D animation projects
+Unlock Python's power: build robust libraries, streamline code structure and boost code quality & maintainability.
+Harness Python to build a robust testing suite for Maya tools and scripts
+Optimise Python with Maya for clear, well-documented code
+Develop your Python and Maya skills in PyCharm, using Maya's commands in an advanced IDE, enhancing your development efficiency and expanding your toolset
+Acquire industry-ready skills essential for any animation or game development studio",영어,https://www.udemy.com/course/python-for-maya-beginner-to-advanced-rigging-automation/
+development-tools,Azure DevOps,Azure Devops and Internet of Things Essentials,초급자,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+Implementations in Azure IOT Services
+Introductions to Microsoft Power Automate
+Introduction to Virtual Machines
+Introduction to Internet of Things
+Introduction and Implementations with Azure Devops Services",영어,https://www.udemy.com/course/azure-devops-and-internet-of-things-essentials/
+development-tools,AWS DevOps,AWS devops: ElasticSearch at AWS with terraform and ansible,중급자,"17,000",48000.0,3.5시간 주문형 동영상,"배울 내용
+How to deploy HA Elasticsearch cluster using AWS Opensearch
+How to deploy HA Elasticsearch cluster using AWS ECS
+How to deploy HA Elasticsearch cluster using AWS EC2
+Elasticsearch autoscaling
+Elasticsearch cluster conceptions and performance
+AWS IAM, VPC, ECS, Opensearch, security groups
+Docker and Docker swarm",영어,https://www.udemy.com/course/aws-devops-elasticsearch-at-aws-with-terraform-and-ansible/
+development-tools,Alteryx,Alteryx Designer Cloud (Trifacta) - 2022,초급자,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+Fully updated for 2022
+How to develop Alteryx Designer Cloud Data engineering Flows
+How to create ETL processes with Alteryx Designer Cloud
+How to use AI/ML features in Alteryx Designer Cloud
+How to schedule Flows and build execution plans
+How to quickly assess Data Quality
+How to Profile your data
+How to use Alteryx Designer Cloud in your Professional Day Job",영어,https://www.udemy.com/course/alteryxdesignercloud/
+development-tools,Git,Git Intuition - Beginning Source Control Management,모든 수준,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+Students will learn what source control management is, and why it is used.
+Students will learn arguably the most popular source control system--'git' on the terminal
+Students will learn the most common features of git to be productive for their first internship, hobby project, startup, or regular work.
+Students will learn about the internals of how git works (not typically talked about in tutorials)
+Students will get hands on experience, and learn how to become an advanced git user by understanding and developing a workflow with git.",영어,https://www.udemy.com/course/git-intuition/
+development-tools,Python,Efficient Application Development with Python3 for Beginners,초급자,"19,000",25000.0,9시간 주문형 동영상,"배울 내용
+Implement the List and Dictionary data types to take text as input and produce a word count
+Work with Python Modules to create your first web-scraping app in Python
+Handle files using your Python code to build your own Python-based text editor
+Programming in Python using a modular approach
+Developing apps using object-oriented Python programming
+Build powerful Graphical User Interfaces (GUIs)
+Speed up your code with natively Python idioms",영어,https://www.udemy.com/course/efficient-application-development-with-python3-for-beginners/
+development-tools,Docker,Dockers using Linux (Virtual Machine) : Oracle Cloud (OCI),초급자,"19,000",25000.0,5시간 주문형 동영상,"배울 내용
+Oracle Linux Virtual Machine creation though Oracle Cloud infrastructure
+Docker Install and Concepts
+Docker File approach
+Multiple Container approach in Dockers - Docker Compose
+Multiple Node apparoach in Docker - Docker Swarm
+Docker compose Vs Docker Stack Vs Kubernetes",영어,https://www.udemy.com/course/dockers-using-linux-virtual-machine-oracle-cloud-oci/
+development-tools,Spring Boot,CRUD app using Spring Boot + JPA + PostgreSQL + Thymeleaf,초급자,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Develop a REAL-TIME CRUD application with Spring Boot, JPA, Thymeleaf, and PostgreSQL from SCRATCH
+Students have landed jobs with the skills from this course. Spring boot developers are in high demand.
+You can type the code along with me while watching the videos. I explain every bit of code to help you learn.
+I am a responsive instructor. You can post your questions and I will respond in 24 hours.",영어,https://www.udemy.com/course/crud-app-using-spring-boot-jpa-postgresql-thymeleaf/
+development-tools,Mulesoft,Create Custom Connectors using Mule,초급자,"17,000",23000.0,7시간 주문형 동영상,"배울 내용
+Learn to create Mule Custom Connectors
+Learn to use Mule Java SDK to create custom connectors
+Connect to systems of your choice
+Expand your knowledge and Increase Expertise",영어,https://www.udemy.com/course/mule-custom-connectors/
+development-tools,Programming Fundamentals,Data Representation and Serialization,초급자,"19,000",25000.0,11시간 주문형 동영상,"배울 내용
+Understand and use CSV as a means to store data.
+Use Python to read and write CSV data.
+Understand and use JSON as a means to store data.
+Use Python to read and write JSON data.
+Understand and use YAML as a means to store data.
+Use Python to read and write YAML data.
+Understand and use XML/HTML to store and represent data.
+Use Python to read, write, and manipulate XML/HTML data.",영어,https://www.udemy.com/course/data-representation-and-serialization/
+development-tools,Python,Python Packaging: Create and Publish Your Own Modules,모든 수준,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Understand the fundamentals of Python packaging and its importance in software development.
+Set up a Python development environment with the necessary tools and dependencies.
+Create Python modules and packages, following best practices and proper structure.
+Manage dependencies and requirements in Python projects effectively.
+Build and distribute Python packages for easy installation and usage by others.
+Publish Python packages to PyPI (Python Package Index) for wider distribution and accessibility.
+Include non-code files and data in Python packages for complete functionality.
+Implement versioning and upgrading strategies for packages, ensuring compatibility and manageability.
+더 보기",영어,https://www.udemy.com/course/python-packaging-create-and-publish-your-own-modules/
+development-tools,ChatGPT,2023 Ultimate Guide to Mastering ChatGPT For Beginners,모든 수준,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+Discover the power of ChatGPT and unlock the full potential of this cutting-edge AI technology
+Learn how to set up and configure ChatGPT, making it easy to integrate into your daily workflow
+Find out how to make money using ChatGPT and turn your passion into profit
+Revolutionize your programming and code generation process with ChatGPT's AI coding capabilities
+Boost your career prospects by learning how to use ChatGPT to land a new job and negotiate a higher salary
+Create high-quality, engaging content for your business by learning how to use ChatGPT for text generation and creative writing
+Drive sales and revenue for your business by learning how to use ChatGPT for content creation and marketing
+Improve customer satisfaction by learning how to use ChatGPT for customer service and chatbots
+더 보기",영어,https://www.udemy.com/course/ultimate-guide-to-mastering-gpt-make-money-create-content/
+development-tools,Git,Git Interview Questions and Answers [July 2023] | Quiz | MCQ,모든 수준,"17,000",23000.0,,,영어,https://www.udemy.com/course/git-interview-questions-and-answers-mcqs-practice-tests/
+development-tools,CI/CD,Modern CI/CD with GitLab: Productivity and Workflow Boost,모든 수준,"17,000",23000.0,4시간 주문형 동영상,"배울 내용
+Learn Concurrent DevOps and Gitlab
+Learn Gitlab Workflow and CI/CD
+Learn how Gitlab CI/CD works
+Commit and push your code to Gitlab
+Work with Gitlab Web IDE
+Implement CI/CD pipelines with .gitlab-ci yml file
+Work with Projects, Groups and Subgroups
+Manage user access to Projects and Groups
+Manage software development lifecycle with Issue Tracking and Milestones
+Create branches, Merge Requests and Conduct Code Reviews
+Use Wiki for documentation and Code Snippets for storing snippets of code
+Work with Package and Container Registry
+더 보기",영어,https://www.udemy.com/course/modern-cicd-pipelines-with-gitlab-productivity-and-workflow-boost/
+development-tools,Scrum,Getting Started with Scrum,초급자,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+Preparing for Scrum, which includes steps you need to take for selecting Product Owner, Project Details, Scrum Master, and Development Team.
+Starting the First Sprint, which includes steps to create Sprint Board, Product Backlog, Prioritising backlog items, and planning the first Sprint.
+Planning the Sprint, which includes steps to hold Sprint Planning meeting, estimating the backlog items, implementing them, and holding Daily Sprints.
+Reviewing the Sprint, which includes steps to hold Sprint Review meeting and Sprint Retrospective meeting.
+Downloadable 14-page Scrum Quick Guide PDF that helps you as a pocket reference that summarises all points covered in this course.
+Downloadable 9-page Scrum Worksheet that helps you to immediately start using Scrum in your project.",영어,https://www.udemy.com/course/scrum-guide/
+development-tools,Articulate Storyline,Articulate Storyline 360 : How to ....,중급자,"19,000",25000.0,3.5시간 주문형 동영상,"배울 내용
+Students will learn real world aspects of creating interactive eLearning through practical examples.",영어,https://www.udemy.com/course/articulate-storyline-360-how-to/
+development-tools,Photoshop,"Advanced Photoshop: Tips, Tricks, and Techniques",중급자,"19,000",25000.0,3.5시간 주문형 동영상,"배울 내용
+Discover the best and newest selection and masking techniques
+Create professional layers and use them proactively
+Learn the best methods for removing objects from any image
+Discover how to change the size of your images without distortion
+Master the newest retouching techniques
+Master advanced levels and curve tricks, specifically with skin, and adjust and enhance colors
+Learn about professional techniques, reusable mockups, and shortcuts",영어,https://www.udemy.com/course/advanced-photoshop-tips-tricks-and-techniques/
+development-tools,Apache Maven,Mastering APACHE MAVEN- Java Build Tool - The MAVEN MOVIE !!,모든 수준,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+Learn Maven from scratch. This course assumes no prior experience in any build automation tool.
+Learn how to code professionally by following coding standards.
+Acquire build management concepts by learning Maven in Detail.
+Learn by animated videos and illustrations. Retain maximum concepts by watching video once.
+Maven
+Build Automation Tool
+Build life cycle
+Dependency Management
+Project Object Model (POM)
+Maven project creation and deployement
+Maven archetype generation
+Deep understanding of Build Automation
+더 보기",영어,https://www.udemy.com/course/maven-virtual-classroom/
+development-tools,Azure Functions,Azure Functions: How to Easily Build Apps in Cloud [2023],모든 수준,"17,000",23000.0,3.5시간 주문형 동영상,"배울 내용
+How to build your first Azure Function
+How to send emails with Azure Functions
+How to work in production with Azure Functions
+How to build advanced Azure Functions
+How to deploy Azure Functions",영어,https://www.udemy.com/course/azure-functions/
+development-tools,App Development,GeneXus 17 Fundamentals Course - Learn GeneXus from scratch,초급자,"19,000",25000.0,8.5시간 주문형 동영상,"배울 내용
+The basics to create Web or Mobile applications in record time, starting with minimal database and programming knowledge.
+Through the development of a web application, you will learn the basic knowledge needed to quickly build any type of application, now or in the future.
+You will understand the differences between backend and frontend.
+How to model the entities of reality.
+How to perform interactive and code-based CRUD operations.
+How to use Interaction Patterns.",영어,https://www.udemy.com/course/genexus-core-course/
+development-tools,Git,"Git GUI, Git Bash and Jenkins",모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Understand the Concepts of Version Control.
+Learn the Git operation and able to use commandline as well as GUI tool.
+How to create Repository in GitHub.
+How to integrate Git client with GitHub.
+Understand the communication between Local to Remote repository in detail.
+Installing and configuring the Jenkins.
+Integrating Git and Build Environment with Jenkins.
+Creating a simple Java project and enable this as a Git project.
+How the build xml file is used in the Invoke Ant call.
+Knowledge about Jenkins workspace and how the build xml file reads source code from this workspace.",영어,https://www.udemy.com/course/git-gui-bash-and-jenkins/
+development-tools,DevOps,Rudder - Mastering the DevOps,초급자,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Rudder
+DevOps
+CI
+CD",영어,https://www.udemy.com/course/rudder-mastering-the-devops/
+development-tools,ChatGPT,ChatGPT Mastery: Unleashing AI in Your Work,모든 수준,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+Comprehend the Power of ChatGPT: Students will gain a solid understanding of what ChatGPT is, its background, and the transformative technology that drives it,
+Master the Art of AI-Assisted Writing: By leveraging ChatGPT, learners will enhance their technical writing skills. They will learn how to generate, edit, and p
+Create Engaging Presentations with AI: Students will learn how to utilize ChatGPT to craft engaging presentation outlines, slide content, and speaker notes. The
+Utilize AI for Research Activities: Learners will acquire the ability to utilize ChatGPT for research-related tasks. This includes obtaining answers to technica
+Hands-On Experience with ChatGPT: This course provides students with the unique opportunity to interact directly with ChatGPT through various hands-on activitie
+Understand the Ethics of AI Usage: Students will engage in thought-provoking discussions about the ethical implications of using AI tools like ChatGPT. They wil",영어,https://www.udemy.com/course/chatgpt-course-openaicertificate/
+development-tools,RPA Robotic Process Automation,UiPath RPA - Complete Web Scraping Bootcamp with 6 projects,모든 수준,"17,000",23000.0,6.5시간 주문형 동영상,"배울 내용
+Students already familiar with UiPath will learn how to work efficiently with web interfaces
+New RPA developers will become more comfortable creating automations on the user interface level
+Developers will master UiPath automation activities targeting web/browser based User Interfaces
+Students will learn new techniques required for RPA development but not required for other programming platforms",영어,https://www.udemy.com/course/rpa-complete-uipath-web-scraping-bootcamp-with-6-projects/
+development-tools,Git,Learn Git and GitHub - FastTrack Your Journey to Git!,모든 수준,"17,000",23000.0,10시간 주문형 동영상,"배울 내용
+Master Git and GitHub for your new Job role
+Kick start your DevOps Journey with Git
+Understand how to manage team projects on GitHub
+Learn how to contribute to Open Source Projects & increase your profile credibility
+Learn the best practices & avoid typical mistakes
+Actively involve team
+Confidently answer tricky interview questions related to Git and GitHub
+Learn end-to-end Git and GitHub",영어,https://www.udemy.com/course/learn-github-tutorial-course/
+development-tools,Siemens NX,NX Open Programming - Block UI Styler,초급자,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+Introduction to NX Open
+Using Block UI Styler
+Block Styler Examples
+Block Styler Assignment",영어,https://www.udemy.com/course/nx-open-programming-block-ui-styler/
+development-tools,Git,Mastering Git & GitLab:From Version Control to Collaboration,모든 수준,"17,000",23000.0,37분 주문형 동영상,"배울 내용
+Gain fundamental knowledge and basic concepts for working with Git (repository, branches, commits, common commands, etc.)
+Get basic Git skills, including installation, files creation, commits and other
+Learn with practical examples the key features of the Git
+Understand Gitlab basics
+Learn how to collaborate in projects via Git & GitLab in teams
+Understand how to deploy a project through GitLab CI/CD",영어,https://www.udemy.com/course/mastering-git-and-gitlab-from-version-control-to-collaboration/
+development-tools,Debugging,Java Debugging With Visual Studio Code: The Ultimate Guide,중급자,"17,000",23000.0,5시간 주문형 동영상,"배울 내용
+Basic and advanced setup and configuration is VS Code to run and debug Java applications
+Learn all the required skills to debug any Java application using VS Code (Visual Studio Code)
+Master the techniques to quickly find out the root cause of the bug in a Java program
+Time-saving tips on how to efficiently debug and troubleshoot java programs with VS Code (Visual Studio Code)",영어,https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide/
+development-tools,Kubernetes,Test your knowledge: Kubernetes (Set of 4),중급자,"19,000",25000.0,,,영어,https://www.udemy.com/course/test-your-knowledge-kubernetes-set-of-4-p/
+development-tools,AngularJS,Angular: Fundamentals,모든 수준,"19,000",25000.0,5.5시간 주문형 동영상,"배울 내용
+Learn the basics of Angular framework
+Understand the reasons to use Angular framework
+Reduce the amount of code required to add rich functionality to web pages
+Use Angular architecture to implement clean, responsive web interfaces
+Learn best practices for using Angular
+Use Angular with HTTP to support JSON, REST, and other services
+Facilitate testing and running Angular applications using various tools and techniques",영어,https://www.udemy.com/course/angular-fundamentals/
+development-tools,Agile,Learn to Facilitate a Perfect Agile Scrum Daily Stand Up,모든 수준,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Learn Daily Stand Up Basics
+Learn Practical Aspects of a Daily Stand Up
+Learn Common Anti-patterns for a Daily Stand Up and How to Address Them
+Learn Different Facilitation Techniques for a Daily Stand Up
+Learn Appropriate Conduct for and Expectations from a Daily Stand Up",영어,https://www.udemy.com/course/master-the-daily-stand-up/
+development-tools,Git,Git/Github Essentials: Everything You Need To Get Started,초급자,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Understand the role Git/GitHub plays in workflows that involve collaboration and version control.
+Understanding of the Git/Github Framework
+Learn how to create and contribute to a GitHub Repository
+Learn how to interact with a GitHub Repository in a way that enables collaboration with others",영어,https://www.udemy.com/course/umacodes-git-essentials/
+development-tools,DevOps,Container DevOps: Building Containers in the DevOps Process,모든 수준,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Best practices for using containers effectively
+Learn what containers are, where and when you can use containers
+How to use Docker Swarm, Kubernetes, Mesos, and cloud container solutions to manage your containers effectively
+How to deploy containers in a DevOps environment
+How to manage containers
+How you can benefit from containers",영어,https://www.udemy.com/course/learn-containers/
+development-tools,Docker,Learning Docker: Important Basics,초급자,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+What are containers and what are they for
+What is Docker and how it came to be
+What is the architecture of Docker
+Concept of Dockerfile x Image x Container
+Getting to Know Docker Hub
+Manage images and containers on your machine
+Work with volumes locally
+Getting to Know the Docker Bridge Network
+Create your own Docker images
+Tshoot in containers and when creating images
+Learn about Docker Compose
+What are the main container orchestration tools on the market",영어,https://www.udemy.com/course/learning-docker-important-basics/
+development-tools,Git,Software Version Management with Git and GitHub,모든 수준,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+Understand the Version Control System
+Learn what is Git, Git installation, and Git workflow
+Learn how to create remote repository
+Understand how GitHub works and how to add existing projects to GitHub
+Learn how to manage Git branches",영어,https://www.udemy.com/course/git-and-github-devops/
+development-tools,Apache Spark,Learn Apache Spark and Scala from Scratch,중급자,"17,000",23000.0,9.5시간 주문형 동영상,"배울 내용
+OOPS and Functional Programming in Scala
+Apache Spark Framework
+Advanced Spark Programming
+Integrating Spark with Kafka
+Spark MLib - Machine Learning
+Spark Streaming, SparkSQL, Spark GraphX etc.",영어,https://www.udemy.com/course/learn-apache-spark-and-scala-from-scratch/
+development-tools,Git,Git & Github For All - Mastering Github 2023,모든 수준,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+Learn the key concepts of Git & Github
+Learn about Git workflow
+Create & Manage local repositories as well as on Github
+Learn about Branches, Merge, Push & Pull
+Learn about Github Markup Language to create interactive documents & README file
+Learn how to create interactive github profile
+Learn about CI/CD by using Github Actions
+Implement CI/CD by using Github Actions with AWS S3
+Use Git & Github via VSCode GUI",영어,https://www.udemy.com/course/mastering-git-github-a-beginners-to-advance-level-guide/
+development-tools,ETL,Ab initio Development training with Real time scenrios,중급자,"219,000",,20시간 주문형 동영상,"배울 내용
+GDE development
+Discussion of Conduct-it
+Discussion of Continous flows
+Real time scenario's with task assesments",영어,https://www.udemy.com/course/ab-initio-development-training-with-real-time-scenrios/
+development-tools,Open API Specification,Learn OpenAPI Specification with VS Code,중급자,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Learn the basics of API reference documentation
+Estimate what you need before you start documenting API reference using OpenAPI specification
+Learn how to setup Visual Studio Code with proper extension for OpenAPI specification
+Watch a demonstration of a simple API reference documentation based on OpenAPI specification",영어,https://www.udemy.com/course/learn-openapi-specification-with-vs-code/
+development-tools,Git,Git Masterclass - From scratch to master,모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Introduction to VCS (Version Control System)
+CVCS vs DVCS
+Git & GitHub
+Creating local and Central repositories.
+Making changes and pushing to GitHub.
+Branching & Merging
+Solving merge conflicts
+Tagging
+Collaboration in GitHub
+Git Workflow",영어,https://www.udemy.com/course/git-masterclass-from-scratch-to-master/
+development-tools,Chrome Developer Tools,Learning Google Chrome From Scratch,초급자,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+google chrome
+web browser
+chrome browser
+web surfing",영어,https://www.udemy.com/course/learning-google-chrome-from-scratch/
+development-tools,Git,Git: Become an Expert in Git & GitHub in 4 Hours,모든 수준,무료,,,,영어,https://www.udemy.com/course/git-expert-4-hours/
+development-tools,Git,Learn Git: Everything You Need To Know,초급자,무료,,,,영어,https://www.udemy.com/course/learngit/
+development-tools,Git,The Ultimate GIT 5-day Challenge,초급자,무료,,,,영어,https://www.udemy.com/course/the-ultimate-git-5-day-challenge/
+development-tools,Robot Operating System (ROS),ROS Basics: Program Robots!,초급자,무료,,,,영어,https://www.udemy.com/course/ros-basics-program-robots/
+development-tools,SAP PO,"Learn SAP PO REST, JSON and API Basics",초급자,무료,,,,영어,https://www.udemy.com/course/free-course-on-sap-po-rest-json-and-api-basics/
+development-tools,IntelliJ,Up and Running with IntelliJ IDEA,모든 수준,무료,,,,영어,https://www.udemy.com/course/intellij-idea-ide/
+development-tools,WordPress,Load Wordpress 400% Faster without any Technical skills,모든 수준,무료,,,,영어,https://www.udemy.com/course/how-to-improve-website-speed-test/
+development-tools,Instructional Design,Captivate In Action: Creating a Tabs Interaction,초급자,무료,,,,영어,https://www.udemy.com/course/captivate-in-action-creating-a-tabs-interaction/
+development-tools,Salesforce DX,Getting Started with the Salesforce® DX CLI (SFDX),중급자,무료,,,,영어,https://www.udemy.com/course/learn-sfdx/
+development-tools,SAP PO,SAP PO: Learn to Configure Java and SAP NWDS Software,초급자,무료,,,,영어,https://www.udemy.com/course/sap-po-learn-to-configure-java-and-sap-nwds-software/
+development-tools,Git,Real-World Example: Git and GitHub on Windows - Basics,초급자,무료,,,,영어,https://www.udemy.com/course/git-and-github-on-windows-basics/
+development-tools,Kubernetes,Kube By Example - Spring Boot Microservices on Kubernetes,모든 수준,무료,,,,영어,https://www.udemy.com/course/kube-by-example-spring-boot-microservices-on-kubernetes/
+development-tools,Docker,Kube By Example - Building Spring Boot Docker Images,모든 수준,무료,,,,영어,https://www.udemy.com/course/kube-by-example-building-spring-boot-docker-images/
+development-tools,Fire Safety,Perform Basic Fire Fighting,초급자,무료,,,,영어,https://www.udemy.com/course/perform-basic-fire-fighting/
+development-tools,IT Networking Fundamentals,Easy CLI Live server setup for node localhost,초급자,무료,,,,영어,https://www.udemy.com/course/localhost/
+development-tools,Git,Crash Course on Git & GitHub for Personal Projects,초급자,무료,,,,영어,https://www.udemy.com/course/crash-course-on-git-github-distributed-version-control/
+development-tools,Developer Tools,Kube By Example - Spring Boot on Kubernetes,모든 수준,무료,,,,영어,https://www.udemy.com/course/kube-by-example-spring-boot-on-kubernetes/
+development-tools,Docker,"Getting Started with Java, Maven, Spring Boot, and Docker",초급자,무료,,,,영어,https://www.udemy.com/course/java-maven-spring-boot-docker-starter-course/
+development-tools,Google Cloud Functions,GCP Serverless Functions,초급자,무료,,,,영어,https://www.udemy.com/course/gcp-serverless-functions/
+development-tools,Salesforce,Salesforce Flows Basics (Record Triggered - AFTER FLOW),초급자,무료,,,,영어,https://www.udemy.com/course/salesforce-flows-basics-by-sfdc-khan-2/
+development-tools,D3.js,How To Make A Pie Chart With D3.js,초급자,무료,,,,영어,https://www.udemy.com/course/how-to-make-a-pie-chart-with-d3js/
+development-tools,Salesforce Administration,Salesforce Flows Basic (SCREEN FLOW) - Part 1,초급자,무료,,,,영어,https://www.udemy.com/course/salesforce-screen-flow-part-1/
+development-tools,UiPath,Automating SAP Operation with UiPath StudioX,모든 수준,무료,,,,영어,https://www.udemy.com/course/rpa-automating-sap-with-uipath-studiox/
+development-tools,Kubernetes,Continuous Delivery with Kubernetes and Octopus Deploy,중급자,무료,,,,영어,https://www.udemy.com/course/continuous-delivery-with-kubernetes-and-octopus-deploy/
+development-tools,Git,Git Crash Course: Version Control For Software Developers,초급자,무료,,,,영어,https://www.udemy.com/course/git-and-github-crash-course-version-control-for-software-developers/
+development-tools,Data Science,R and Python coding with Prython,초급자,무료,,,,영어,https://www.udemy.com/course/r-and-python-coding-with-prython/
+development-tools,Entrepreneurship Fundamentals,No-Code Discovery,초급자,무료,,,,영어,https://www.udemy.com/course/no-code-discovery/
+development-tools,ChatGPT,ChatGPT for .NET developers,모든 수준,무료,,,,영어,https://www.udemy.com/course/chatgpt-for-dotnet-developers/
+development-tools,App Development,Create your first application with a Low-Code tool v18,초급자,무료,,,,영어,https://www.udemy.com/course/first-steps-with-genexus-18/
+development-tools,Linux,Quickstart Software Development with DevTerm,초급자,무료,,,,영어,https://www.udemy.com/course/software-development-with-devterm/
+development-tools,Software Practices,Developing PDF Solutions with ByteScout,모든 수준,무료,,,,영어,https://www.udemy.com/course/developing-pdf-solutions-with-bytescout/

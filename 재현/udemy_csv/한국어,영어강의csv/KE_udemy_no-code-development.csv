@@ -1,0 +1,834 @@
+﻿대분류,소분류,강의명,난이도,가격(현재가격),가격(원래가격),총소요시간,강의소개,언어,출처
+no-code-development,Artificial Intelligence,【한글자막】 No Code! 코딩없이 인공지능 구현하기,초급자,"17,000",79000.0,9.5시간 주문형 동영상,"배울 내용
+Google Teachable Machine을 사용하여 사람의 감정을 감지하는 AI 모델 구축, 교육 및 배포
+학습률, 에포크, 뱃치 크기, 정확도 및 손실의 차이를 설명
+AWS AI AutoPilot을 사용하여 연령, 흡연 습관 및 지리적 위치와 같은 고객 특성을 이용하여 보험료 예측
+DataRobot AI를 사용하여 심혈관 질환을 감지하는 고급 AI 구축, 훈련 및 배포
+DataRobot AI를 사용하여 AI의 힘을 활용하여 식품 유형 인식
+Google Teachable Machines를 사용하여 X-Ray 흉부 데이터를 사용하여 흉부 질환을 감지하고 분류하는 AI 모델 개발
+혼동 행렬, 분류 정확도, 오류율 등 다양한 KPI를 사용하여 훈련된 AI 모델 평가
+전이 학습의 다양한 장점을 나열하고 훈련 프로세스의 속도를 높이기 위해 언제 테크닉을 적절하게 적용할 지 결정
+더 보기",한국어,https://www.udemy.com/course/no-code-ai/
+no-code-development,Artificial Intelligence,【한글자막】 10일 완성 코스 - 코딩 없는 인공 지능 부트캠프,모든 수준,"17,000",79000.0,12.5시간 주문형 동영상,"배울 내용
+코드 작성 없이 10일 안에 10개의 AL/ML 모델을 구현, 학습, 테스트 및 배포할 수 있습니다.
+구글 티처블 머신을 이용하여 패션 아이템을 분류하는 AI 모델을 구현, 학습, 테스트 및 배포할 수 있습니다.
+학습률, 에포크, 배치 사이즈, 정확도, 손실 간의 차이를 설명할 수 있습니다.
+데이터로봇 AI를 이용하여 당뇨망막병증을 감지하는 첨단 AI를 구현, 학습 및 배포할 수 있습니다.
+데이터로봇 AI를 이용하여 AI로 회귀 태스크를 해결하고 중고차 가격을 예측할 수 있습니다.
+오차 행렬, 분류 정확도, 오류율 등 다양한 KPI(핵심성과지표)를 이용하여 학습된 AI 모델을 평가할 수 있습니다.
+여러 산업에서 널리 활용되는 최첨단 심층 CNN, 잔차 신경망(ResNet)의 이론과 직관을 이해할 수 있습니다.
+위양성률과 진양성률에 대한 분류기 임계값의 영향을 이해할 수 있습니다.
+더 보기",한국어,https://www.udemy.com/course/best-10-ai/
+no-code-development,Machine Learning,【한글자막】 No 코드 머신 러닝 : Modern ML 도구에 대한 실용적인 가이드,모든 수준,"17,000",69000.0,6.5시간 주문형 동영상,"배울 내용
+수학에 주눅들지 않고, 코드 한 줄 쓰지 않고 머신 러닝 주요 개념 완성!
+마이크로소프트 Azure로 소득 및 대출 기간과 같은 고객 특성을 사용하여 대출 채무불이행을 예측할 수 있는 머신 러닝 모델을 구축, 학습 및 배포
+구글 Vertex AI로 큰 틀에서 머신 러닝 모델을 만들고 학습시키는 과정을 자동화하는 방법 완성
+특성 중요도를 탐색하여 학습된 머신 러닝 모델 이해
+DataRobot AI를 사용하여 여러 실험을 만들고 하이퍼 파라미터 최적화를 수행하는 방법
+DataRobot AI를 사용하여 여러 최첨단 머신 러닝 모델을 학습시키고 최상의 모델을 배포하는 방법",한국어,https://www.udemy.com/course/best-nocode-modern-ml/
+no-code-development,Bubble Visual Programming,노코드 버블로 나만의 강의사이트 제작하기 bubble io tutorial in Korean,초급자,"17,000",23000.0,7시간 주문형 동영상,"배울 내용
+데이터 베이스를 학습합니다
+페이지 생성과 구성에 대해 학습합니다
+강의사이트 제작에 필요한 노코드 툴에 대한 기초지식을 학습합니다
+강의사이트 제작을 직접 제작하고 관리합니다",한국어,https://www.udemy.com/course/bubble-io-tutorial-in-korean/
+no-code-development,WordPress,WordPress 2023: The Complete WordPress Website Course,모든 수준,"17,000",88000.0,27시간 주문형 동영상,"배울 내용
+Be able to start your own WordPress web design business
+Project 1: Personal/resume Website with WordPress
+Project 2: Business Corporate Websites with WordPress
+Project 3: Professional Blog with WordPress
+Project 4: eCommerce website with WordPress and PayPal for accepting payments
+Project 5: A real estate website with WordPress custom post types
+Be able to work with WordPress APIs to accept credit Card payments
+Be able to build your own Template
+Be able to create any custom post type website i.e. movie review site, property selling site, affiliate coupons site, etc.
+Be able to design a template for your custom post type",영어,https://www.udemy.com/course/complete-wp-course/
+no-code-development,Microsoft Power Platform,"Build Solutions with Power Apps, Power Automate & SharePoint",모든 수준,"17,000",69000.0,22시간 주문형 동영상,"배울 내용
+Create enterprise grade applications and solutions using the Power Platform
+Learn and master Power Apps, Power Automate, and SharePoint
+Learn how to transfer data and interact between Power Apps, Power Automate, and SharePoint
+Connect Power Platform to third party applications and services using connectors, HTTP requests, and APIs
+Create user interface integrations, such as chatbots or phone applications
+Become a Power Platform champion
+Learn how to use the solution formula to create any solution and application
+Create a complete end-to-end Uber-like application
+Take Dynamics 365 to the next level
+Get the PL-900 certification",영어,https://www.udemy.com/course/build-solutions-with-power-platform/
+no-code-development,Elementor,Learn Elementor - WordPress Front-End Development Course,모든 수준,"25,000",88000.0,7시간 주문형 동영상,"배울 내용
+Why learning Elementor is a great option if you want a page builder and/or theme creator.
+The differences between the free & Pro versions of Elementor.
+Where to get inspiration for your website design, colour & fonts.
+What the box model is, and why it's so important as you design your site.
+How to use Elementor as a page builder.
+How to create a use (and re-use) templates.
+How to use Elementor Pro to create your own theme.
+How to use motion effects in your design.
+How to ensure your site looks great on desktop, tablet and mobile phone.
+How to use custom fields and custom post types for better website design and easier maintenance.",영어,https://www.udemy.com/course/wordpress-front-end-development-elementor/
+no-code-development,Artificial Intelligence,Modern Artificial Intelligence with Zero Coding,초급자,"17,000",69000.0,9.5시간 주문형 동영상,"배울 내용
+Build, train and deploy AI models to detect people emotions using Google Teachable Machine
+Explain the difference between learning rate, epochs, batch size, accuracy and loss.
+Predict Insurance Premium using Customer Features such as age, smoking habit and geo-location using AWS AI AutoPilot
+Build, train and deploy advanced AI to detect cardiovascular disease using DataRobot AI
+Leverage the power of AI to recognize food types using DataRobot AI
+Develop an AI model to detect and classify chest disease using X-Ray chest data using Google Teachable Machines
+Evaluate trained AI models using various KPIs such as confusion matrix, classification accuracy, and error rate
+List the various advantages of transfer learning and know when to properly apply the technique to speed up training process
+더 보기",영어,https://www.udemy.com/course/modern-artificial-intelligence-with-zero-coding/
+no-code-development,Elementor,Elementor Mastery - Build Amazing Websites With Elementor,모든 수준,"17,000",59000.0,9.5시간 주문형 동영상,"배울 내용
+Build fantastic looking web pages without using any code
+Master the art of using the Elementor page builder plugin",영어,https://www.udemy.com/course/elementor-101-build-amazing-wordpress-pages-with-no-coding/
+no-code-development,Bubble Visual Programming,The Complete Guide to Bubble Visual Programming,모든 수준,"17,000",59000.0,16시간 주문형 동영상,"배울 내용
+Bubble Visual Programming ecosystem to create websites and web applications using a No-Code platform
+Build functional and professional grade web applications, websites, and apps
+All elements of Bubble, including responsive design, databases, workflows, users, and much more
+Build a fully functional project and task management web application with a complete walkthrough
+Build a thin version of AirBnB, complete with Google Maps integration and user-to-user messaging
+Responsive web design that adapts to the user's screen and looks beautiful
+Database management system that easily stores, organizes, and shows all your data
+Workflow management system that allows complex interaction between the front-end and back-end, similar to what many other web applications like Twitter and Yelp do
+How to go from having an idea to building a fully functional MVP, with many examples in between
+Interacting with the Bubble community to continue learning and building your skillset",영어,https://www.udemy.com/course/the-complete-guide-to-bubble-from-beginner-to-advanced/
+no-code-development,Airtable,Airtable - The Complete Guide to Airtable - Master Airtable,모든 수준,"17,000",59000.0,7.5시간 주문형 동영상,"배울 내용
+Become an expert at using Airtable to manage your project's data, views, and workflows
+Create an Airtable database, with rich field logic inputs, table linkages, and custom layouts
+Define and create views based on several different types, like grids, calendar, Kanban, timeline, and many more
+Build sophisticated analysis using custom filters, sorts, and groups
+Add customizable forms that allow users to add and update records
+Create robust visualizations (charts, graphs, analytics) that sit on top of your data
+Perform analysis and build insights on your data with Airtable's extensible app library
+Build and automate workflows using your data, including sending emails, updating records, making tweets, and creating alerts
+더 보기",영어,https://www.udemy.com/course/airtable-the-complete-guide-to-airtable/
+no-code-development,Web Development,The Bubble Beginners Bootcamp Course,초급자,"17,000",59000.0,11.5시간 주문형 동영상,"배울 내용
+Building a dashboard style application
+Mastering the Bubble editor
+Setting up the database
+Running workflows
+Responsive design
+UX design
+and much more...",영어,https://www.udemy.com/course/the-bubble-beginners-bootcamp-course/
+no-code-development,Bubble Visual Programming,Complete Bubble Developer Course: Build Apps Without Coding,모든 수준,"17,000",59000.0,10시간 주문형 동영상,"배울 내용
+Build fully functional web and mobile apps without coding completely on your own.
+Create beautiful user interfaces with an amazing user experience.
+Deploy your app to the world and launch your startup.
+Design elegant workflows, databases, APIs and a whole lot more.",영어,https://www.udemy.com/course/build-fully-functional-apps-without-coding-using-bubble/
+no-code-development,Salesforce Development,Salesforce Flows: Get Started with Lightning Flow Builder,모든 수준,"19,000",25000.0,5시간 주문형 동영상,"배울 내용
+Salesforce Lightning Flow builder
+Salesforce flow builder resources
+Salesforce Flow builder elements
+Salesforce Visual workflow
+Invoking flows from Salesforce Objects
+Working with salesforce screen flows
+Invoking salesforce flows from process builder
+Invoking Salesforce flows from custom button
+Creating salesforce autolaunched flows
+Scheduling salesforce Flows
+Using loops, decisions, assignments, get, create, and update elements in salesforce flow builder",영어,https://www.udemy.com/course/salesforce-lightning-flow-builder/
+no-code-development,Machine Learning,No-Code Machine Learning: Practical Guide to Modern ML Tools,모든 수준,"20,000",26000.0,6.5시간 주문형 동영상,"배울 내용
+Master Machine Learning fundamentals without any intimidating mathematics and without writing a single line of code!
+Build, Train and Deploy machine learning models that could predict loan default using customer features such as income and loan term using Microsoft Azure.
+Master Google Vertex AI to automate the process of building and training machine learning models at scale.
+Understand trained machine learning models by exploring feature importance.
+Learn how to create multiple experiments using DataRobot AI and perform hyperparameter optimization.
+Learn how to train multiple cutting-edge machine learning models using DataRobot AI and deploy the best model.",영어,https://www.udemy.com/course/no-code-machine-learning/
+no-code-development,Wix,Master Wix - Create a Wix Website in 1 hour,초급자,"19,000",25000.0,1시간 주문형 동영상,"배울 내용
+Create Responsive Wix Websites
+Master Wix Website Builder
+Learn Wix Website Customization
+Start Wix Freelancing Career",영어,https://www.udemy.com/course/master-wix-create-a-wix-website-in-1-hour/
+no-code-development,WordPress for Ecommerce,How to Make an eCommerce Website with WordPress For Beginner,초급자,"19,000",25000.0,4시간 주문형 동영상,"배울 내용
+What is wordpress
+What is domain & hosting
+From Where You can Purchase domain and hosting
+How to install wordpress in you hosting
+How to login and logout from wordpress website
+How to change the title and tagline of the wordpress website
+How to change the password, admin panel theme and permalink of your website
+How to install themes and plugins
+How to import premade Astra Demo (starter templates plugin)
+How to Configure Woocommerce Settings
+How to create a Simple Products
+How to add product categoreis and tags.
+더 보기",영어,https://www.udemy.com/course/how-to-make-an-ecommerce-website-with-wordpress-elementor-for-beginner/
+no-code-development,Wix,Complete Guide to Velo by Wix: Go From Zero to Hero!,초급자,"17,000",59000.0,14시간 주문형 동영상,"배울 내용
+Learn Velo Code for Wix while building a fully functional 'jobs listing' website!
+Allow job seekers to browse for jobs using conditional filters and keyword searches
+Allow job seekers to submit their CV and cover letter to apply for jobs
+Allow recruiters to sign-up, login, logout, create, update and manage their profiles
+Allow recruiters to post job adverts to the jobs board and later edit their jobs if need be
+Allow recruiters to access the job seeker applications for each of their jobs advertised
+Allow recruiters to pay for their job listings before they are live on the jobs board website
+Allow recruiters to see how many job seekers have viewed each of their job postings
+Over 30 minutes of this course is free to try before you enroll!
+... and much more!",영어,https://www.udemy.com/course/the-applied-guide-to-corvid-aka-wix-code-from-beginner/
+no-code-development,ChatGPT,Make Python Programs with ChatGPT with Zero Coding Skills,초급자,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+You will learn how to generate working Python programs with ChatGPT.
+You will learn how to execute the generated code on your computer.
+You will learn how to use ChatGPT to generate Python scripts that automate things.
+You will learn how to use ChatGPT to generate Python scripts that analyze and visualize data.
+You will learn how to use ChatGPT to generate Python programs to build web apps.
+You will learn how to use ChatGPT to generate Python programs for desktop GUI apps.
+You will gain hands-on experience through practical examples and projects.
+You will develop a solid foundation in using ChatGPT to generate Python code without any prior programming experience.",영어,https://www.udemy.com/course/turn-ideas-into-python-programs-with-chatgpt/
+no-code-development,WordPress,How to Make a Website Without Coding- WordPress & Web Skills,모든 수준,"19,000",25000.0,9시간 주문형 동영상,"배울 내용
+Learn to create a business site with testimonials, clear calls to action, and eCommerce capabilities to sell products online
+Learn to create a blog with images, video, email capture forms, and beautiful share buttons
+Learn to create an online resume/portfolio with visual representation of skills, lightbox for displaying portfolio images, and a simple contact form for others to get in touch
+Choose the right domain name for your site
+Get your web hosting set up
+Learn how to make a logo
+Learn to optimize your website for search engines
+Learn to add and manage content on your website
+더 보기",영어,https://www.udemy.com/course/make-a-website-without-code-wordpress-course/
+no-code-development,DevOps,50 DevOps Interview Questions & Answers - 2023,모든 수준,"17,000",49000.0,6.5시간 주문형 동영상,"배울 내용
+Prepare for Devops interviews
+Get to know Devops interview questions that could be asked in the interview and how to answer them
+Evaluate your knowledge on Devops
+Know how to answer Devops questions in the interview",영어,https://www.udemy.com/course/50-devops-interview-questions-answers/
+no-code-development,Elementor,Professional WordPress Web Development with Elementor 2023,모든 수준,"17,000",23000.0,36시간 주문형 동영상,"배울 내용
+Build a strong foundation in WordPress, Woocommerce, and cPanel web hosting administration.
+Create stunning websites using the FREE version and utilize its basic and general widgets.
+Unlock advanced functionalities with the PRO version and explore dozens of professional widgets.
+Learn how to design and develop a robust and engaging blogging platform.
+You will Learn Industry skills to manage projects
+Understand pop-up creation, conditions, triggers, and advanced rules for effective website engagement.
+Explore seamless integration of Woocommerce with Elementor Pro for dynamic e-commerce websites.
+Gain hands-on skills by developing 5 complete projects from scratch, showcasing your expertise.",영어,https://www.udemy.com/course/professional-wordpress-web-development-course-with-elementor/
+no-code-development,Microsoft Power Apps,Mastering Microsoft Power Apps 2023: From Zero to Hero,모든 수준,"17,000",23000.0,21시간 주문형 동영상,"배울 내용
+Lay a solid foundation towards becoming a Power Apps expert
+Become empowered to create customized apps to automate workflows and streamline business processes
+Learn how to make your Power Apps responsive and integrated with other apps
+Understand the basics of Power Apps dashboard, controls, forms, and connectors
+Learn how to effectively use and apply collections and variables
+Get hands-on experience in designing and optimizing apps
+Master the monitoring and maintenance techniques for Power Apps
+Get practical with real-world projects like the 'Expense Tracker' and 'Absence Manager'
+Explore various controls and functions, such as forms, buttons, galleries, variables, and more
+Gain knowledge on error handling and working with connectors",영어,https://www.udemy.com/course/mastering-microsoft-power-apps/
+no-code-development,Mobile App Design,Build Mobile Apps Without Coding - The Complete Guide,초급자,"17,000",49000.0,11시간 주문형 동영상,"배울 내용
+Learn to build mobile apps without code from scratch. No previous experience required
+Build three fully functional mobile apps from scratch (including a Tinder clone,) without writing a single line of code
+Master the fundamentals of Glide, one of the most popular no-code mobile app building platforms
+Learn multiple ways to monetize your apps by selling them as templates or becoming a Glide affiliate
+Learn how to get certified as a no-code Glide developer and make a living making apps.",영어,https://www.udemy.com/course/build-mobile-apps-without-coding-the-complete-guide/
+no-code-development,Augmented Reality,Build Augmented Reality App Without Coding Using Unity.,모든 수준,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+Skills to build beautiful real-world Augmented Reality applications from scratch.
+Learn to integrate complex 3D models with your Augmented Reality application.
+Have a thorough understanding of good practices and principles of Unity and Augmented Reality Development.
+Build and deploy AR applications for Android, iPhone, Windows, Linux and Mac.
+Download free and compatible 3D models for designing AR applications.
+Everything you need to know to build amazing Augmented Reality applications.",영어,https://www.udemy.com/course/build-augmented-reality-app-without-coding-using-unity/
+no-code-development,Elementor,Wordpress Elementor Course: Develop Site Without Coding,초급자,"17,000",23000.0,3.5시간 주문형 동영상,"배울 내용
+Elementor Installation
+Supporting Plugins
+Create Site from Scratch
+Elementor Functionality
+Customization of Elementor
+Free and Pro Version of Elementor",영어,https://www.udemy.com/course/wordpress-elementor-course-develop-site-without-coding/
+no-code-development,WordPress,Wordpress for beginners :Build Websites Fast without Coding,모든 수준,"19,000",25000.0,5시간 주문형 동영상,"배울 내용
+Create websites with no coding experience
+Create online stores with no coding experience
+Have the skills necessary to make money selling services or websites",영어,https://www.udemy.com/course/wordpress-create-websites-fast-wo-coding-and-make-money/
+no-code-development,WordPress,Easy Wordpress course: build your first Wordpress website!,모든 수준,"19,000",25000.0,2.5시간 주문형 동영상,"배울 내용
+Build almost any kind of Website using Wordpress for yourself or for friends and customers.
+How to choose a theme (design template) for your Wordpress site, how to change it if you change your mind and how to customize the theme.
+How to install your new website and get it online in less then 7 minutes.
+How to import ready-made beautiful websites in minutes! (So you never have to pay a graphic designer...)
+How to add thousands of plugins to your sites like a store, gallery, forms, and anything else you can think of!
+How to use the amazing Drag and Drop ""Elementor"" system to easily make your site even greater!
+How to setup your website's menu.
+How to add widgets to your site (those little things on the side of your site like news ticket, search field etc.)
+더 보기",영어,https://www.udemy.com/course/easy-wordpress-course/
+no-code-development,Automation,The Complete 'No Code' Automation Course: Build 18 Projects,모든 수준,"17,000",49000.0,3.5시간 주문형 동영상,"배울 내용
+How To Build A Web Scraper For Competitor Price Monitoring - Without Code.
+How To Turn A Web Scraper & Scraped Data into An API - Without Code.
+How To Automatically Populate A Database With Data - Without Code.
+How To Create An Automated Sales Pipeline Database - Without Code.
+How To Build An Automated Content Curator - Without Code.
+How To Create A Social Media Post Scheduler - Without Code.
+How To Automate Marketing (Prospect Generation) Tasks - Without Code.
+How To Create A Data-Driven Content Idea Generator - Without Code.
+How To Create An Automated Sentiment Analyzer - Without Code.
+How To Create An Automated Data Enrichment Workflow - Without Code.
+더 보기",영어,https://www.udemy.com/course/no-code-automation/
+no-code-development,WordPress,Create A WordPress Website 2020 | Elementor PRO Tutorial,초급자,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+How To Make A WordPress Website.
+How To Use Elementor Pro.
+How To Start A Web Design Agency.",영어,https://www.udemy.com/course/create-a-wordpress-website-2020-elementor-pro-tutorial/
+no-code-development,Elementor,Lead Generation Masterclass: Create Web-pages with Elementor,모든 수준,"19,000",69000.0,8.5시간 주문형 동영상,"배울 내용
+Design converting and advanced lead page / squeeze page / landing page
+Design interactive and animated lead page / squeeze page / landing page
+Integrate optin / signup / popup form into lead page / squeeze page / landing page
+Carry out lead generation campaign / capture subscribers
+Perform lead generation funnel and earn sales / affiliate commissions
+Perform email marketing campaign / welcome email & automations
+Learn relevant WordPress Plugins to relish lead generation funnel
+Learn to grab quick sale or commission via lead generation funnel
+Build up audience, personal branding and traffic
+Download ""proven"" lead page and confirmation page templates
+더 보기",영어,https://www.udemy.com/course/lead-generation-masterclass-funnel/
+no-code-development,Microsoft Power Automate,Advanced RPA - Microsoft Power Automate With AI Builder,초급자,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+By the end of the course, You will get, Complete Knowledge on Power Automate for AI Builder
+You will learn, How to create Microsoft Flow with AI Builders",영어,https://www.udemy.com/course/microsoft-power-automate-with-ai-builder/
+no-code-development,WordPress Plugins,How To Make an eCommerce Website With Wordpress + Elementor,초급자,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+Learn How To Create an eCommerce Website With Wordpress
+How To Use WooCommerce
+How To Use The Elementor Page Builder",영어,https://www.udemy.com/course/how-to-make-an-ecommerce-website-with-wordpress-elementor/
+no-code-development,WordPress,WordPress Practice Tests & Interview Questions (Basic/Adv),모든 수준,"17,000",23000.0,,,영어,https://www.udemy.com/course/wordpress-practice-tests-and-interview-questions-basic-advanced/
+no-code-development,WordPress,WordPress for Beginners 2023 - No Code WordPress Masterclass,모든 수준,"17,000",23000.0,10시간 주문형 동영상,"배울 내용
+Design a complete WordPress website from start to finish with total confidence
+Understand SEO concepts and apply them to your own site to attract more site visitors
+Define WordPress terminology to help you hold your own in any WordPress discussion
+Practice WordPress by installing on your own computer for free, or on any third-party host
+Answer 5 important planning questions to define who you're designing for and how you want your website to look
+Master WordPress's ""Gutenberg Block Editor"" to insert new design elements anywhere, without coding
+Create a feature-rich website by assembling WordPress Plugins that work for YOU
+Get familiar with WordPress's layout and work areas to improve your productivity
+Create new ""Pages"" and ""Blog Posts,"" and understand the importance of content creation for SEO
+Develop your own styles and push site-wide changes through full site editing with the ""Site Editor""
+더 보기",영어,https://www.udemy.com/course/wordpress-for-non-coders/
+no-code-development,WordPress,WordPress for Beginners: Complete Master Course (Sinhala),모든 수준,"17,000",59000.0,11.5시간 주문형 동영상,"배울 내용
+Install Wordpress on your PC or Mac computer, so you can learn without having to pay hosting or domain fees.
+Anyone may learn how to use Wordpress to create a useful, attractive, and responsive website by taking this course.
+Navigate around the Wordpress dashboard, know what everything does and how to use it.
+Recognize the core components of Wordpress
+How to create pages and posts properly and understand the difference between the pages and posts.
+How to Create personalized menus and navigational systems that are helpful to both visitors and search engines.
+Use post categories and tags appropriately, and be aware of how doing so might harm your search engine rankings.
+learn how to set up Wordpress for the greatest outcomes.
+더 보기",영어,https://www.udemy.com/course/wordpress-for-beginners-complete-master-course-sinhala/
+no-code-development,Chatbot,How to Build Chatbot with Google DialogFlow,초급자,"17,000",39000.0,7시간 주문형 동영상,"배울 내용
+The students will learn how to build professional chatbots
+The students will learn that how to integrate chatbot with Facebook Messenger
+The students will learn that how to integrate chatbot with WhatsApp and Twilio
+The students will learn that how to integrate chatbot with Twitter
+The students will learn that how to integrate chatbot with Slack
+The students will learn that how to integrate chatbot with ReactJS, VueJs and Wix websites
+The students will learn that how to create Backend REST API with Python for Chatbots
+The students will learn that how to integrate Chatbot with Firebase Real Time Database
+The students will learn how to create Crypto Currency Price Tracker Chatbot
+The student will learn that how to create Human Handoff functionality",영어,https://www.udemy.com/course/how-to-build-chatbot-with-google-dialogflow/
+no-code-development,Bubble Visual Programming,Build web applications without writing any code with bubble,초급자,"19,000",25000.0,3시간 주문형 동영상,"배울 내용
+Build a Photo Sharing Web App from scratch
+Build a Todo list App from scratch
+Build a user registration and signup system from scratch
+Create database and database fields
+Create workflow events and actions
+Install and use pluggins in your apps
+Create multi pages for your applications
+Design applications using bubble application editor
+Display data using repeating groups
+Nest elements inside popups
+Using floating groups
+Nest elements inside groups
+Implement security using privacy rules
+Test application in development and live environment
+더 보기",영어,https://www.udemy.com/course/build-web-applications-without-writing-any-code-with-bubble/
+no-code-development,WordPress,WordPress Masterclass 2023 - Build 10 WordPress Websites,초급자,"17,000",23000.0,38.5시간 주문형 동영상,"배울 내용
+Master WordPress: Dive into the world's most popular content management system and unleash its power.
+Woocommerce Essentials: Learn to create e-commerce websites using the leading platform in the industry.
+Advanced Woocommerce: Enhance your online store with features like Pdf Invoicing and cryptocurrency payments.
+Design with Ease: Utilize Elementor, a powerful page builder, to craft visually captivating websites.
+Free & Pro Elementor: Explore both versions and leverage advanced features for professional-grade designs.
+Hands-On Experience: Work on 10 diverse projects, gaining real-world skills in e-commerce, business, and more.",영어,https://www.udemy.com/course/wordpress-crash-course-for-absolute-beginners/
+no-code-development,Web Development,1 Hour Website - Build a Website in 1 Hour,모든 수준,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+How to create a Responsive 1 Page Website in 1 Hour
+Methods to design a unique logo and create effective branding for your company
+A fast, simple way to create persuasive messaging to attract sales
+The basics of using no-code tools such as Carrd
+The skills needed to create a website from start to finish
+A simple way to save money on expensive web developers and designers
+Where to find useful free tools that help you create websites quicker",영어,https://www.udemy.com/course/one-hour-website/
+no-code-development,Bubble Visual Programming,Building A LinkedIn Clone With No-Code Using Bubble,모든 수준,"17,000",49000.0,4.5시간 주문형 동영상,"배울 내용
+How to build your own professional social network like LinkedIn without writing a single line of code
+An overview of Bubble's no-code toolset
+How to set up your own custom database
+How to register new user accounts
+How to create a settings page for users to update their profile information
+How to create user-generated posts
+How to build a home page feed
+How to like & comment on posts
+How to display user profile pages
+How to send & accept connection requests
+How to create company profiles
+How to display company profile pages
+더 보기",영어,https://www.udemy.com/course/building-a-linkedin-clone-with-no-code-using-bubble/
+no-code-development,Salesforce Development,Salesforce Validation Rules - Beginner to Advanced,모든 수준,"19,000",25000.0,3시간 주문형 동영상,"배울 내용
+Salesforce Validation Rules
+How to make salesforce field mandatory
+Criteria based validation rules
+Salesforce Validation Functions
+Salesforce Validations scenarios and assignments",영어,https://www.udemy.com/course/salesforce-validation-rules/
+no-code-development,UiPath Certified RPA Associate (UiRPA),Getting Started With UiPath Robotic Process Automation (RPA),모든 수준,"17,000",23000.0,6.5시간 주문형 동영상,"배울 내용
+Understand the fundamentals of Robotic Process Automation (RPA)
+Working with UiPath studio for designing RPA
+Designing Robots for automation of various workflows involving use of Notepad, Excel file, PDF file, Word File etc.
+Perform data scraping from website: Amazon
+Controlling Robot using Orchestrator",영어,https://www.udemy.com/course/uipathrpa/
+no-code-development,Webflow,Build A Lead-Generating Portfolio Website In 1 Hour (2023),초급자,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+The best way to build an portfolio Website that helps you generate new high-paying clients
+How to win visitors trust the moment they land on your website and why that's important
+How to build a website from scratch without using a single line of code
+Creating a website yourself in just a few hours and saving thousands on hiring a developer to do it for you
+Learning how to showcase your work in a way which helps you win high-paying clients
+Learn how to build an objective driven website which works as the best sales person for your business every day 24/7, 365",영어,https://www.udemy.com/course/build-a-lead-generating-portfolio-website-in-hours-2022/
+no-code-development,Niche Website,Build A Lead-Generating Agency Website In 1 Hour (2023),초급자,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+The best way to build an Agency Website that helps you generate new high-paying clients
+How to win visitors trust the moment they land on your website and why that's important
+How to build a website from scratch without using a single line of code
+Creating a website yourself in just a few hours and saving thousands on hiring a developer to do it for you
+Learning how to showcase your work in a way which helps you win high-paying clients
+Learn how to build an objective driven website which works as the best sales person for your business every day 24/7, 365",영어,https://www.udemy.com/course/build-a-lead-generating-agency-from-scratch-for-free/
+no-code-development,WordPress for Ecommerce,Create an Event Booking Website with WordPress,모든 수준,"17,000",23000.0,4시간 주문형 동영상,"배울 내용
+Automate an online booking or appointment system online
+Create a website that can take bookings online using WordPress
+Create a landing page for the booking system
+Take payments online",영어,https://www.udemy.com/course/create-an-event-booking-website-with-wordpress/
+no-code-development,Bubble Visual Programming,Building A Yelp Clone With No-Code Using Bubble,모든 수준,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+How to build your own review directory like Yelp without writing a single line of code
+An overview of Bubble's no-code toolset
+How to set-up your own custom database
+How to register new user accounts
+How to create a settings page for users to update their profile information
+How to create a dashboard to edit restaurant details
+How to build a home page search function
+How to display a list of relevant search results
+How to create a dynamic restaurant page
+How to create & display user-generated reviews
+Additional tips & insights to help on your Bubble journey
+더 보기",영어,https://www.udemy.com/course/building-a-yelp-clone-with-no-code-using-bubble/
+no-code-development,Mobile App Development,The First Complete Course: Make Mobile App Without Coding,모든 수준,"49,000",,12.5시간 주문형 동영상,"배울 내용
+Learn to build mobile apps without code from scratch. No previous experience required
+Create both an iOS and Android only by using your computer (PC or Mac)
+Mobile app design: How to transform any design into a functional mobile app
+How I created 2 apps LIVE in this course (step by step)
+How to publish your mobile app to Apple App Store and Google Play Store (step by step process)
+Master the fundamentals of Adalo! More than 12 hours of video content!
+How to quickly turn your app ideas to life
+Build beautifully designed mobile apps",영어,https://www.udemy.com/course/the-first-complete-course-make-mobile-app-without-coding/
+no-code-development,WordPress,"WordPress Full guide 2022, develop investment website",모든 수준,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+Master wordPress
+Making use of xampp
+Database creation/upload
+Build a successful paying website
+Convert woocommerce plugin to investment website
+Learn and Master the use of over 6 plugins
+Learn How to publish your local website online
+Start making money creating investment websites for their clients",영어,https://www.udemy.com/course/build-investment-website-using-wordpress-woocommerce-2022/
+no-code-development,Webflow,Build a Personal Brand Website in only 1 Hour (2023),초급자,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+The best way to build a Website for your personal brand to help build your email list and grow your community
+How to win visitors trust the moment they land on your website and why that's important
+How to build a website from scratch without using a single line of code
+Creating a website yourself in just a few hours and saving thousands on hiring a developer to do it for you
+Learning how to showcase your work in a way which helps you provide a great user experience for your website traffic
+Learn how to build an objective driven website which works hard to sell your personal brand every day, 24/7 365!",영어,https://www.udemy.com/course/the-personal-brand-website-blueprint-course-2022/
+no-code-development,Web Design,Create a High Converting Wix Website for Your Business,초급자,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+Learn website planning elements which include branding, competitor analysis, CTAs and sitemap
+Create a responsive website layout on Wix from start to finish
+Master the high conversion method, having a professional website is not enough to start making sales
+Have a website published and live that can also rank for SEO and be found on search engines
+Learn a skill that can make you money on the side, and become a WIX Web Designer",영어,https://www.udemy.com/course/create-high-converting-wix-website-for-business/
+no-code-development,Terraform,Ultimate Terraform Guide with Interview Preparation,모든 수준,"17,000",23000.0,3.5시간 주문형 동영상,"배울 내용
+Terraform Introduction
+Terraform Create your First Resource
+Terraform Generate Secrets
+Terraform Strings
+Terraform EC2 Create Instance
+Terraform Variables
+Terraform RDS create
+Terraform advance skills
+Terraform Hands-On Project Step By Step
+Interview Preparation",영어,https://www.udemy.com/course/ultimate-terraform-guide-with-interview-preparation/
+no-code-development,WordPress,WordPress: Backup and Restore,중급자,"17,000",59000.0,4시간 주문형 동영상,"배울 내용
+Create an ALL IN ONE WordPress BACKUP SOLUTION without using any plugins
+Create a server level backup solution that will backup your database and site files to either the server that is hosting the site or to a remote server
+The entire backup process is automated and require no interaction on your part
+The correct procedure to restore a WordPress site from the backups",영어,https://www.udemy.com/course/wordpress-backup-and-restore/
+no-code-development,Internet Of Things,Internet of Things for beginners - IoT project in 10 mins,초급자,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Introducing you to Internet of things
+Learn basics of electronics, electronic components & simulation platforms
+Using cloud solutions to easily develop an IoT applications using magicblocks platform
+Implementing several practical applications with IoT technologies",영어,https://www.udemy.com/course/internet-of-things-for-beginners-iot-project-in-10-mins/
+no-code-development,Web Scraping,Automate Web Scraping with No Code - Extract Data From Web,초급자,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Automate Scraping Web Data
+Create Automated Work Flows
+Share flows
+Export flows
+Import flows",영어,https://www.udemy.com/course/automate-web-scraping-with-no-code-extract-data-from-web/
+no-code-development,Bubble Visual Programming,Building A Slack Clone With No-Code Using Bubble,모든 수준,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+How to build your own team messaging app like Slack without writing a single line of code
+An overview of Bubble's no-code toolset
+How to set up your own custom database
+How to register new user accounts & create a team workspace
+How to register accounts for invited team members
+How to create a home page for a Slack team workspace
+How to create a new Slack channel
+How to edit the settings of a Slack channel
+How to send and display messages within a Slack channel
+How to update user account details
+더 보기",영어,https://www.udemy.com/course/building-a-slack-clone-with-no-code-using-bubble/
+no-code-development,Elementor,Build Your Own Website With No Code | Elementor Masterclass,모든 수준,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+Working with Elementor page builder
+Learn what to consider when choosing your domain and hosting provider
+The use of blocks and templates to speed up the creation process
+Knowledge about the different tools, elements and settings of Elementor",영어,https://www.udemy.com/course/build-your-own-website-with-no-code-elementor-masterclass/
+no-code-development,Webflow,Your One-Stop Shop to Learn Webflow for Freelancing,모든 수준,"29,000",,25.5시간 주문형 동영상,"배울 내용
+Learn the ins and outs of Webflow Designer
+Add and style Webflow elements and layouts
+Add different types of animations and interactions to elements
+Learn proper techniques to make a responsive website
+Build an outstanding responsive portfolio website in Webflow
+Connect Webflow website to a custom domain
+How to take advantage of Webflow paid plans",영어,https://www.udemy.com/course/your-one-stop-shop-to-learn-webflow-in-2022/
+no-code-development,WordPress,How to Create a Newspaper or Magazine Website with WordPress,초급자,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+How to create a news or magazine website with WordPress
+How to create a multi-blog website
+How to create a complete WordPress site without coding knowledge
+Learn WordPress basics",영어,https://www.udemy.com/course/how-to-create-a-newspaper-or-magazine-website-with-wordpress/
+no-code-development,WordPress,Create Online Education Website by Wordpress and Elementor,모든 수준,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+How to transform a design to real webpages
+How to create a complete website from scratch in Wordpress
+How to Create LMS website from scratch
+How to choose themes,colors, fonts etc.",영어,https://www.udemy.com/course/wp-lms-education-elementor-site/
+no-code-development,WordPress,Create High Converting Real Estate website with WordPress,모든 수준,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Create a beautiful website for your real estate business
+Generate leads through your website while you sleep
+Build an audience and grow traffic to your website
+How To Make A Real Estate Website With Wordpress",영어,https://www.udemy.com/course/create-high-converting-real-estate-website-with-wordpress/
+no-code-development,WooCommerce,WooCommerce Masterclass 2023 - Build 5 E-commerce Websites,모든 수준,"17,000",23000.0,15시간 주문형 동영상,"배울 내용
+To Install, manage users, create menus/pages/posts, and configure settings for a professional website.
+To Install and configure the powerful eCommerce plugin for seamless online selling.
+To Add, edit, and delete various products to showcase your offerings effectively.
+To Configure taxes and shipping options based on different zones for a smooth customer experience.
+To Seamlessly integrate popular payment gateways for secure online transactions.
+To Set up one-page and multistep checkout processes for improved conversions.
+To Tailor the checkout process to capture relevant information from customers.
+To Generate PDF invoices and packaging slips for efficient order management.
+더 보기",영어,https://www.udemy.com/course/woocommerce-crash-course-for-beginners/
+no-code-development,WordPress,Build a Premium Job Board Website With Wordpress,모든 수준,"17,000",23000.0,40분 주문형 동영상,"배울 내용
+Build their own hosted Wordpress job board website
+Set up a domain and hosting for wordpress
+Learn to install wordpress, theme and plugins
+Edit pages, blog posts and jobs
+Create different users roles like editors, employers, employee
+Monetize job board website with subscription
+Learn to understand to use employer and employee dashboard and admin control panel",영어,https://www.udemy.com/course/build-a-premium-job-board-website-with-wordpress/
+no-code-development,Elementor,Elementor Pro BootCamp (Build Custom Dynamic Websites),중급자,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+Using the Elementor Theme Builder, creating loops and listing
+Working with Dynamic Content, Custom Post Types, Custom Fields and CSS
+Integrating Elementor with 3rds party tools for automation, eCommerce or security
+Optimize Elementor sites for performance and SEO
+Price web projects, choosing tools and building a dream team",영어,https://www.udemy.com/course/elementor-pro-bootcamp/
+no-code-development,Bubble Visual Programming,Building A Quora Clone With No-Code Using Bubble,모든 수준,"17,000",39000.0,5시간 주문형 동영상,"배울 내용
+How to build your own question and answer platform like Quora without writing a single line of code
+An overview of Bubble's no-code toolset
+How to set up your own custom database
+How to register new user accounts
+How to build a user settings page
+How to build a home page with a custom search function
+How to process upvotes and downvotes across the platform
+How to publish user-generated questions on the platform
+How to display the full information of each question on a dedicated page
+How users can submit answers to Quora questions
+더 보기",영어,https://www.udemy.com/course/building-a-quora-clone-with-no-code-using-bubble/
+no-code-development,WordPress,Build Ecommerce Website like Amazon - No Coding Required,모든 수준,"19,000",25000.0,2.5시간 주문형 동영상,"배울 내용
+Easily Design a Mutli Vendor Website from Start to Finish.
+Easily Maintain Your Website & Make Routine Updates
+Have a website published and live that can also be seen on Google
+Understand the main features of WordPress
+This course will teach anyone to create a functional, beautiful, responsive website with WordPress.",영어,https://www.udemy.com/course/build-ecommerce-website-like-amazon-no-coding-required/
+no-code-development,Web Development,Build an e-learning platform using WIX with no coding,초급자,"19,000",25000.0,3.5시간 주문형 동영상,"배울 내용
+Create a website in few steps
+How to use WIX
+Create E-learning platform
+Create a website without any line of code",영어,https://www.udemy.com/course/build-e-learning-platform-in-few-steps-using-wix/
+no-code-development,Elementor,Build Websites with Elementor Like a Pro,초급자,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+The basics of Elementor and how to set it up on their WordPress website
+How to use Elementor's drag-and-drop interface to design custom pages and layouts
+How to add widgets and modules to their pages, including text, images, buttons, and more
+How to customize the appearance of their website using Elementor's styling options, including fonts, colors, and backgrounds
+How to integrate third-party tools and plugins with Elementor for added functionality
+How to create responsive designs that look great on any device
+Creating Website Using Elementor",영어,https://www.udemy.com/course/build-websites-with-elementor-like-a-pro/
+no-code-development,Google AppSheet,Build a Vehicle Inspection App with AppSheet,중급자,"49,000",,3시간 주문형 동영상,"배울 내용
+How to create a vehicle inspection app in AppSheet.
+Table relationships and setting up references between the tables.
+How to set up a bot to email a pdf of a document you set up, as well as some template expressions.",영어,https://www.udemy.com/course/build-a-vehicle-inspection-app-with-appsheet/
+no-code-development,Prompt Engineering,Prompt Engineering For Business,모든 수준,"17,000",23000.0,4시간 주문형 동영상,"배울 내용
+Enhance decision-making and problem-solving skills for business professionals and managers
+Drive innovation and creativity for entrepreneurs and startup founders
+Improve data analysis techniques for data analysts and researchers
+Foster collaboration and effective communication for project managers and team leaders
+Develop practical prompt engineering skills for business students and graduates
+Leverage prompts for improved outcomes in product development, marketing, strategy, and operations
+Apply prompt engineering principles in a business context for individuals",영어,https://www.udemy.com/course/prompt-engineering-for-business/
+no-code-development,RPA Robotic Process Automation,The Complete Social Media Bot Course: Build No Code Bots,중급자,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+Save time by automating repetitive online tasks
+Learn web automation without needing to code
+Learn how to use Microsoft Power Automate 2022 to build any automation
+Build quickly bots for Linkedin, Facebook and Twitter",영어,https://www.udemy.com/course/web-automation/
+no-code-development,Internet Marketing,How to Customize & Publish a Simple Website in One Day,초급자,"19,000",25000.0,1시간 주문형 동영상,"배울 내용
+You'll publish a one-page website on your own custom domain name
+You'll configure a one-field form for collecting email addresses through your website
+You'll customize your one-page website with royalty-free high-quality background images
+You'll learn how to combine Netlify and Gitlab to create an automated publishing system for your website
+You'll understand what it means to fork a repo in Gitlab and the simplest way to do it
+You'll learn how to make changes to an HTML file using Gitlab's website",영어,https://www.udemy.com/course/launch-a-landing-page-and-start-collecting-leads-in-an-hour/
+no-code-development,Metaverse,A practical beginners guide to build Metaverse with Croquet,초급자,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Learn and Create a spot in metaverse within an hour
+Learn fundamentals of a unique metaverse framework
+Learn fundamentals of low code tools and frameworks for 3D world creation
+Learn how to use node based web products",영어,https://www.udemy.com/course/learn-and-create-a-spot-in-metaverse-within-an-hour/
+no-code-development,Chatbot,Building & Designing Interactive Chatbot with No Code,모든 수준,"17,000",23000.0,3.5시간 주문형 동영상,"배울 내용
+Learning the basic fundamentals of AI chatbot, getting to know technologies behind it as well as understanding its capabilities and limitations
+Learning the full process of how AI chatbot works from getting input from user to composing output after analysing user’s request
+Learning how to design effective conversation flow and interactive user interaction
+Full step by step tutorial on how to build and design AI chatbot using Poe
+Full step by step tutorial on how to build and design chatbot using Confer Bot
+Full step by step tutorial on how to build and design chatbot using Collect Chat
+Chatbot testing objectives: functionality testing, performance testing, user experience testing, and integration testing
+Learning strategies to potentially monetise your chatbot, such as selling chatbot templates or offering service to build and design custom chatbot",영어,https://www.udemy.com/course/building-designing-interactive-chatbot-with-no-code/
+no-code-development,WordPress,Complete Wordpress Website - Fast & Easy - Start To Finish,모든 수준,"17,000",23000.0,17.5시간 주문형 동영상,"배울 내용
+Build complete, flexible, professional Wordpress websites Start to Finish with no coding experience required.
+Using Beaver Builder, the most stable and trusted page builders available to speed up site development and minimise your learning curve.
+The website you build will include brochure style pages, blog style pages, a shop and a dynamic custom post type section.
+You will learn a repeatable process of how to build a complete website from scratch without using pre-built templates.",영어,https://www.udemy.com/course/complete-wordpress-website-fast-easy-start-to-finish/
+no-code-development,WordPress,WordPress Mastery: Learn How to Build & Monetize Websites,모든 수준,"25,000",,12시간 주문형 동영상,"배울 내용
+Introduction to WordPress and its features
+How to install and log into the WordPress dashboard
+Understanding and setting up general site settings
+Creating pages and posts, and formatting text
+Adding media such as images, audio, and video to the WordPress media library
+Understanding and using WordPress widgets and menus
+Installing and customizing WordPress themes
+Installing and updating WordPress plugins
+Building and customizing eCommerce, business, and blog websites
+Optimizing website performance with WordPress SEO (Search Engine Optimization)
+더 보기",영어,https://www.udemy.com/course/wordpress-mastery-learn-how-to-build-websites-and-monetize-your-skill/
+no-code-development,WordPress,WordPress For Beginners - Create A Website Step By Step,초급자,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Master WordPress in a few hours.
+Have a website up and running in about an hour if you follow all the steps.
+Create a landing page with free tools and learn how to get leads and higher conversions with your website.
+Learn how to capture emails with your website to build an audience which can lead to more sales.
+Use WordPress Landing Pages To Convert affiliate Leads into Sales (Affiliate Marketing)",영어,https://www.udemy.com/course/wordpress-for-beginners-create-a-website-steps-by-step/
+no-code-development,WordPress,Create Personal Brand Niche Website without coding,모든 수준,"19,000",25000.0,1시간 주문형 동영상,"배울 내용
+Building a Personal Brand Niche Website using WordPress and Elementor Using all FREE Resources
+You Will Learn to Use WordPress and Elementor to Make Your Personal Brand Website Without Coding
+Increase your Followers by Getting FREE traffic Using Blogging",영어,https://www.udemy.com/course/create-personal-brand-niche-website-without-coding/
+no-code-development,Wix,Wix Web Designing and Development Beginner to Pro,모든 수준,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Creating a website from scratch using Wix drag-and-drop website builder.
+Understanding the different types of websites that can be created with Wix(e.g. online store, blog, portfolio, etc.).
+Learning how to customize the design of a Wix website using templates, themes, and other design tools.
+Adding and editing content on a Wix website, including text, images, videos, and other media.
+Creating a mobile-friendly version of a Wix website that looks and functions well on smartphones and tablets.
+Configuring the settings and options of a Wix website, including SEO settings, site analytics, and payment processing.",영어,https://www.udemy.com/course/wix-web-designing-and-development-beginner-to-pro-q/
+no-code-development,WordPress,"Beginners Guide to WordPress, Elementor & WooCommerce",초급자,"17,000",23000.0,4시간 주문형 동영상,"배울 내용
+WordPress, Elementor, WooCommerce Concepts
+What is domain name & web hosting?
+How to setup domain & web hosting?
+One click installer WordPress.
+Pointing domain & web hosting.
+What is subdomain & setup?
+What is SSL & FREE setup?
+How to setup & use elementor?
+Designing website with elementor.
+How to make website easily with NO coding?
+How to use & setup professional emails?
+WooCommerce settings setup.
+Product creation with WooCommerce.",영어,https://www.udemy.com/course/beginners-guide-to-wordpress-elementor-woocommerce/
+no-code-development,Rapid Application Development,My First Glide App,초급자,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+In the course, I will teach you all the knowledge needed to build basic applications in Glide.
+We will learn what basic settings are needed to build a task and subtask management application.
+Working with Glide tables and functions created by Glide.
+Understand how to create complex actions using one click.
+We will develop the skills required in building applications without code.",영어,https://www.udemy.com/course/my-first-glide-app/
+no-code-development,WordPress,Create Personal Branding & Blogging Website without coding,모든 수준,"19,000",25000.0,2시간 주문형 동영상,"배울 내용
+Building a Personal Branding Website using wordpress and Elementor
+How to add blogging functionality in website
+Create a professional website to represent your personal brand
+Master Wordpress & Elementor Page Builder
+Learn how to create a completely unique and custom wordpress website
+Learn how to showcase your work, events, product & service
+How to put your image gallery in website
+How to add your videos in website
+How to showcase your social channel feed in website
+Make beautiful about and contact us page
+How to write perfect blog article
+더 보기",영어,https://www.udemy.com/course/create-personal-branding-blogging-website-without-coding/
+no-code-development,Project Management,PMP Mock exam (PMBOK7) 100% pass in Real exam :,모든 수준,"17,000",23000.0,,,영어,https://www.udemy.com/course/pmp-mock-exam-questions-and-detailed-explanations/
+no-code-development,WordPress,Wordpress Development For Beginners - Learn From Scratch,초급자,"17,000",23000.0,5시간 주문형 동영상,"배울 내용
+What is Wordpress and its Fundamentals
+How to Install wordpress in computer and on web hosting
+How to create a business website
+How to create a shopping website using woocommerce in wordpress",영어,https://www.udemy.com/course/wordpress-development-for-beginners-learn-from-scratch/
+no-code-development,Landing Page Optimization,"High Converting Landing Page With WordPress, CRM & Marketing",초급자,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Create High Converting Landing Page With WordPress
+Integrate CRM and Manage Your Leads in the Best Way
+Copywriting Tips & Tricks
+Promote Your Landing Page with Google Ads",영어,https://www.udemy.com/course/high-converting-landing-page-with-wordpress-crm-marketing/
+no-code-development,Web Design,Build websites without code using Carrd,초급자,"17,000",23000.0,2시간 주문형 동영상,"배울 내용
+Build a Website without Code
+Build simple website at $49/year
+Learn Landing Page Basics
+Complete and launch your Landing Page
+Build Free Website without Code",영어,https://www.udemy.com/course/carrd-tutorials/
+no-code-development,E-Commerce,Build FREE Ecommerce Website with WordPress & WooCommerce,모든 수준,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+At the end of this course, you will have comprehensive basic knowledge of how to build an ecommerce Wesbite from scratch using Wordpress & Woocommerce.
+You can sell both digital & physical products
+Be able to use different plugins to enhance your website
+How to write perfect blog to get visitors to website
+You will learn how to Integrate payment systems including PayPal & Stripe into your website
+On page & off-Page SEO for blogging",영어,https://www.udemy.com/course/build-free-ecommerce-website-with-wordpress-woocommerce/
+no-code-development,Coding For Kids,Build Artificial Intelligence Projects for kids,초급자,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+1- Getting familiar with the basics of electronics -Building a project using the Pictoblox software
+2- Learning about the latest AI technology and its uses
+3- How to build interactive AI projects -Problem solving and creative and logical thinking skills
+4- To equip children with a strong skill set and knowledge base that can serve them well in future academic and professional endeavors.",영어,https://www.udemy.com/course/artificial-intelligence-eq/
+no-code-development,Documentation,"NO-code Documentation (wiki, guide) website [Docusaurus]",초급자,"23,000",,37분 주문형 동영상,"배울 내용
+Create a FREE blog & documentation (wiki & white paper) website
+Understand the basics of Git, Github and Markdown
+Manage content using markdown syntax and how to live preview all the changes
+Use Github, CodeSandbox and Vercel for a no-code website management process",영어,https://www.udemy.com/course/i-o-docusaurus/
+no-code-development,WordPress,WordPress Crash Course for Beginners - DIY Business Website,초급자,"17,000",23000.0,4시간 주문형 동영상,"배울 내용
+WordPress
+WordPress Business Website
+WordPress Fundamentals
+WordPress Porto Theme (Premium Theme)",영어,https://www.udemy.com/course/wordpress-crash-course-for-beginners-diy/
+no-code-development,Online Business,Build Ecommerce Website For online Business with Wordpress,모든 수준,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+You will have a fantastic store that you can use to go on and build an ecommerce business.
+You will have the skills required to become a freelance Wordpress developer.
+You can sell both digital & physical products
+Be able to use different plugins to enhance your website
+At the end of this course, you will have comprehensive basic knowledge of how to build an ecommerce store from scratch using Wordpress & Woocommerce.",영어,https://www.udemy.com/course/build-ecommerce-website-for-online-business-with-wordpress/
+no-code-development,WordPress,WP The Easy Way With Elementor,초급자,"17,000",23000.0,6.5시간 주문형 동영상,"배울 내용
+How to build WordPress websites, the easy way, without using any code
+How to use, and master, Elementor
+How to build WordPress websites the same way WordPress agencies do
+How to make any website look professional and well designed",영어,https://www.udemy.com/course/wp-the-easy-way/
+no-code-development,WordPress,With WordPress Build Dating & Marriage Website Easily!,모든 수준,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+You will have a fantastic website that you can use to go on and build a Dating & Marriage business.
+At the end of this course, you will have comprehensive basic knowledge of how to build a Dating & Marriage website from scratch using Wordpress & Woocommerce.
+Be able to use different plugins & features to enhance your website
+Plus, how to make blog for your matrimonial website is also included to get traffic to website",영어,https://www.udemy.com/course/with-wordpress-build-dating-marriage-website-easily/
+no-code-development,WordPress,Build Stunning Website for Fitness Business with WordPress,모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Step by step building gym, yoga, fitness WordPress website
+Choosing the right WordPress theme for your fitness business
+Introduction to WordPress and setting it up web hosting & domain names
+Adding pages and content to your website
+Customizing your WordPress theme to match your branding
+Optimizing your website for search engines
+Creating a blog to engage your visitors
+Integrating social media into your website
+Adding functionality to your website with WordPress plugins
+Securing your website and protecting it from hackers
+Creating an online store to sell your products or services
+Designing complete website to make it 100% responsive on all devices
+더 보기",영어,https://www.udemy.com/course/build-stunning-website-for-fitness-business-with-wordpress/
+no-code-development,WordPress for Ecommerce,Create Ecommerce Website Flatsome Theme + WordPress Part 1/2,초급자,"17,000",23000.0,44분 주문형 동영상,"배울 내용
+You will learn to create your online store from scratch and sell physical or digital products.
+You will learn to create different types of products like physical digital, or affiliate products.
+You will learn how to use the Flatsome theme (the #1 premium woo commerce theme)
+You will learn to create different pages for your website and set up blog
+You will learn to set up a payment system on your website
+You will learn how to manage your own ecommerce website using WordPress and WooCommerce",영어,https://www.udemy.com/course/create-ecommerce-website-flatsome-theme-wordpress-part-12/
+no-code-development,DevOps,Learn Terraform and prepare for Job Interview,모든 수준,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+Terraform Introduction
+Terraform Create your First Resource
+Terraform Generate Secrets
+Terraform Strings
+Terraform EC2 Create Instance
+Terraform Variables
+Terraform RDS create
+Terraform advance skills
+Terraform Hands-On Project Step By Step
+Interview Preparation",영어,https://www.udemy.com/course/learn-terraform-and-prepare-for-job-interview/
+no-code-development,WooCommerce,Build Upwork Like Freelancing Website With WordPress,모든 수준,"17,000",23000.0,2.5시간 주문형 동영상,"배울 내용
+You will have a fantastic website that you can use to go on and build an microjob business.
+Be able to use different plugins to enhance your website
+You can sell both freelancing services & buy freelancer services
+Plus, how to make blog for your Freelancing website is also included
+At the end of this course, you will have comprehensive basic knowledge of how to build an microjobs website from scratch using Wordpress & Woocommerce.",영어,https://www.udemy.com/course/build-upwork-like-freelancing-website-with-wordpress/
+no-code-development,WordPress,Build 3 Types of WordPress Websites in this 1 Course Only,모든 수준,"17,000",23000.0,10시간 주문형 동영상,"배울 내용
+I will Teach to setup WordPress with Web Hosting & Domain Names
+I will teach how to make Online Course website with WordPress
+I will teach how to make money blogging website with WordPress
+I will teach how to make eCommerce website with WordPress",영어,https://www.udemy.com/course/build-3-types-of-wordpress-websites-in-this-1-course-only/
+no-code-development,WordPress,Earn 6 Figure passive income Online Business using WordPress,모든 수준,"17,000",23000.0,4.5시간 주문형 동영상,"배울 내용
+Designing a Wordpress/ Elementor professional drop service website without coding.
+Making a professional email and Making an Email Template
+Targetting bloggers to get clients on a daily basis.
+Hiring freelancers on advance and learn to earn using them.
+Adding payment method to your website to receive direct payment.
+Create affiliate system to get free traffic for your niche drop service website
+Passive income drop service business from the comfort of your home.
+Learn the magic of compounding in your business to get even more Succes in long term & Scale your business to earn even more.
+Learn to make logo and edit images for your niche on photoshop/canva.",영어,https://www.udemy.com/course/earn-6-figure-passive-income-online-business-using-wordpress/
+no-code-development,WordPress,Learn to Install WordPress on Domain Name & Web Hosting,모든 수준,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+What exactly is a Domain Name & Setup
+What is website hosting? & Setup
+How domain names and web hosting work in relation to each other.
+How to change the name servers of a domain to point to a particular web host
+Best domain firms to buy a domain.
+Making the site secure by installing SSL
+Creating an email account to send & receive emails.
+Power to Sub Domain for creating Unlimited WordPress Website
+One-click installer applications like WordPress
+and many more :)",영어,https://www.udemy.com/course/learn-to-install-wordpress-on-domain-name-web-hosting/
+no-code-development,Web Development,How to Build A SEO Optimized Website,초급자,"17,000",23000.0,3시간 주문형 동영상,"배울 내용
+Learn how to build a creative website from scratch
+How Artists, Authors and Musicians can optimize SEO
+How to create and upload products
+Have your site reflect your personality
+How to build your website correctly
+How to name your business and doman
+How to gain ORGANIC traffic",영어,https://www.udemy.com/course/website-building-made-simple/
+no-code-development,Cloud Computing,Ultimate AWS Certification Course by Shiva,모든 수준,"17,000",23000.0,48시간 주문형 동영상,"배울 내용
+This course can be applied to multiple Specializations or Professional Certificates programs. Completing this course will count towards your learning
+Describe terminology and concepts related to AWS services
+Articulate key concepts of AWS security measures and AWS Identity and Access Management (IAM)
+Understand AWS database and storage offerings, including Amazon Relational Database Service (Amazon RDS), Amazon DynamoDB, and Amazon S3.
+You will learn to distinguish among several AWS compute services, including Amazon EC2, AWS Lambda, and Amazon ECS.",영어,https://www.udemy.com/course/ultimate-aws-certification-course-by-shiva/
+no-code-development,Wix,How to build a high performing website from scratch,초급자,"17,000",23000.0,1.5시간 주문형 동영상,"배울 내용
+18 must haves for a great website
+How to build a DIY website
+How to outsource the creation of your website
+How to purchase your domain name
+How to choose the right hosting provider for you
+3 tools for ongoing website management and analysis
+How to get maximum exposure to your website",영어,https://www.udemy.com/course/how-to-build-a-high-performing-website-from-scratch/
+no-code-development,Bubble Visual Programming,Database design in Bubble,모든 수준,"17,000",23000.0,1시간 주문형 동영상,"배울 내용
+Understand the fundamentals of databases and how they work
+Understand how databases work within Bubble
+Be able to design performant databases and apps in Bubble
+Understand linking data and when to use option sets
+Know the benefits and costs of using external databases",영어,https://www.udemy.com/course/database-design-in-bubble/
+no-code-development,WordPress,Build Stunning WordPress Website For Free 2023,모든 수준,"17,000",23000.0,5시간 주문형 동영상,"배울 내용
+Learn to design a stunning WordPress website for Free
+Understanding the basics of web design, including typography, color theory, and layout principles
+Building beautiful home pages that capture visitors' attention
+Creating custom headers and footers that reflect your brand
+Adding custom widgets and plugins to extend Elementor's capabilities
+Designing blog pages that showcase your content
+Optimizing your website for speed and performance
+And much more!",영어,https://www.udemy.com/course/build-stunning-wordpress-website-for-free-2023/
+no-code-development,Web App Development,Learn How To Build a Web Application Without Coding,초급자,무료,,,,영어,https://www.udemy.com/course/learn-how-to-build-a-web-application-without-coding/
+no-code-development,Wix,WIX Tutorial For Beginners - Make A Wix Website Today!,초급자,무료,,,,영어,https://www.udemy.com/course/wix-website-tutorial-for-beginners/
+no-code-development,Bubble Visual Programming,Beginner's Guide: Use Bubble to Build an App Without Coding,초급자,무료,,,,영어,https://www.udemy.com/course/beginners-guide-use-bubble-to-build-an-app-without-coding/
+no-code-development,WordPress,Build a Pro Website in 30 minutes with WordPress & Wix,초급자,무료,,,,영어,https://www.udemy.com/course/build-a-pro-website-in-30-minutes/
+no-code-development,Wix,Velo by Wix Part 2: User Inputs and Data Basics,초급자,무료,,,,영어,https://www.udemy.com/course/corvid-for-wix-part-2-user-inputs-and-data-basics/
+no-code-development,Excel Macros,Excel Automation using Uipath,초급자,무료,,,,영어,https://www.udemy.com/course/excel-automation-using-uipath/
+no-code-development,Wix,Velo by Wix Part 3: Dynamic Pages and Repeater Basics,초급자,무료,,,,영어,https://www.udemy.com/course/corvid-for-wix-part-3-dynamic-pages-and-repeater-basics/
+no-code-development,Wix,WIX Website Tutorial for Complete Beginners: Zero To Expert,초급자,무료,,,,영어,https://www.udemy.com/course/2020-wix-website/
+no-code-development,Programming Fundamentals,Citizen Developers of Low-Code / No-Code,초급자,무료,,,,영어,https://www.udemy.com/course/citizen-developers-of-low-code-no-code/
+no-code-development,Web Design,How to Create a Website With Zyro Website Builder,초급자,무료,,,,영어,https://www.udemy.com/course/how-to-create-a-website-using-zyro-website-builder/
+no-code-development,Data Engineering,Lean Data Practices for Startups and Entrepreneurs,모든 수준,무료,,,,영어,https://www.udemy.com/course/lean-data-practices/
+no-code-development,WordPress,WordPress for Beginners: Build Your Business Website Quickly,초급자,무료,,,,영어,https://www.udemy.com/course/wordpress-for-beginners-build-your-business-website-quickly/
+no-code-development,Chatbot,Instagram Chatbots 2023. Complete guide on creating chatbot,초급자,무료,,,,영어,https://www.udemy.com/course/instagram-chatbots-complete-guide-on-creating-chatbot/
+no-code-development,Blue Prism,Blue Prism - Working with PDF,모든 수준,무료,,,,영어,https://www.udemy.com/course/blue-prism-working-with-pdf/
+no-code-development,Salesforce,The Salesforce Validation Rules Crash Course,초급자,무료,,,,영어,https://www.udemy.com/course/the-salesforce-validation-rules-crash-course/
+no-code-development,App Development,ZeroCode -Beginner's Guide to App Development,초급자,무료,,,,영어,https://www.udemy.com/course/zerocode-beginners-guide-to-app-development/
+no-code-development,WordPress,How to Create A Digital Agency Website with Elementor,초급자,무료,,,,영어,https://www.udemy.com/course/how-to-create-a-digital-agency-website-with-elementor/
+no-code-development,WordPress for Ecommerce,Create an Ecommerce Website with WordPress + Flatsome Part2,모든 수준,무료,,,,영어,https://www.udemy.com/course/create-an-ecommerce-website-with-wordpress-flatsome-part2/
+no-code-development,E-Commerce,Create Ecommerce Website Flatsome Theme + WordPress Part 2/2,초급자,무료,,,,영어,https://www.udemy.com/course/create-ecommerce-website-flatsome-theme-wordpress-part-22/
+no-code-development,Reputation Management,Learning Your Google Count via Online Reputation Management,모든 수준,무료,,,,영어,https://www.udemy.com/course/learning-your-google-count-via-online-reputation-management/
+no-code-development,WordPress,Website Build-Along: Beaver Jams,초급자,무료,,,,영어,https://www.udemy.com/course/website-build-along-beaver-jams/
+no-code-development,Pega Certification,Pega Portal - The Complete Pega Developer Course - Demo,모든 수준,무료,,,,영어,https://www.udemy.com/course/pega-portal-the-complete-pega-developer-course-demo/
