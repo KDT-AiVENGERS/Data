@@ -1,0 +1,652 @@
+대분류,소분류,강의명,난이도,가격(현재가격),가격(원래가격),총소요시간,강의소개,언어,출처
+programming-languages,Python,김왼손의 유기농냠냠파이썬: 세시간만에 끝내는 파이썬 (Python) 기초,초급자,무료,,온디맨드 동영상 2시간 58분,"파이썬의 기초를 쉽게 배울 수 있습니다.
+파이썬이 뭔지, 프로그래밍이 뭔지 감을 잡게 됩니다.
+혼자서도 프로그래밍을 공부할 수 있는 법을 배웁니다.
+다음 단계를 위한 준비를 할 수 있습니다.
+컴퓨터처럼 문제를 해결하는 방법을 배웁니다.
+나도 할 수 있다는 자신감을 얻게 됩니다.",한국어,https://www.udemy.com/course/unp_python/
+programming-languages,C (programming language),C언어 기초 프로그래밍 강좌 (C Programming Tutorial),초급자,무료,,온디맨드 동영상 4시간 21분,C언어의 기본 이론과 기초 프로그래밍,한국어,https://www.udemy.com/course/c-programming-basic/
+programming-languages,C (programming language),C 프로그래밍 - 입문부터 게임 개발까지,초급자,무료,,온디맨드 동영상 6시간 36분,"C 프로그래밍 기초 마스터 + 9가지 실전 게임을 제작합니다. 언어를 배우는 것은 생각보다 지루할 수 있어서 매 섹션마다 강의에서 배운 내용을 토대로 직접 게임을 만듭니다. 프로젝트라는 무거운 주제를 정말 쉽게 다루어서 누구나 강의 수강 후에는 자신만의 게임을 만들 수 있게 됩니다. 지금까지 없던 아주 쉬운 코딩 강의, 바로 만나보세요 ^^",한국어,https://www.udemy.com/course/nadocoding-c/
+programming-languages,JavaScript,[생활코딩] WEB - 자바스크립트(JavaScript) 기초 #1,초급자,무료,,온디맨드 동영상 1시간 26분,"Javascript 수업의 목적
+HTML 태그와 Javascript
+CSS 선택자
+자바스크립트",한국어,https://www.udemy.com/course/web-javascript-1/
+programming-languages,Java,[생활코딩] 자바(JAVA) 입문 #1,초급자,무료,,온디맨드 동영상 1시간 56분,"Java 입문 A to Z
+Java 설치하는 방법
+Java 실행
+Java 기술의 응용
+데이터와 연산
+숫자와 연산
+변수",한국어,https://www.udemy.com/course/java-1-d/
+programming-languages,JavaScript,[생활코딩] WEB - 자바스크립트(JavaScript) 기초 #2,초급자,무료,,온디맨드 동영상 1시간 19분,"프로그램, 프로그래밍, 프로그래머 구분
+조건문과 반복문
+배열과 반복문
+리팩토링(refactoring)",한국어,https://www.udemy.com/course/web-javascript-2/
+programming-languages,Software Practices,클린 코드,모든 수준,무료,,온디맨드 동영상 1시간 33분,"Java, Python, C++ 언어로 작성 된 코드를 선정하여 분석
+Java, Python, C++ 언어로 작성 된 코드의 리팩토링 방향성 소개
+클린 코드 관점에서 코드 작성하는 법
+실제 프로그래밍 과정에서 궁금했던 문제 해결",한국어,https://www.udemy.com/course/yeipvrxp/
+programming-languages,Python,[생활코딩] 파이썬(Python) 입문,초급자,무료,,온디맨드 동영상 1시간 35분,"파이썬 설치 방법
+파이썬 실행 방법
+데이터 타입
+변수/디버깅/입력,출력
+PyPi",한국어,https://www.udemy.com/course/python-md/
+programming-languages,Java,[생활코딩] 자바(JAVA) - Method,초급자,무료,,온디맨드 동영상 46분,"메소드의 기본 형식
+메소드의 입력 값
+메소드의 출력
+메소드의 활용",한국어,https://www.udemy.com/course/java-method/
+programming-languages,JavaScript,[생활코딩] WEB - 자바스크립트(JavaScript) 기초 #3,초급자,무료,,온디맨드 동영상 1시간 38분,"함수와 활용
+객체와 활용
+라이브러리와 프레임워크
+파일로 쪼개서 정리 정돈하기",한국어,https://www.udemy.com/course/web-javascript-3/
+programming-languages,Python,파이썬 학습 로드맵 라이브 세션 1부,모든 수준,무료,,온디맨드 동영상 1시간,"전체 개발자 생명 주기별로 고민해 보는 파이썬
+파이썬 학습 과정에서 꼭 거쳐야할 로드맵
+클린 코드 관점에서 보는 파이썬
+실제 파이썬 프로그래밍 과정에서 궁금했던 문제 해결",한국어,https://www.udemy.com/course/1-xcwewd/
+programming-languages,Python,[생활코딩] WEB - Python 기초 #1,초급자,무료,,온디맨드 동영상 1시간 59분,"Python을 배워야 하는 이유
+실습 셋팅 - Linux & Codeanywhere
+실습 셋팅 - Windows
+실습 셋팅 - MacOS",한국어,https://www.udemy.com/course/web-python-1/
+programming-languages,Java,[생활코딩] 자바(JAVA) 객체 지향 프로그래밍,모든 수준,무료,,온디맨드 동영상 1시간 24분,"변수와 메소드
+클래스의 형식
+인스턴스/static/생성자와 this
+클래스와 인스턴스의 활용",한국어,https://www.udemy.com/course/java-vev/
+programming-languages,Python,파이썬 학습 로드맵 라이브 세션 2부,모든 수준,무료,,온디맨드 동영상 1시간 8분,"전체 개발자 생명 주기별로 고민해 보는 파이썬
+파이썬 학습 과정에서 꼭 거쳐야할 로드맵
+클린 코드 관점에서 보는 파이썬
+실제 파이썬 프로그래밍 과정에서 궁금했던 문제 해결",한국어,https://www.udemy.com/course/2-updyvb/
+programming-languages,Python,[생활코딩] WEB - Python 기초 #2,초급자,무료,,온디맨드 동영상 2시간,"파이썬 기본 문법
+데이터 타입과 활용
+제어문과 조건문
+조건에 반응하는 앱 만들기",한국어,https://www.udemy.com/course/web-python-2/
+programming-languages,Java,Java Multithreading,모든 수준,무료,,온디맨드 동영상 2시간 58분,"Understand Java multi-threading
+Be able to write effective muli-threaded code",영어,https://www.udemy.com/course/java-multithreading/
+programming-languages,MySQL,Beginner PHP and MySQL Tutorial,모든 수준,무료,,온디맨드 동영상 10시간 42분,"How to download and install PHP and MySQL tools and frameworks onto a server and home machine.
+How to configure relevant setting to match the needs of your project.
+How to work between a user interface and a database back-end that stores critical information.
+How to plan and apply PHP and MySQL to specific examples and finally your own real world projects.",영어,https://www.udemy.com/course/php-mysql-tutorial/
+programming-languages,Java,Java Programming Basics,초급자,무료,,온디맨드 동영상 2시간 48분,"Create Java programs from scratch
+Break a large problem into smaller pieces that you can implement
+Debug a program and understand how code gets executed",영어,https://www.udemy.com/course/java-programming-basics/
+programming-languages,Shell Scripting,Intro to Linux Shell Scripting (Free course),초급자,무료,,온디맨드 동영상 42분,After you complete this course you will understand the basics of writing a shell script.,영어,https://www.udemy.com/course/linux-shell-scripting-free/
+programming-languages,Eclipse IDE,Eclipse IDE for Beginners: Increase Your Java Productivity,초급자,무료,,온디맨드 동영상 1시간 1분,"Install the Eclipse IDE on their own computer
+Create a Java application with Eclipse
+Customize the Eclipse user interface
+Generate Java Source Code using Eclipse Wizards
+Refactor and Debug Java Source Code
+Run JUnit Tests
+Import and Export Projects
+Add External JAR files to your Eclipse Project",영어,https://www.udemy.com/course/luv2code-eclipse-ide-for-beginners/
+programming-languages,Python,Learn Python for Total Beginners,초급자,무료,,온디맨드 동영상 5시간 36분,"What lists, tuples and dictionaries are, and how to use them
+How to apply control flow (logic) to code
+Create and implement functions
+How to use for loops and while loops
+How to format strings
+Work with txt files",영어,https://www.udemy.com/course/python-3-for-total-beginners/
+programming-languages,C# (programming language),Fundamentals of Programming: Understanding C#,모든 수준,무료,,온디맨드 동영상 10시간 20분,"Create computer applications to solve basic problems
+Apply concepts of objected oriented programming",영어,https://www.udemy.com/course/understandingc/
+programming-languages,Java,Object Oriented Programming (OOPs) for JAVA Interviews,모든 수준,무료,,온디맨드 동영상 13시간 6분,Student can get much perfection on Java OOPs concepts,영어,https://www.udemy.com/course/object-oriented-programming-oops-for-java-certification/
+programming-languages,Computer Vision,Learn Computer Vision with OpenCV Library using Python,초급자,무료,,온디맨드 동영상 1시간 11분,"Learn how to use the OpenCV library
+Build you own image face detection program
+Learn different tools used in image processing
+Learn how to use different tools of image filtering with the OpenCV library",영어,https://www.udemy.com/course/pythoncv/
+programming-languages,Python,Python For Beginners,모든 수준,무료,,온디맨드 동영상 3시간 55분,"Acquire the prerequisite Python skills to move into specific branches - Data Science(Machine Learning/Deep Learning) , Big Data , Automation Testing, Web development etc..
+Have the skills and understanding of Python to confidently apply for Python programming jobs.",영어,https://www.udemy.com/course/python-for-every1/
+programming-languages,Web Scraping,Learn Web Scraping with Python from Scratch,초급자,무료,,온디맨드 동영상 31분,"Installing Python Web Scraping libraries, BeautifulSoup & Requests.
+Extracting URLs from a webpage.
+Scraping text data from a webpage.
+Crawling multiple webpages and scraping data from each of them.
+Handling navigation links and move to next pages.
+Saving scraped data into a CSV file with Pandas.
+Overview about other popular web scraping frameworks.",영어,https://www.udemy.com/course/web-scraping-python-tutorial/
+programming-languages,Optimization Problem,Particle Swarm Optimization in MATLAB,모든 수준,무료,,온디맨드 동영상 1시간 21분,"Undertand what is Particle Swarm Optimization (PSO) and how it works
+Implement PSO in MATLAB from scratch
+Improve the PSO using Constriction Coefficients
+Solve optimization problems using PSO",영어,https://www.udemy.com/course/pso-in-matlab/
+programming-languages,Python,Python 3 in 100 Minutes,초급자,무료,,온디맨드 동영상 4시간 11분,"Variables and data types & Comparison operators
+For and while loops & Functions
+Logical Operators & Conditional statements (If-else)
+Fundamentals of Python Programming",영어,https://www.udemy.com/course/python-3-in-100-minutes/
+programming-languages,Java,Java for Noobs,초급자,무료,,온디맨드 동영상 4시간 28분,"Confidently Program in Java
+Learn Object Oriented Programming Concepts
+Learn the Essentials of programming in a Static Typed Language
+Problem Solve using Java",영어,https://www.udemy.com/course/java-for-noobs-beginners/
+programming-languages,Java,Java for total beginners - Easy-to-follow Java programming,초급자,무료,,온디맨드 동영상 1시간 44분,"Essential programming basics
+How to think like a programmer
+Writing basic Java programs
+You will also learn that learnig Java can be fun",영어,https://www.udemy.com/course/easy-to-follow-java-programming/
+programming-languages,MATLAB,MATLAB Basics for Beginners - Learn from Top Experts,초급자,무료,,온디맨드 동영상 2시간 10분,"Working Knowledge of MATLAB
+Customize MATLAB to Your Preferences
+Perform Various Arithmetic Operations with MATLAB
+Understanding of Vectors
+Understanding of Matrices
+Basic Data Visualization
+Basic Conditional Statements - If/Else
+Basic Loops
+Basic Functions",영어,https://www.udemy.com/course/matlab-basics-for-beginners-learn-from-top-experts/
+programming-languages,SAP ABAP,Abap coding for beginners with tricks and examples,모든 수준,무료,,온디맨드 동영상 2시간 39분,"Navigate through Abap workbench
+Good usage of Abap editor
+Write simple codes
+Take your first steps to become a good ABAP programmer",영어,https://www.udemy.com/course/abap-coding-for-beginners-with-tricks-and-examples/
+programming-languages,C++ (programming language),Beginning C++ Templates,초급자,무료,,온디맨드 동영상 1시간 16분,"Understand the syntax of function templates & classes
+Understand the inner working of templates
+Understand & implement generic algorithms and classes",영어,https://www.udemy.com/course/beg-cpp-temp/
+programming-languages,C# (programming language),Programming Fundamentals - The Basics with C# for Beginners,초급자,무료,,온디맨드 동영상 2시간 1분,"Learn the fundamentals of C# and .NET Framework
+Work with Primitive Data Types
+Work with the Console
+Control the flow of code execution by using Conditional Statements (if/else, if/else if/else, switch)
+How to Use Loops",영어,https://www.udemy.com/course/programming-fundamentals-the-basics-with-c-for-beginners/
+programming-languages,Java,"String, StringBuffer & StringBuilder for JAVA Interviews",모든 수준,무료,,온디맨드 동영상 5시간 11분,"Student can get much perfection on Java String , StringBuffer and StringBuilder concepts",영어,https://www.udemy.com/course/string-stringbuffer-stringbuilder-for-java-certification/
+programming-languages,Python,Python Best Parts: Standard Library (Beginner to Advanced),모든 수준,무료,,온디맨드 동영상 33분,"Students will be familiar with great programming concepts
+Students will be able to write clean, concise, beautiful code
+Students know the most useful parts of python",영어,https://www.udemy.com/course/best-top-python-3-advanced-programming-basics-for-beginners/
+programming-languages,Java,Java for Noobs: Go from Noob to Semi-Noob,초급자,무료,,온디맨드 동영상 4시간 53분,"Program in Java
+Learn how to research to further their skills beyond this course",영어,https://www.udemy.com/course/java-for-noobs-go-from-noob-to-semi-noob-noob-coder/
+programming-languages,Programming Fundamentals,Coding Essentials - Logic Building for Beginners,초급자,무료,,온디맨드 동영상 1시간 59분,"Understand the building blocks of programming
+Concepts before you start learning programming languages and advanced topics
+Identify how to break down a problem statement & build logical thinking mindset
+Learn to illustrate the steps required to solve a problem",영어,https://www.udemy.com/course/learn-coding-for-beginners/
+programming-languages,Java,Specialization in Java: Part I - For Beginners.,초급자,무료,,온디맨드 동영상 2시간 9분,"Gain basic programming concepts like variables, operators, control statements(like ifelse and switch), etc.
+Get the basics of Java Required for Android Development.
+Develop beginner level programs in Java.",영어,https://www.udemy.com/course/specialization-in-java-part-i-for-beginners/
+programming-languages,Sass,Sass For the Beginners Course - Let's go ahead,모든 수준,무료,,온디맨드 동영상 49분,"How to Setup the Sass
+Variables
+Partials
+Mixins
+Imports
+Extends
+Operators
+nesting
+and More...",영어,https://www.udemy.com/course/sass-for-the-beginners/
+programming-languages,Java,Java Programming Fundamentals,초급자,무료,,온디맨드 동영상 55분,"Develop your programming skill by practicing coding excercises
+Improve your logical thinking",영어,https://www.udemy.com/course/java-programming-fundamentals/
+programming-languages,Java,Java 8 Interview Preparation,모든 수준,무료,,온디맨드 동영상 31분,"Java 8 Interview Questions
+Function Interface
+Lambda Expression
+Stream API
+Optional
+String Joiner",영어,https://www.udemy.com/course/java-8-interview-preparation/
+programming-languages,Java,Java: Socket Programming Simplified,초급자,무료,,온디맨드 동영상 1시간 47분,"Get deep insights about single threaded and multi-threaded client/server communication using TCP/IP
+Understand UDP, HTTP and understand working of HTTPServer using a Mock Server.
+Build simple peer-to-peer chat and group chat apps.",영어,https://www.udemy.com/course/java-socket-programming-by-sagar/
+programming-languages,Python,Introduction To Programming with Python,초급자,무료,,온디맨드 동영상 2시간 17분,"They will be able to think and code with some real world applications in python.
+simple calculator, Scientific calculator, management System, grading System and much more
+Students will know about the easy ways of learning code.",영어,https://www.udemy.com/course/introduction-to-programming-with-python-beginners-course/
+programming-languages,Java,Java Exception Handling For Certification & Interviews,모든 수준,무료,,온디맨드 동영상 10시간 10분,Student can get much perfection on Java Exception Handling Concept,영어,https://www.udemy.com/course/java-exception-handling-for-certification-interviews/
+programming-languages,Java,Java OOP Basics,중급자,무료,,온디맨드 동영상 1시간 59분,"Basics of Object Oriented Programming in Java
+Class, Objects, Constructors, Method Overloading
+Inheritance, Overriding Members, A Basic Banking Application",영어,https://www.udemy.com/course/java-oop-basics/
+programming-languages,Python,Python Programming Fundamentals,초급자,무료,,온디맨드 동영상 2시간 55분,"Learn Python 3 and be able to code
+Learn to use Jupyter Python notebook
+Learn to setup Python/Anaconda environment
+Learn to access cloud based Python Notebook
+Learn to use Jupyter notebook
+Acquire the pre-requisite Python skills to build a base for machine learning, data science and web development.
+Learn Object Oriented Programming in Python in detail",영어,https://www.udemy.com/course/the-complete-python-programming-course/
+programming-languages,Python,The Art of Doing: Master the Basics of Python GUIs!,초급자,무료,,온디맨드 동영상 1시간 56분,"The basics of Python GUI's with Tkinter.
+How to create and edit GUI windows.
+How to work with widgets such as the label, button, entry, and radio button widget.
+How to use layout managers such as pack and grid.
+How to optimize app layouts using frames.
+How to use various image files such as png and jpg with Tkinter.",영어,https://www.udemy.com/course/the-art-of-doing-master-the-basics-of-python-guis/
+programming-languages,Scala,Scala Programming Mini Boot camp For Beginner,초급자,무료,,온디맨드 동영상 1시간 3분,"Basic Concepts of Scala Programming in Easy Way
+Advance Scala Technologies
+After completing this tutorial, you will find yourself at a moderate level of expertise in using Scala from where you can take yourself",영어,https://www.udemy.com/course/scala-programming-complete-mini-boot-camp-beginner-to-advance/
+programming-languages,Swift,Swift Programming For Beginners - No Programming Experience,초급자,무료,,온디맨드 동영상 7시간 13분,Write basic swift codes and develop iPhone apps,영어,https://www.udemy.com/course/swift-programming-for-beginners-no-experience/
+programming-languages,Swift,The Complete Swift 4 Bootcamp,초급자,무료,,온디맨드 동영상 1시간 41분,"Know all the basics of Swift 4
+Understand variables and data types
+Write conditional statements and loops
+Create their own classes and data structures
+Write their own programs in Swift",영어,https://www.udemy.com/course/learnswift/
+programming-languages,C (programming language),C - Fast Crash Course - Introduction,모든 수준,무료,,온디맨드 동영상 2시간 29분,Students will learn the funfamentals of the C programming language,영어,https://www.udemy.com/course/c-fast-crash-course-introduction/
+programming-languages,JSON,Jackson Quick Start : JSON Serialization With Java Made Easy,초급자,무료,,온디맨드 동영상 36분,"Seriarization of Java objects into JSON using Jackson
+De-serialization of JSON into Java objects using Jackson
+How to avoid de-serialization errors
+How to resolve naming mismatches between JSON and Java
+How to use Jackson to produce human-readable JSON",영어,https://www.udemy.com/course/jackson-json-serialization-with-java/
+programming-languages,Swift,Learn Swift Series (2019),초급자,무료,,온디맨드 동영상 3시간 11분,The Swift Programming Language,영어,https://www.udemy.com/course/learn-swift-series-2019/
+programming-languages,Python,Python for Absolute Beginners,초급자,무료,,온디맨드 동영상 1시간 55분,"Programming Fluently in Python
+Understand the Basics of Computer Science concepts
+Setup Developer Environment
+Learn how to Code through Practical Examples",영어,https://www.udemy.com/course/python-from-scratch/
+programming-languages,Python,Python API for Trading,초급자,무료,,온디맨드 동영상 1시간 30분,"How to trade and view market data using the Python TWS API.
+Installing & Configuring TWS for the API, Receiving Market Data and Historical Candlesticks, Placing Orders, Option Chains, Accessing Portfolio Data",영어,https://www.udemy.com/course/python-api-for-trading/
+programming-languages,Scala,Scala at Light Speed,중급자,무료,,온디맨드 동영상 1시간 59분,"Scala fundamentals
+Object-oriented principles in Scala
+Functional programming principles in Scala
+Managing threads
+Foundations of implicits",영어,https://www.udemy.com/course/fast-scala/
+programming-languages,JavaScript,JavaScript Learn JavaScript Quick Course Beginners,모든 수준,무료,,온디맨드 동영상 1시간 15분,"JavaScript Fundamentals
+Applying JavaScript in a project Game
+Core JavaScript Skills",영어,https://www.udemy.com/course/javascript-learn/
+programming-languages,R (programming language),Learn R Quickly,초급자,무료,,온디맨드 동영상 52분,"Learn one of the most important programming languages for Data Science and Statistics
+This will prepare you for my course in Programming Machine Learning Algorithms from Scratch with R
+Go from novice to intermediate programmer in R
+Get the free software you need to program in R",영어,https://www.udemy.com/course/learn-r-quickly/
+programming-languages,API,Create Java API's fast and simple,초급자,무료,,온디맨드 동영상 1시간 46분,"Students will be able to create an Java based API end point.
+Students will understand technology for API's, REST, JSON and how to integrate into a Java server.
+Students will understand how to create an API that connects with MongoDB",영어,https://www.udemy.com/course/create-java-apis-fast-and-simple/
+programming-languages,Java,Java Programming(Files):basics for beginners,모든 수준,무료,,온디맨드 동영상 35분,"lifetime access to all videos in this course
+you will be able to understand about files in java",영어,https://www.udemy.com/course/java-files/
+programming-languages,Python,Introduction to Programming with Python,초급자,무료,,온디맨드 동영상 1시간 1분,"Begin learning how to code and immerse yourself into the concepts of coding
+Learn the basics of Python programming
+Be able to write code and programs in Python
+Build a mini calculator with Python programming at the end of the course (you will write your first real program, something to be proud of!)
+At the end, you'll be more confident in your overall understanding of how programming works",영어,https://www.udemy.com/course/introduction-to-programming-with-python/
+programming-languages,Git,A Gentle Introduction to Git - by SuperSimpleDev,초급자,무료,,온디맨드 동영상 34분,"Learn Git by through a real-world example: Recreating the ""version history"" feature of Google Docs and Microsoft Word.
+Install Git and learn the basic concepts of commits, staging area, and version history.
+Get comfortable creating a version history for your code using Git.
+Learn view previous versions of your code and restore a previous version in case you mess up!",영어,https://www.udemy.com/course/supersimpledev-git-course-1/
+programming-languages,JavaScript,Fundamentals of Functional JavaScript,모든 수준,무료,,온디맨드 동영상 1시간 33분,"Core concepts of JavaScript Functions
+Core concepts of Functional Programmming",영어,https://www.udemy.com/course/fundamentals-of-functional-javascript/
+programming-languages,Python,Introduction to the Discrete Fourier Transform(Python)(FREE),모든 수준,무료,,온디맨드 동영상 1시간 58분,"understand the math behind the Discrete Fourier Transform(DFT), one of the most useful formulas in applied math and computer science.
+gain a deeper appreciation for the DFT by applying it to simple applications using Python
+be able to mathematically and programmatically determine note/chord of a sound file using the DFT in Python
+understand the basics of digital audio
+be able to filter out noise from a sound file using Python
+be able to understand the basics of sound compression and filtering
+understand the difference between time domains vs. frequency domains of digital signals
+implement your own version of the Discrete Fourier Transform in Python and compare it to the efficient Fast Fourier Transform
+understand why the DFT works
+understand the DFT from the geometric viewpoint via the inner product
+be able to programmatically play sounds from .txt and .wav files
+understand the basics of sounds, music theory, physics of sounds",영어,https://www.udemy.com/course/introduction-to-the-discrete-fourier-transform-with-python/
+programming-languages,Pandas,Pandas Bootcamp 2022: Complete Pandas Walkthrough,중급자,무료,,온디맨드 동영상 1시간 56분,"Learn Pandas based on NEW Version 1.x (the days of versions 0.x are over)
+Analyze, visualize, and understand your Data with Pandas
+Learn and master important Statistical Concepts with Pandas
+Learn and master the most important Pandas workflows for Data Science",영어,https://www.udemy.com/course/pandas-bootcamp-2022-complete-pandas-walkthrough/
+programming-languages,C# (programming language),What is New in C# 8,중급자,무료,,온디맨드 동영상 1시간 53분,"Implementing default interface methods
+Working with nulls in C# 8
+How to use null-coalescing assignment operator
+Understand work of IDisposable interface
+Make use of using declaration
+Trying disposable ref structs
+Building new switch expressions
+Using property patterns to match on properties
+Using tuple like patterns on switch statements
+Learn how to use deconstruction methods
+Understanding and working with positional patterns
+Readonly Members
+Static Local Functions
+Asynchronous Streams
+Verbatim Interpolated Strings
+Using hat operator
+Working with new range operator",영어,https://www.udemy.com/course/what-is-new-in-c-sharp/
+programming-languages,MATLAB,Introduction to MATLAB for Complete Beginners,모든 수준,무료,,온디맨드 동영상 1시간 46분,"Develop essential level skills of Programming with MATLAB
+Working with M-Files, Functions and Scripts
+You are fully able to start your own engineering and technical projects worked at University or College
+Create a portfolio of MATLAB to apply for MATLAB jobs
+Gain Hands-On experience with MATLAB for visualizing, analyzing and formulating essential problems using MATLAB programming skills",영어,https://www.udemy.com/course/introduction-to-matlab-for-complete-beginners/
+programming-languages,Python,Python with AI,초급자,무료,,온디맨드 동영상 2시간,"Get started with Python programming
+Understand Python fundamentals such as print, input, data conversion, if statement
+Programming with confidence
+Be ready to learn advanced Python programming",영어,https://www.udemy.com/course/pythonwithai/
+programming-languages,C# (programming language),Fixing common errors in Unity C#,초급자,무료,,온디맨드 동영상 1시간 20분,"Discover the most common types of C# errors
+Learn how to fix common errors
+Discover how to debug a script
+Look at both syntax and logic errors",영어,https://www.udemy.com/course/fixing-common-errors-in-unity-c/
+programming-languages,Swift,Functions and Closures in Swift,초급자,무료,,온디맨드 동영상 1시간 45분,"Become familiar with functional features in Swift
+Write more declarative and eloquent code
+Become very comfortable with functions and closures in Swift
+Create your own module or framework with some utility functions",영어,https://www.udemy.com/course/functional-programming-in-swift/
+programming-languages,Object Oriented Programming,Object Oriented Programming with Java: Complete beginners,초급자,무료,,온디맨드 동영상 1시간 55분,"Know the basics of Java programming
+Have a strong foundational understanding of Object Oriented Programming
+Be able to write programs with classes, constructors, and methods in Java
+Clear up confusion about the basic concepts of Object Oriented Programming
+Clear up confsuion about basic coding concepts",영어,https://www.udemy.com/course/object-oriented-programming-with-java-complete-beginners/
+programming-languages,Python,Using AWS S3 with Python,초급자,무료,,온디맨드 동영상 1시간 10분,"Introduction to S3 technology
+Learn the AWS Console
+Setup authentication to work with AWS
+Work with S3 using Python
+Create and manage S3 content using Python",영어,https://www.udemy.com/course/using-aws-s3-with-python/
+programming-languages,Python,Introduction to Python Programming,초급자,무료,,온디맨드 동영상 2시간,"Python Programming
+Functional Programming
+Object Oriented Programming
+Best Programming Practices
+Hands on Programming",영어,https://www.udemy.com/course/introduction-to-python-programming-x/
+programming-languages,Python,The Art of Doing: Fundamental Socket Python Programming,초급자,무료,,온디맨드 동영상 1시간 59분,"Networking Fundaments such as IP and port addresses, IPV4, TCP, and UDP protocols
+How to use the socket module to create an IPV4/TCP client/server python
+How to use the socket module to create an IPV4/UDP client/server in python
+How to use the socket module to create a basic two way chat in the terminal in python
+An introduction to the threading module",영어,https://www.udemy.com/course/the-art-of-doing-fundamental-socket-python-programming/
+programming-languages,Java,Java for Beginners,초급자,무료,,온디맨드 동영상 1시간 53분,"Java basics
+Android Basics",영어,https://www.udemy.com/course/learn-java-in-the-context-of-android-developmentjava-basics/
+programming-languages,GameMaker Studio,Maze Games in GameMaker,초급자,무료,,온디맨드 동영상 2시간 57분,"Students can create a new game with GameMaker Studio
+Students can create a Character for their game
+Students program their Character to move
+Students can explain the difference between a Sprite, Object and Room in GameMaker
+Students can explain the difference between an Event and an Action in GameMaker
+Students can explain how Fixed Movement, Keyboard Events and the No Key Event are used together to create Maze Game Character movement in GameMaker
+Students can explain how the Step Event works and how it can be used to ask Questions from the game.
+Student can create a Wall Object for their game
+Students program a Character to be constrained by Wall Objects
+Students can explain how Collisions work in GameMaker
+Students use questions and (if-else) statements to ensure alignment in positioning
+Students will configure parent-child relationships between objects
+Students create groups for your sprites and objects to organise them
+Students create health functionality and health bar displays in a Game Maker room
+Students create multiple GameMaker rooms and the conditions which make the hero move from one room to another
+Students use nested If Statements to test or create more advanced decision making
+Students use Parent Child Relationships in the creation of many variations of monsters and gems
+Students use sequences of sprite to create animations for movement and explosions",영어,https://www.udemy.com/course/maze-games-in-gamemaker/
+programming-languages,C++ (programming language),C++ Fundamentals and Beyond:a detailed introduction and more,초급자,무료,,온디맨드 동영상 1시간 59분,"Learn the basics of C++ programming
+Be able to write functional C++ programs
+Feel confident in your understanding of C++
+Learn about more complex concepts in C++ as well",영어,https://www.udemy.com/course/c-fundamentals-m/
+programming-languages,JSON,Essential Secrets of JSON,모든 수준,무료,,온디맨드 동영상 53분,Students will get to know about JSON format,영어,https://www.udemy.com/course/essential-secrets-of-json/
+programming-languages,Assembly Language,Introduction to Assembly Programming with ARM,초급자,무료,,온디맨드 동영상 1시간 55분,"Understand the basics of ARM emulation and program structure
+The fundamentals of register, stack, and memory addressing modes
+The concepts of arithmetic and logical operators
+The main concept of branches, loops, and subroutine branches
+The ways to interact with simple hardware devices",영어,https://www.udemy.com/course/introduction-to-assembly-programming-with-arm/
+programming-languages,JavaScript,JavaScript Arrays and Objects Basic Data Structures,모든 수준,무료,,온디맨드 동영상 1시간 1분,"How to apply JavaScript code
+Learn more about using Array methods
+How to get values from an array
+How to manipulate array contents",영어,https://www.udemy.com/course/javascript-coding/
+programming-languages,C++ (programming language),Competitive programming basics for beginners using C++,초급자,무료,,온디맨드 동영상 1시간 12분,"Basic competitive programming concepts
+Important algorithms with time complexity
+Coding tips and shortcuts
+Coding implementation of all basic concepts
+C++ Standard Template Library",영어,https://www.udemy.com/course/competitive-programming-basics-cplusplus/
+programming-languages,Python,Python Tutorial - Python for Beginners,모든 수준,무료,,온디맨드 동영상 31분,"Have a fundamental understanding of the Python programming language.
+Build a complete understanding of Python from the ground up!",영어,https://www.udemy.com/course/learn-python-programming-one-stop-solution-for-beginners/
+programming-languages,PHP,The Wizardly world of Php Magic Methods,중급자,무료,,온디맨드 동영상 33분,"Php Magic Methods
+Invoke Magic Method
+Php Call Magic Method
+Php CallStatic Magic Method",영어,https://www.udemy.com/course/the-wizardly-world-of-php-magic-methods/
+programming-languages,Algorithms,USACO Silver Java Course - Part 1,중급자,무료,,온디맨드 동영상 1시간 57분,"Sorting with built-in functions
+Sorting user-defined objects
+Sorting for problem-solving",영어,https://www.udemy.com/course/usaco-silver-java-course-part-1/
+programming-languages,Algorithms,USACO Silver C++ Course - Part 1,중급자,무료,,온디맨드 동영상 1시간,"STL Sort Function and Comparator
+Structures and Sorting
+Sorting Problem-Solving Techniques
+Time Complexity",영어,https://www.udemy.com/course/usaco-silver-c-course-part-1/
+programming-languages,AP Computer Science,AP Computer Science A - Part 1,초급자,무료,,온디맨드 동영상 1시간 56분,"Gain a firm grasp on the basics of the Java programming language by learning about variables, data types, operators, and operations.
+Learn how to instantiate, call, and use objects (including the String datatype).
+Learn to utilize booleans and boolean expressions, especially in the context of if statements in order to modify a program’s control flow.
+Acquire the skills necessary to manually traverse iterative statements, including for loops and while loops (this is an imperative skill for the exam).",영어,https://www.udemy.com/course/ap-computer-science-a-part-1/
+programming-languages,MATLAB,Matlab for scientists: a beginners course,초급자,무료,,온디맨드 동영상 1시간 35분,"You will be able to explore and visualize your data using linegraphs, barplots, etc.
+You will be able to adjust your data to your needs (load data, change data values, create dummy data, etc.).
+You will be able to extract important summaries of your data (mean, variance, median, etc.).
+You will be able to apply fundamental Matlab functions (for-loops, if-statements).
+You will be able to differentiate vectors, matrices, cells, and structures. Besides, you will know their individual benefits.",영어,https://www.udemy.com/course/matlab-for-scientists-a-beginners-course/
+programming-languages,Python,"Python, a simple, FREE 2023 guide to learning with problems!",모든 수준,무료,,온디맨드 동영상 30분,"Translate English into Python!
+Solving problems by turning words and putting together a simple step by step or line by line solution
+Students will have mastered fundamentals of the Python language including loops, if conditions and variables!
+Students will further develop logical reasoning skills and will ultimately have fun (My personal goal for all students)",영어,https://www.udemy.com/course/python-2023/
+programming-languages,JavaScript,Master JavaScript Array - Ministry of JavaScript,모든 수준,무료,,온디맨드 동영상 36분,"You will be able to learn that what are Arrays in JavaScript
+You can be able to perform any action with Arrays in JavaScript
+You will master the coding interviews wrt Arrays
+You will get to know the useful methods of Arrays which are being used in JavaScript development.",영어,https://www.udemy.com/course/master-javascript-array/
+programming-languages,Python Game Development,Python Course - Doing Crossing Road Game with Turtle Module,모든 수준,무료,,온디맨드 동영상 50분,"You will be able to do games by using Turtle Module.
+You can use ""class"" to make projects.
+Learn how to write your own Python programs.
+Be confident in your Python programming abilities and knowledge so that you may apply for Python programming jobs.
+Use Python to make your daily life easier.
+You will learn Turtle Module very well.",영어,https://www.udemy.com/course/python-course-doing-crossing-road-game-with-turtle-module/
+programming-languages,LangChain,Python CLI Chat Using Langchain,초급자,무료,,온디맨드 동영상 59분,"Interact with Large Language Models using Python.
+Learn the basics of setting up a prompt for LLM's.
+Use agents to get current information through tools we define to assist our LLM.
+Add memory to a LLM so it is able to have context.",영어,https://www.udemy.com/course/python-cli-chat-using-langchain/
+programming-languages,Object Oriented Programming,Intro to Object Oriented Programming with Java,초급자,무료,,온디맨드 동영상 1시간 10분,"Learn the fundamentals of Object Oriented Programming
+Complete Coding exercises tailored to practice what you learn
+Apply key concepts of Object Oriented Programming to Code and Projects!
+Learn enough to get you started coding in Java and building applications
+Work with Data and build complex objects/classes to solve complex problems",영어,https://www.udemy.com/course/intro-to-object-oriented-programming-with-java/
+programming-languages,Jupyter Notebook,Learn Jupyter Notebooks for Beginners,초급자,무료,,온디맨드 동영상 1시간 27분,"What are Jupyter Notebooks
+How to Install Jupyter Notebooks
+How to use Jupyter Notebooks in their projects
+How to run Python Codes in Jupyter Notebooks
+How to add Images in Jupyter Notebooks
+How to add Videos in Jupyter Notebooks
+What is Replit
+How to Register to Replit
+How to run your Python codes on Replit
+What is Google Colab
+How to run your python codes on Google Colab
+What is Anaconda Distribution
+How to Install Anaconda Distribution
+Learn The Basics of Markdown and use it in Jupyter Notebooks",영어,https://www.udemy.com/course/learn-jupyter-notebooks-for-beginners/
+programming-languages,Programming Fundamentals,AP Computer Science A - Part 2,초급자,무료,,온디맨드 동영상 1시간 43분,"Learn about iteration in Java, including the use of while loops, for loops, and nested iteration
+Gain the skills necessary to understand the structure of a Java class, including class constructors, static variables and methods, comments, and more
+Learn how to create and traverse Arrays and ArrayLists, including how to traverse them with enhanced loops
+Learn basic and advanced fundamentals of Java",영어,https://www.udemy.com/course/ap-computer-science-a-part-2/
+programming-languages,Data Analysis,Basics of Plotly for Data Analysis & Data Science,초급자,무료,,온디맨드 동영상 1시간 53분,"Learn about Essentials of Plotly to create plots like Bar Charts, Line Charts, Scatter Plots, Histogram ,distribution plots , and more!
+How to Create Layouts with Plotly's Dash library.
+How to Deploy your interactive dashboards
+Learn styling in Plotly",영어,https://www.udemy.com/course/plotly_real_world_projects_for_data-analysis_data-science/
+programming-languages,Matplotlib,Introduction to Matplotlib for Complete Beginners,초급자,무료,,온디맨드 동영상 1시간 53분,"Develop essential level skills of Programming with Matplotlib
+Plotting Data and Visualization in Matplotlib
+You are fully able to start your own engineering and technical projects worked at University or College
+Create a portfolio of Matplotlib to apply for Data Analysis jobs
+Gain Hands-On experience with Matplotlib for visualizing, analyzing and formulating essential problems using Matplotlib programming skills",영어,https://www.udemy.com/course/introduction-to-matplotlib-for-complete-beginners-chapter/
+programming-languages,Functional Programming,Functional Programming with Origami,중급자,무료,,온디맨드 동영상 46분,"Elements of Functional Programming
+Functors and Monads
+Return, Map, Bind, and Pipe
+Partial and Total Functions
+Effectual Types",영어,https://www.udemy.com/course/functional-programming-with-origami/
+programming-languages,JDBC,Everything you need to know about JDBC,초급자,무료,,온디맨드 동영상 1시간 30분,"JDBC Architecture and API
+Setting up H2 Database
+Connecting Java applications to an RDBMS
+Executing SQL commands
+Handling result of SQL SELECT statements
+Handling auto-incrementing primary key fields",영어,https://www.udemy.com/course/everything-you-need-to-know-about-jdbc/
+programming-languages,Python,Learn Basics Python : ISL Interpretation Included,초급자,무료,,온디맨드 동영상 1시간 47분,"What are Data types in Python, Conditional Statements, Control Statements
+Understanding Lists, Tuples, Dictionaries
+Learning Math functions, Number functions, String functions, Random functions, Time functions, User-defined functions, Lambda functions
+Knowledge around Modules, Files I/O, Exception Handling, Object-Oriented Programming, Decorators, Generators and Regular Expressions",영어,https://www.udemy.com/course/learn-python-sign-language-interpretation-included/
+programming-languages,Coding Interview,Java Coding Interview Preparation - Coding Exercises,모든 수준,무료,,온디맨드 동영상 36분,"Learn how to break down complex problems, devise efficient algorithms, and implement practical solutions using Java.
+Explore essential data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables.
+Course covers common types of interview questions asked in Java programming interviews, such as string manipulation, array manipulation, sort and search.
+Get practice on interview questions sourced from real-world company interview question stacks.",영어,https://www.udemy.com/course/java-coding-interview-preparation-coding-exercises/
+programming-languages,Perl,Introduction to Perl IRL,모든 수준,무료,,온디맨드 동영상 1시간 52분,"Budding Perl developers looking for a more ""real"" learning experience
+Professional Perl programmers looking to be reinvigorated with a passion for Perl
+Any Perl programmer or dabbler looking for insights, tips, and tricks imparted exciting live coding sessions
+Explore a little more about what Perl options exist on both Windows and Linux",영어,https://www.udemy.com/course/introduction-to-perl-irl/
+programming-languages,Mobile App Development,Dart Course for Beginners (Sinhala),모든 수준,무료,,온디맨드 동영상 1시간 16분,"learning how to code
+Have a strong foundation on Dart and is capable of jump starting with flutter
+How to work with IntelliJ IDEA",영어,https://www.udemy.com/course/dart-course-for-beginners-sinhala/
+programming-languages,C# (programming language),Quick Start - Learn programming in C#,초급자,무료,,온디맨드 동영상 1시간 59분,"You can write simple graphical apps.
+You can use instructions in your programs.
+You can use loops, conditional statements, and variables.
+You will learn the basics of object-oriented programming.",영어,https://www.udemy.com/course/quick-start-learn-programming-in-csharp/
+programming-languages,C (programming language),Fundamentals of Programming in C,초급자,무료,,온디맨드 동영상 1시간 35분,"Define and implement prints and variables in C
+Define and apply pointers for variables, arrays, and strings
+Create decision and repetition structures
+Build custom functions with regular and pointer arguments",영어,https://www.udemy.com/course/fundamentals-of-programming-in-c/
+software-testing,Selenium Testing Framework,Selenium WebDriver with C# for Beginners + Live Testing Site,모든 수준,무료,,온디맨드 동영상 1시간 22분,"Work with ID, Name, CSSPath and XPath selectors
+Work with Input boxes, Check boxes, Radio buttons, Alert boxes and more",영어,https://www.udemy.com/course/selenium-qa/
+software-testing,JMeter,JMeter - Step by Step for Beginners,모든 수준,무료,,온디맨드 동영상 8시간 2분,"Can use Jmeter for performance testing on multiple applications
+Understand Jmeter in an easy way
+Can start implementing performance testing",영어,https://www.udemy.com/course/jmeter-step-by-step-for-beginners/
+software-testing,Automation Testing,Katalon Studio - Step by Step for Beginners,초급자,무료,,온디맨드 동영상 10시간 25분,"Install and Run Katalon Studio
+Automate web applications using Katalon Studio
+Create web ui tests for multiple browsers
+Learn record and playback
+Find objects using object spy
+Execute web ui automation tests on multiple browsers
+Results and Reporting
+Send Email notification with results
+Integrate with Jenkins for Continuous Integration
+Integrate with Git (Version Control System)
+Work with Katalon Studio for personal and enterprise projects",영어,https://www.udemy.com/course/katalon-studio-step-by-step-for-beginners/
+software-testing,Selenium Testing Framework,Selenium Java Framework from Scratch,초급자,무료,,온디맨드 동영상 10시간 53분,"Create automation frameworks using Selenium in Java
+Understand the basic concepts and working of Selenium
+Understand the basic concepts of Automation Frameworks
+Will be able to create test automation framework step by step",영어,https://www.udemy.com/course/selenium-java-framework-from-scratch/
+software-testing,Selenium WebDriver,Selenium Webdriver: What are Implicit and Explicit Waits,중급자,무료,,온디맨드 동영상 1시간 20분,"Understand the importance of having good Synchronization
+Understand Explicit Waits
+Understand Implicit Waits
+Understand the WebDriverWait class
+Know how to use the WebDriverWait class
+Know how to use DefaultWait class aka FluentWait",영어,https://www.udemy.com/course/synchronization/
+software-testing,Selenium Testing Framework,Selenium Webdriver Automate 10 commercial Sites - Basics C1,초급자,무료,,온디맨드 동영상 3시간 5분,"This is a free course that would facilitate manual testers to step into automation and learn automating fundamental web forms using Selenium Webdriver.
+This is the first part of the sequence of courses which are intended for manual testers to master their automation skills. This course would supply you with skills to automate web forms with learning about vital web elements using Selenium Webdriver. It will also make you familiar with Java (Scripting Language), Eclipe (Compiler/tool used to write script) and insight of different browsers plug-ins. We highly urge you to get yourself enrolled with the Second Part of the Course that is ‘Advance Selenium Webdriver Automate 10 commercial Sites - C2” once you have accomplished this course.
+In ‘Advance Selenium Webdriver Automate 10 commercial Sites - C2” you will learn writing automation script immediately on working on real life industrial website. We have named it as Project. Once you have completed this course you will have a hands on experience of automating 10 Industrial Websites which will help you not only in gaining self-confidence but securing job as an Automation Engineer in many possible high profile Industrial domains.",영어,https://www.udemy.com/course/selenium-webdriver-learn-by-automating-10-commercial-sites/
+software-testing,JMeter,Master JMeter from Basics (Performance + Load + API Testing),모든 수준,무료,,온디맨드 동영상 8시간 47분,"Working of JMeter
+Developing Test Scenarios in JMeter
+Ways how to do performance Testing with JMeter
+Generate different types of Reports
+Integration of JMeter with Selenium
+JMeter advance Concepts
+Practicing Sessions
+Detail knowledge of JMeter Components",영어,https://www.udemy.com/course/master-jmeter-from-basics-performance-load-api-testing/
+software-testing,Robot Framework,Robot Framework | Step-by-Step for Beginners,모든 수준,무료,,온디맨드 동영상 2시간 45분,"How to use Robot Framework for browser automation
+How to setup Robot Framework
+How to use Robot framework with Selenium",영어,https://www.udemy.com/course/robot-framework-step-by-step-for-beginners/
+software-testing,Apache Groovy,Groovy | Step by Step for Beginners,모든 수준,무료,,온디맨드 동영상 5시간 32분,"What is Groovy
+Groovy from basics
+How to do Groovy programming",영어,https://www.udemy.com/course/groovy-step-by-step-for-beginners/
+software-testing,LoadRunner,Performance Testing HP Loadrunner (Updated),모든 수준,무료,,온디맨드 동영상 8시간 52분,"Learn latest HP Loadrunner Tool
+Concepts of Performance Testing
+Independtly using loadrunner in your project for Performance Testing",영어,https://www.udemy.com/course/performance-testing-hp-loadrunner-updated/
+software-testing,Robot Framework,Robot Framework|RIDE & Selenium - Step by Step for Beginners,모든 수준,무료,,온디맨드 동영상 2시간 38분,"Understand Robot Framework
+Create Selenium automation tests with Robot Framework",영어,https://www.udemy.com/course/robot-frameworkride-selenium-step-by-step-for-beginners/
+software-testing,Cypress.io,CYPRESS | Step-by-Step for Beginners | Hands-On Training,모든 수준,무료,,온디맨드 동영상 1시간 53분,"By the end of this course you will have practical hands-on knowledge on working with Cypress
+Understanding of all features and settings of CYPRESS
+You will be able to create Testing projects with CYPRESS
+Complete hands-on knowledge with Demo",영어,https://www.udemy.com/course/cypress-step-by-step-for-beginners-hands-on-training/
+software-testing,API Testing,API Testing with Katalon Studio - Step by Step for Beginners,초급자,무료,,온디맨드 동영상 6시간 8분,"Understand API Testing
+Create API testing automation project with Katalon Studio
+Use GIT for version control
+Use Jenkins for Continuous Integration
+Create automation testing for SOAP & REST web services",영어,https://www.udemy.com/course/api-testing-with-katalon-studio-step-by-step-for-beginners/
+software-testing,REST Assured,REST Assured Java Framework | Step by Step for Beginners,모든 수준,무료,,온디맨드 동영상 1시간 41분,"REST assured from scratch
+By the end of this course you will be able to create a complete REST assured API Testing framework in java
+Complete knowledge on how to add and run API requests in your framework
+How to do API XML and JSON response validation with REST Assured
+How to Add project to Git, Commit, Push and Clone projects
+Complete step-by-step hands-on knowledge with demo and examples",영어,https://www.udemy.com/course/rest-assured-java-framework-step-by-step-for-beginners/
+software-testing,Selenium Testing Framework,Selenium for Beginners using Java step by step,중급자,무료,,온디맨드 동영상 3시간 43분,"An easy to understand and Learn Selenium from Scratch
+Using Java with Selenium
+Build selenium tests with chrome driver and Selenium",영어,https://www.udemy.com/course/selenium-using-java-for-automation-test-development/
+software-testing,Software Testing,Mocking application with Moq,중급자,무료,,온디맨드 동영상 1시간 9분,"Understand what Mocking framework is all about
+How to work with Moq
+How to abstract the real implementation with Mock implementation
+How to apply Moq framework in development and Testing",영어,https://www.udemy.com/course/moq-framework/
+software-testing,Software Testing,Become Software Tester - A Complete Learning path to be a QA,초급자,무료,,온디맨드 동영상 1시간 17분,"Basic of Software Testing
+What are the Scope of Software testing
+How to Start career in Software testing
+What to learn to become a Software Tester
+Understand Software Testing field with Live demo
+This course will give you high level Overview & Learning About Testing field.",영어,https://www.udemy.com/course/become-software-tester/
+software-testing,Nightwatch.js,Nightwatch.js Quick Start Guide,초급자,무료,,온디맨드 동영상 57분,"Web automation with Nightwatch
+web page testing
+test automation for the web",영어,https://www.udemy.com/course/nightwatch-quick-start-guide/
+software-testing,Java,AssertJ: Fluent Assertion In Test Automation,모든 수준,무료,,온디맨드 동영상 1시간 6분,"Basics of AssertJ
+Writing Fluent Assertions For Selenium Automation Tests
+Extend Assertions For Page Objects
+Extend Assertions For WebElements",영어,https://www.udemy.com/course/assertj-fluent-assertion-in-test-automation/
+software-testing,JMeter,JMeter 2021 | Short Course | Step by Step for Beginners,모든 수준,무료,,온디맨드 동영상 2시간,"JMeter Step by Step from scratch
+How to use JMeter for projects
+Basics and Features
+Complete overview with hands-on practice and demo",영어,https://www.udemy.com/course/jmeter-2021-short-course-step-by-step-for-beginners/
+software-testing,Automation Testing,Getting Started With TestProject,초급자,무료,,온디맨드 동영상 47분,Students in the course will learn how to use the powerful test automation tool TestProject,영어,https://www.udemy.com/course/getting-started-with-testproject/
+software-testing,Automation Testing,Creating and working with automation test report using EARS,중급자,무료,,온디맨드 동영상 3시간 11분,"Understand how to build test automation reporting portal
+Understand how to work with building web services
+Understand building test harness system with powershell
+Understand building extendability in code",영어,https://www.udemy.com/course/creating-automation-reports-with-ears/
+software-testing,API Testing,Intro to Manual and Automated API testing with Postman,모든 수준,무료,,온디맨드 동영상 1시간 52분,"Detailed understanding of REST, REST architectural constraints, client-server architecture and HTTP request-response pair
+Basic knowledge about RESTful APIs and JSON
+Introduction to the manual API testing
+Introduction to the Postman Automated API Testing",영어,https://www.udemy.com/course/introduction-to-api-testing-for-beginners/
+software-testing,Resume and CV Writing,Fix an average SDET resume to be shortlisted+ Interview tips,모든 수준,무료,,온디맨드 동영상 1시간 2분,"Preparing a Credible Resume
+Tips to get Resume shortlisted
+SDET Interview process
+Interview advice",영어,https://www.udemy.com/course/sdet-resume-and-interview-tips/
+software-testing,Automation Testing,Cucumber & Java & Selenium automation framework - JASECU,초급자,무료,,온디맨드 동영상 1시간 59분,Setup of Jasecu UI & API automation testing framework from zero also for absolute beginners,영어,https://www.udemy.com/course/jasecu-ui-api-automation-framewok/
+software-testing,Software Testing,Intro to the Manual Software Testing Interview (Q&A for QA),모든 수준,무료,,온디맨드 동영상 1시간 58분,"Answers to the Top 10 Software Testing Theory Interview questions
+Each answer includes real-life practical example, which helps to better understand the theory
+Each answer includes a video for those who prefer visual content
+Each answer includes an article for those who to read and analyze thoughtfully",영어,https://www.udemy.com/course/intro-to-the-manual-software-testing-interview-qa-for-qa/
+software-testing,Automation Testing,Sauce Labs Masterclass: Advanced Test Automation,전문가,무료,,온디맨드 동영상 1시간 57분,"How to sign up for a free trial of Sauce Labs
+How to run data driven cross-browser test automation in Sauce Labs
+How to execute test automation in parallel using NUnit
+Advantages and disadvantages of running tests on Sauce Labs
+Manual cross-browser testing
+How to run your Selenium tests on the Sauce Labs cloud
+How to configure custom Sauce Labs capabilities
+How to set Sauce Labs timeouts
+How to set test names
+Sauce Labs Analytics",영어,https://www.udemy.com/course/sauce-labs/
+software-testing,Automation Testing,Using UFT Developer for WPF Desktop Apps (Basic Course),초급자,무료,,온디맨드 동영상 1시간 44분,"UI Testautomation with UFT Developer
+Building Basic Test Scripts
+Working with Object Identification Center
+Working with Application Models
+Using Reporter Object
+Define Custom Checkpoints
+Use Visual Relation Identifiers
+Parametrization and Data Driven Testing
+Build Reusable Functions",영어,https://www.udemy.com/course/using-uft-developer-for-wpf-desktop-apps-basic-course/
+software-testing,Software Development,ALM Octane - The Basics for Developers,초급자,무료,,온디맨드 동영상 1시간 59분,"ALM Octane Developer Access Overview
+IDE Integration - Access Octane artifacts from your IDE
+CI Integration - Get build insights from your pipeline
+Integration of Selenium Tests as part of the pipeline
+Define parameter sets for your pipeline",영어,https://www.udemy.com/course/alm-octane-the-basics-for-developers/
+software-testing,Automation Testing,Using UFT Developer for Web Apps (Visual Studio and Csharp),초급자,무료,,온디맨드 동영상 1시간 59분,"UI Testautomation with UFT Developer
+Building Basic Test Scripts
+Working with Object Identification Center
+Working with Application Models
+Using Reporter Object
+Define Custom Checkpoints
+Screen Recording
+Parametrization
+Data Driven Testing
+Reusable Functions",영어,https://www.udemy.com/course/using-uft-developer-for-web-apps-visual-studio-and-csharp/
+software-testing,Cypress.io,Cypress 10 Component Testing Tutorial,중급자,무료,,온디맨드 동영상 30분,"How to Install Cypress 10
+Set Up & Mounting A Component
+Code a component test
+Implement A Test Spy
+Benefits of using component test",영어,https://www.udemy.com/course/cypress-10-component-testing-tutorial/
+software-testing,Selenium WebDriver,"Selenium with Headless Chrome Browser, HTMLUnit & PhantomJs",초급자,무료,,온디맨드 동영상 55분,"Selenium Headless Browser Testing
+Integration of Powerful PhantomJs headless browser and it's features
+Integration of headless Chrome browser
+Integration of HtmlUnitDriver",영어,https://www.udemy.com/course/selenium-with-headless-chrome-browser-htmlunit-phantomjs/
+software-testing,Selenium WebDriver,Selenium 4.0 Observability,중급자,무료,,온디맨드 동영상 1시간 29분,"Observability
+Selenium
+Selenium Webdriver
+Observability with Selenium",영어,https://www.udemy.com/course/selenium4observability/
+software-testing,Selenium Testing Framework,Selenium Automation in Excel,모든 수준,무료,,온디맨드 동영상 1시간 1분,"Learn how to install Selenium
+Learn Selenium framework in Excel.
+Learn how to automate sending emails, inserting data, copying data and saving it in Excel
+Send emails with Attachments",영어,https://www.udemy.com/course/selenium-automation-in-excel/
+software-testing,JUnit,Testes Unit?rios em Java Utilizando o JUnit,모든 수준,무료,,온디맨드 동영상 1시간 54분,"Dominar os fundamentos do teste automático de software
+Aprenderá a utilizar o JUnit para construir testes automáticos, porém, poderá utilizar qualquer outra ferramenta no lugar do JUnit (ver explicação na descrição do curso)
+[Bônus 01] 1h de consultoria/coaching particular com Gustavo Farias com 50% de desconto",포르투갈어,https://www.udemy.com/course/testes-unidade-automaticos-software-junit/
+software-testing,Java,Test Driven Development con Java y Junit5,초급자,무료,,온디맨드 동영상 1시간 4분,Entender qué quiere decir TDD y empezar a diseñar software con esta técnica.,스페인어,https://www.udemy.com/course/testdrivendevelopment/
+software-testing,Automation Testing,Introdu??o aos testes automatizados,모든 수준,무료,,온디맨드 동영상 1시간 42분,Aprenda conceitos de automação de testes em diferentes camadas da aplicação para o desenvolvimento de sistemas de alta qualidade,포르투갈어,https://www.udemy.com/course/introducao-aos-testes-automatizados/
+software-testing,Software Testing,Unit Testing en C#,초급자,무료,,온디맨드 동영상 1시간 58분,Unit testing automatizado,스페인어,https://www.udemy.com/course/unit-testing-nicopaez/
+software-testing,Quality Management,Pengenalan Quality Engineering Di Dunia Industri,초급자,무료,,온디맨드 동영상 32분,"konsep kualitas dan menganalisis Biaya Kualitas Total
+memahami dan mengimplementasikan Alat Kualitas dalam peningkatan proses.
+mengklasifikasikan diagram kontrol untuk data variabel dan atribut, dan mengimplementasikan diagram kontrol sebagai alat dalam Kontrol Proses Statistik.
+emahami pentingnya kualitas dalam pemasok, dan mendefinisikan Sistem Manajemen Mutu.",Indonesian,https://www.udemy.com/course/quality-engineering/
+software-testing,Software Testing,Что такое тестирование и кто такой тестировщик 2020,모든 수준,무료,,온디맨드 동영상 36분,"По окончании этого курса Вы узнаете кто такой Тестировщик программного обеспечения,и чем он занимается.",러시아어,https://www.udemy.com/course/who_is_software_tester/
+software-testing,Software Testing,Curs introductiv de Testare Software,초급자,무료,,온디맨드 동영상 53분,"De ce avem nevoie de QA
+Ce face un QA
+Cum se planifica si executa testarea
+Cum se scriu rapoarte de bug",루마니아어,https://www.udemy.com/course/curs-introductiv-de-testare-software-qa/
+software-testing,,Cypress Discovery Light Version,초급자,무료,,온디맨드 동영상 1시간 51분,"Programar em Javascript, a linguagem universal
+Criar testes automatizados de ponta a ponta
+Como manipular principais os elementos encontrados em aplicações web
+Automatizar testes de regressão",포르투갈어,https://www.udemy.com/course/cypress-discovery-light-version/
+software-testing,Software Testing,Learn OpenBullet from scratch,모든 수준,무료,,온디맨드 동영상 1시간 59분,"معرفة أهم اساسيات برنامج OpenBullet
+التعرف على Proxies و Wordlist وكيفية اضافتها الى البرنامج
+اساسيات صناعة config
+القدرة على صناعة config",Arabic,https://www.udemy.com/course/learn-openbullet-from-scratch/
+software-testing,Unit Testing,Curso de teste unit?rio com QUnit,모든 수준,무료,,온디맨드 동영상 1시간 5분,"Teste Unitário
+QUnit",포르투갈어,https://www.udemy.com/course/curso-de-teste-unitario-com-qunit/
+software-testing,Automation Testing,T?ng quan v? ki?m th? t? đ?ng,초급자,무료,,온디맨드 동영상 1시간 9분,"Nắm được kiến thức tổng quan về kiểm thử tự động
+Nắm được kiến thức về các công cụ kiểm thử tự động
+Nắm được kiến thức để lựa chọn đúng công cụ kiểm thử tự động cho dự án
+Sử dụng được công cụ kiểm thử tự động akaAT",Vietnamese,https://www.udemy.com/course/automation-test-fundamental/
+software-testing,Software Testing,Pengujian Proyek Sistem Informasi,초급자,무료,,온디맨드 동영상 1시간 17분,"Student akan memahami pengujian dasar, STLC, dan peran dari penguji
+Student akan memahami sirkumtansi tes untuk menerapkan tes
+Student akan memahami tingkat pengujian dan tahu bagaimana bekerja dengan tingkatan pengujian tersebut
+diharapkan dapat menjalankan pengujian untuk sistem/ aplikasi/ perangkat lunak yang kini sudah sangat banyak pemakaiannya",Indonesian,https://www.udemy.com/course/pengujian-proyek-sistem-informasi/
+software-testing,Software Testing,工程總監帶?學軟體測試 Learn QA testing with engineering director,초급자,무료,,온디맨드 동영상 35분,"用正確態度的面對軟體品質
+認識品質的重要性
+清楚了解測試工程師的角色定位和工作內容
+設計Test case的多種思考方法
+理解優先級的重要性",Traditional Chinese,https://www.udemy.com/course/learn-qa-testing-with-engineering-director/
+software-testing,Software Testing,Werde ein Superheld des Software Testings,초급자,무료,,온디맨드 동영상 1시간 35분,"Grundlagen im Umgang mit MicroFocus ALM/Quality Center
+Best Practices in MicroFocus ALM/Quality Center",독일어,https://www.udemy.com/course/alm_basics-werde_ein_superheld_des_software_testings/
