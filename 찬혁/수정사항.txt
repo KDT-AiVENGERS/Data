@@ -26,3 +26,7 @@
 - 크롤링한 csv 파일 회의를 통해 지정한 column에 맞게 전처리후 concat 진행
 - 최종 데이터는 Data_Pretreatment/Data_result/pre_result.csv로 저장
 - udemy data pretreatmet를 위한 간단한 코드 작성(Carriculum_modify.ipynb)
+
+7.23 수정사항
+
+- jobplanet 크롤링 데이터 추가 수집됨 -> 데이터 전처리 후 pre_result.csv파일에 데이터 추가
