@@ -4,4 +4,6 @@ Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추�
   
 # Data Set📌
 1. 채용공고 데이터(Wanted, Jumpit, Jobplanet)  
-2. 강의 데이터(Udemy)
+2. 강의 데이터(Udemy)  
+
+(ERD그림)
