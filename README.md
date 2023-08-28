@@ -11,9 +11,9 @@ Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추�
   
 1. 채용공고 데이터(Wanted, Jumpit, Jobplanet)  
 2. 강의 데이터(Udemy)  
-
-(ERD그림)
-
+  
+<img src="https://github.com/KDT-AiVENGERS/Data/assets/77615059/829167af-8fb6-4530-a058-f594ca435bc5" width=700 height=600>
+  
 # Data Preprocessing📌
 - **채용공고 데이터**는 기 훈련된 BERT 모델의 Domain Adaptation을 위한 MLM 방식 훈련에 사용하기 위하여 중복제거, 데이터 표준화 등의 전처리를 수행하였습니다.
 - **강의 데이터**는 강의추천 알고리즘에 활용할 목적으로 데이터 형식 및 타입을 통일하고 결측치를 제거하는 등의 전처리를 수행하였습니다.
