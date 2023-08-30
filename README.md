@@ -47,8 +47,8 @@ Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추�
 - 추가적인 데이터가 들어오면 같은 frame으로 만들어 질 수 있도록 작성하였습니다.
   
 #### 강의 데이터 처리
+[강의 데이터 처리 Code](https://github.com/KDT-AiVENGERS/PolarStar-Data/blob/develop/%EC%9E%AC%ED%98%84/udemy_csv/%EC%B5%9C%EC%A2%85/udemy%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC.ipynb)
 - 강의추천 로직에 주요하게 쓰일 강의소개 Column부분이 결측인 데이터는 삭제처리하였습니다. 제공 언어와 강의소개에 쓰인 언어가 다른 강의를 이상치로 판별하여 제거하였습니다.
 - 가격 Column의 숫자 형식을 통일하였고 무료인 경우 0으로 대치하였습니다. 총 소요시간 Column의 경우 H시간 MM분 형태로 통일하여 데이터를 표준화 하였습니다.
 - 서비스 대상 유저가 대중적으로 사용할 것으로 예상되는 한국어, 영어 강의만을 선택하였습니다.  
   
-<span style="color:red">각 처리 코드에 대한 링크??</span>  
