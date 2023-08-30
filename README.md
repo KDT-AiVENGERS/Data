@@ -37,6 +37,7 @@ Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추�
   
 ### Data Preprocessing
 #### 공고 데이터 처리
+[공고 데이터 처리 Code](https://github.com/KDT-AiVENGERS/PolarStar-Data/blob/develop/%EC%B0%AC%ED%98%81/Data_Pretreatment/Announcement_modify.ipynb)  
 - 사이트 별로 상이한 column을 “회사명, 지원기간, 공고명, 직무내용, 자격요건, 우대조건, 경력조건, 기술 스택, 출처 URL, 복지, 회사소개, 주요업무”로 통일하였습니다.
 - 크롤링 과정에서 결측된 부분은 채워주는 방식을 사용하였고 그 외 결측치 행은 삭제를 진행하였습니다.
 - 경력조건 column의 내용은 사이트별로 내용이 상이하여 정규표현식을 사용하여 n년이상의 경력이면 n으로 신입은 0으로 정수형으로 처리 하였습니다.
