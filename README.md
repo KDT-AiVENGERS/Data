@@ -31,7 +31,7 @@ Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추�
 
 # Details📌
 ### Crawling Code Develop  
-[Crawling Code 예시](https://github.com/KDT-AiVENGERS/PolarStar-Data/tree/develop/%EC%8A%B9%EB%A6%BC/01_JD_wanted)  
+[Crawling Code 예시](https://github.com/KDT-AiVENGERS/PolarStar-Data/blob/develop/%EC%8A%B9%EB%A6%BC/01_JD_wanted/crawl_baseline_ver02.py)  
 - 크롤링 시, **네트워크 불안정 혹은 Keyboard Interruption 등**으로 수집을 일시정지해야 하는 경우에 대비하기 위해 pkl 파일로 수집현황을 저장하여 원활한 크롤링이 진행될 수 있도록 코드를 develop하였습니다.  
 - 개인 PC 환경에 따라 **인터넷 속도 차이로 인한 데이터 손실 문제**가 발생하는 것을 확인하고, 팀원별로 데이터 수집 현황을 체크하며 sleep 시간 변경 혹은 일정량 크롤링 후 chromedriver를 close 후 재실행 처리하는 등의 추가 작업을 수행하였습니다.  
   
