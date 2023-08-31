@@ -3,7 +3,7 @@
 # Data repository📌
 Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추천에 사용된 **데이터의 수집 및 전처리**를 수행하기 위한 목적으로 만들어졌습니다.  
 팀원 개인별 폴더를 만들어 각자 담당한 출처에서 데이터를 수집하는 코드를 작성 및 실행하였으며, 지속적으로 상호 연락하며 보완하는 과정을 거쳐 데이터를 수집하고 처리하였습니다. 뿐만 아니라 수집한 데이터를 활용해 EDA, 형태소 분석, 단어 임베딩 등 Task에 활용해 볼 법한 사항들을 실험하기도 하였습니다.  
-
+  
   
 # Data Collection📌
 공고데이터의 경우 총 5개의 사이트를 수집하였으나 수집 데이터 처리의 시간비용을 고려하여 **3개 사이트**에서 수집한 데이터만을 활용하였습니다. 수집한 데이터와 출처사이트는 아래와 같습니다.  
@@ -12,20 +12,20 @@ Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추�
 2. 강의 데이터(Udemy)  
   
 <p align='center'><img src="https://github.com/KDT-AiVENGERS/Data/assets/77615059/118d5f8c-a7f0-4dba-a3ba-d7d866ea513f" height=350></p>
-
+  
   
 # Data Preprocessing📌
 - **채용공고 데이터**는 기 훈련된 BERT 모델의 Domain Adaptation을 위한 MLM 방식 훈련에 사용하기 위하여 중복제거, 데이터 표준화 등의 전처리를 수행하였습니다.
 - **강의 데이터**는 강의추천 알고리즘에 활용할 목적으로 데이터 형식 및 타입을 통일하고 결측치를 제거하는 등의 전처리를 수행하였습니다.
   
 <p align='center'><img src="https://github.com/KDT-AiVENGERS/Data/assets/77615059/bda23fad-b379-4520-94c0-ce0fed89074b" height=420></p>
-
+  
   
 # Libraries📌
 1. Selenium, BeautifulSoup Pandas, Numpy, matplotlib, seaborn, Scikit-learn  
 2. Konlpy(Okt, Mecab, Hannanum), nltk
 3. Customized Konlpy
-
+  
   
 # Details📌
 ### Crawling Code Develop  
@@ -49,7 +49,7 @@ Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추�
 - 강의추천 로직에 주요하게 쓰일 강의소개 Column부분이 결측인 데이터는 삭제처리하였습니다. 제공 언어와 강의소개에 쓰인 언어가 다른 강의를 이상치로 판별하여 제거하였습니다.
 - 가격 Column의 숫자 형식을 통일하였고 무료인 경우 0으로 대치하였습니다. 총 소요시간 Column의 경우 H시간 MM분 형태로 통일하여 데이터를 표준화 하였습니다.
 - 서비스 대상 유저가 대중적으로 사용할 것으로 예상되는 한국어, 영어 강의만을 선택하였습니다.  
-  
+    
   
 # Retrospection📌
 - 인크루트, 사람인 사이트 크롤링 코드를 작성했지만 데이터 수집을 진행하지 않았습니다. 이미지 데이터, 연결링크 등 처리가 복잡한 데이터가 많이 나왔기 때문에 시간 제약상 힘들다고 판단했기 때문입니다. 그래서 기획단계에서 이미지 데이터에 대해 Donut 모형 등을 적용해 text를 추출해 보는 것 까지 생각했으나 실행하지 못했습니다. 추후 프로젝트를 Develop하게 된다면 추가 데이터 수집과 함께 수행해보고 싶은 사항입니다.  
