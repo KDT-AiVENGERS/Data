@@ -3,6 +3,7 @@
 # Data repository📌
 Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추천에 사용된 **데이터의 수집 및 전처리**를 수행하기 위한 목적으로 만들어졌습니다.  
 팀원 개인별 폴더를 만들어 각자 담당한 출처에서 데이터를 수집하는 코드를 작성 및 실행하였으며, 지속적으로 상호 연락하며 보완하는 과정을 거쳐 데이터를 수집하고 처리하였습니다. 뿐만 아니라 수집한 데이터를 활용해 EDA, 형태소 분석, 단어 임베딩 등 Task에 활용해 볼 법한 사항들을 실험하기도 하였습니다.  
+
   
 # Data Collection📌
 공고데이터의 경우 총 5개의 사이트를 수집하였으나 수집 데이터 처리의 시간비용을 고려하여 **3개 사이트**에서 수집한 데이터만을 활용하였습니다. 수집한 데이터와 출처사이트는 아래와 같습니다.  
@@ -11,18 +12,21 @@ Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추�
 2. 강의 데이터(Udemy)  
   
 <img src="https://github.com/KDT-AiVENGERS/Data/assets/77615059/118d5f8c-a7f0-4dba-a3ba-d7d866ea513f" width=700 height=350>
+
   
 # Data Preprocessing📌
 - **채용공고 데이터**는 기 훈련된 BERT 모델의 Domain Adaptation을 위한 MLM 방식 훈련에 사용하기 위하여 중복제거, 데이터 표준화 등의 전처리를 수행하였습니다.
 - **강의 데이터**는 강의추천 알고리즘에 활용할 목적으로 데이터 형식 및 타입을 통일하고 결측치를 제거하는 등의 전처리를 수행하였습니다.
   
 <img src="https://github.com/KDT-AiVENGERS/Data/assets/77615059/bda23fad-b379-4520-94c0-ce0fed89074b" width=650 height=420> 
+
   
 # Libraries📌
 1. Selenium, BeautifulSoup Pandas, Numpy, matplotlib, seaborn, Scikit-learn  
 2. Konlpy(Okt, Mecab, Hannanum), nltk
 3. Customized Konlpy
 
+  
 # Details📌
 ### Crawling Code Develop  
 [JD Crawling Code 예시](https://github.com/KDT-AiVENGERS/PolarStar-Data/blob/develop/%EC%8A%B9%EB%A6%BC/01_JD_wanted/crawl_baseline_ver02.py)   
@@ -46,5 +50,6 @@ Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추�
 - 가격 Column의 숫자 형식을 통일하였고 무료인 경우 0으로 대치하였습니다. 총 소요시간 Column의 경우 H시간 MM분 형태로 통일하여 데이터를 표준화 하였습니다.
 - 서비스 대상 유저가 대중적으로 사용할 것으로 예상되는 한국어, 영어 강의만을 선택하였습니다.  
 
+  
 # Retrospection📌
 - 형태소 분석을 통해 공고상 중복되어 등장하게 되는 의미없는 듯한 단어들(~하신 분, 경험 etc..)을 제거하여 Input으로 활용했을 때 성능을 비교해 보고자 하였습니다. 분석 및 불용어 선택까지는 진행이 되었으나 시간상 제약으로 모델학습 및 비교작업까지 진행하지는 못하였습니다.
