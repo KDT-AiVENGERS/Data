@@ -1,4 +1,4 @@
-[북극성 통합 repository 바로가기](https://github.com/KDT-AiVENGERS/.github/tree/develop/profile/polarstar)  
+[북극성 서비스 정보 바로가기](https://github.com/KDT-AiVENGERS/PolarStar_Info)  
   
 # Data repository📌
 Data 저장소는 북극성 프로젝트의 채용공고 추천 및 강의 추천에 사용된 **데이터의 수집 및 전처리**를 수행하기 위한 목적으로 만들어졌습니다.  
